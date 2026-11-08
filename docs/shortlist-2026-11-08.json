@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
-  "published_est": "2026-11-08T09:20:09-05:00",
-  "odds_reported_at_est": "2026-11-08T08:00:00-05:00",
+  "published_est": "2026-11-08T10:20:01-05:00",
+  "odds_reported_at_est": "2026-11-08T09:00:28-05:00",
   "odds_source": "https://agentbets.ai/odds/fanduel/nfl/",
   "pa_md_prices_verified": false,
   "fully_cleared": false,
@@ -39,9 +39,9 @@
           ],
           "start_at": "2026-11-08T13:00:00-05:00",
           "event_key": "espn-nfl-401873042",
-          "checked_at": "2026-11-08T09:20:09-05:00",
+          "checked_at": "2026-11-08T10:20:01-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
-          "price_quoted_at": "2026-11-08T08:00:28-05:00",
+          "price_quoted_at": "2026-11-08T09:00:28-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
           "availability_source": "https://www.nfl.com/injuries/",
@@ -69,9 +69,9 @@
           ],
           "start_at": "2026-11-08T16:05:00-05:00",
           "event_key": "espn-nfl-401873046",
-          "checked_at": "2026-11-08T09:20:09-05:00",
+          "checked_at": "2026-11-08T10:20:01-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
-          "price_quoted_at": "2026-11-08T08:00:28-05:00",
+          "price_quoted_at": "2026-11-08T09:00:28-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
           "availability_source": "https://www.nfl.com/injuries/",
@@ -146,9 +146,9 @@
           ],
           "start_at": "2026-11-08T13:00:00-05:00",
           "event_key": "espn-nfl-401873040",
-          "checked_at": "2026-11-08T09:20:09-05:00",
+          "checked_at": "2026-11-08T10:20:01-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
-          "price_quoted_at": "2026-11-08T08:00:28-05:00",
+          "price_quoted_at": "2026-11-08T09:00:28-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
           "availability_source": "https://www.nfl.com/injuries/",
@@ -159,7 +159,7 @@
         {
           "team": "New England Patriots",
           "market": "Moneyline",
-          "american_odds": -174,
+          "american_odds": -178,
           "event": "Green Bay Packers @ New England Patriots",
           "start_est": "2026-11-08 4:25 PM EST",
           "venue": "Gillette Stadium",
@@ -174,9 +174,9 @@
           ],
           "start_at": "2026-11-08T16:25:00-05:00",
           "event_key": "espn-nfl-401873049",
-          "checked_at": "2026-11-08T09:20:09-05:00",
+          "checked_at": "2026-11-08T10:20:01-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
-          "price_quoted_at": "2026-11-08T08:00:28-05:00",
+          "price_quoted_at": "2026-11-08T09:00:28-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
           "availability_source": "https://www.nfl.com/injuries/",
@@ -185,7 +185,7 @@
           "weather_status": "Outdoor Gillette Stadium. This withdrawn card was not re-cleared as a staged outdoor pick; prior early forecast is not a live observation."
         }
       ],
-      "theoretical_decimal_return": 2.290491118077325,
+      "theoretical_decimal_return": 2.27170582226762,
       "result": "UNSETTLED_RESEARCH",
       "link_mode": "selection_bearing_universal_link_cached_ids_live_acceptance_unverified",
       "betslip_link_pa": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=742.194080498&selectionId%5B0%5D=50189&marketId%5B1%5D=742.194080883&selectionId%5B1%5D=50204",
@@ -252,9 +252,9 @@
           ],
           "start_at": "2026-11-08T13:00:00-05:00",
           "event_key": "espn-nfl-401873043",
-          "checked_at": "2026-11-08T09:20:09-05:00",
+          "checked_at": "2026-11-08T10:20:01-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
-          "price_quoted_at": "2026-11-08T08:00:28-05:00",
+          "price_quoted_at": "2026-11-08T09:00:28-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
           "availability_source": "https://www.nfl.com/injuries/",
@@ -281,9 +281,9 @@
           ],
           "start_at": "2026-11-08T13:00:00-05:00",
           "event_key": "espn-nfl-401873041",
-          "checked_at": "2026-11-08T09:20:09-05:00",
+          "checked_at": "2026-11-08T10:20:01-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
-          "price_quoted_at": "2026-11-08T08:00:28-05:00",
+          "price_quoted_at": "2026-11-08T09:00:28-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
           "availability_source": "https://www.nfl.com/injuries/",
@@ -352,16 +352,16 @@
   "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
   "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
   "schema_version": 2,
-  "last_checked_at": "2026-11-08T09:20:09-05:00",
+  "last_checked_at": "2026-11-08T10:20:01-05:00",
   "policies": {
     "max_price_age_minutes": 120,
     "max_review_age_minutes": 75
   },
-  "research_scope": "NFL moneylines rechecked against the official Week 9 injury report, ESPN Nov 8 scoreboard, StatsNext/Football Database season offense figures, Open-Meteo venue forecasts, and an 8:00 AM EST AgentBets FanDuel snapshot. NHL and NBA screened again; no additional cards passed the evidence, availability, or independently established selection-ID checks. Other FanDuel markets remain eligible, not automatically suitable.",
+  "research_scope": "NFL moneylines rechecked against the official Week 9 injury report, ESPN Nov 8 scoreboard, StatsNext/Football Database season offense figures, Open-Meteo venue forecasts, and an 9:00 AM EST AgentBets FanDuel snapshot. NHL and NBA screened again; no additional cards passed the evidence, availability, or independently established selection-ID checks. Other FanDuel markets remain eligible, not automatically suitable.",
   "research_holds": [
     {
       "title": "NHL: no new card staged",
-      "reason": "Daily Faceoff still lists 0 of 12 Sunday goalies as confirmed. Projected names are not official starters. An 8:00 AM EST AgentBets FanDuel NHL snapshot exists, but prices alone do not establish an advantage or replace lineup confirmation.",
+      "reason": "Daily Faceoff still lists 0 of 12 Sunday goalies as confirmed. Projected names are not official starters. An 9:00 AM EST AgentBets FanDuel NHL snapshot exists, but prices alone do not establish an advantage or replace lineup confirmation.",
       "sources": [
         "https://www.dailyfaceoff.com/starting-goalies/2026-11-08",
         "https://agentbets.ai/odds/fanduel/nhl/"
@@ -395,6 +395,10 @@
     {
       "at": "2026-11-08T09:20:09-05:00",
       "text": "Hourly review: AgentBets FanDuel NFL snapshot is still 8:00 AM EST (1:00 PM UTC); staged and withdrawn moneylines unchanged. NFL.com's Sunday pregame tracker adds Rapoport's report that Amon-Ra St. Brown is expected to play (Pelissero earlier said good to go) and that Miami RB Jaylen Wright won't play; no new reports on Rams, Commanders, Broncos, Panthers, Texans or Chargers players. Final inactives still due around 11:30 AM EST. Retained Lions/Texans and Rams/Broncos as conditional; Cowboys/Patriots remain withdrawn. Removed the Bengals-Falcons screen note because that 9:30 AM EST game is starting."
+    },
+    {
+      "at": "2026-11-08T10:20:01-05:00",
+      "text": "Hourly review: AgentBets FanDuel NFL snapshot advanced to 9:00 AM EST (2:00 PM UTC); staged moneylines unchanged (DET -295, HOU -240, LAR -235, DEN -146). NFL.com's Sunday pregame tracker has no new reports on Lions, Texans, Rams, Broncos, Commanders, Panthers, Dolphins or Chargers beyond St. Brown expected to play and Jaylen Wright out. Official final inactives for 1:00 PM games are still due around 11:30 AM EST; listed OUT players match the Friday report. Retained Lions/Texans and Rams/Broncos as conditional; Cowboys/Patriots remain withdrawn. No NHL/NBA card added."
     }
   ]
 }
