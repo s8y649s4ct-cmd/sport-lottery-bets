@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
-  "published_est": "2026-11-08T12:22:55-05:00",
-  "odds_reported_at_est": "2026-11-08T12:00:28-05:00",
+  "published_est": "2026-11-08T13:19:41-05:00",
+  "odds_reported_at_est": "2026-11-08T13:00:28-05:00",
   "odds_source": "https://agentbets.ai/odds/fanduel/nfl/",
   "pa_md_prices_verified": false,
   "fully_cleared": false,
@@ -83,7 +83,7 @@
         }
       ],
       "theoretical_decimal_return": 1.8736559139784945,
-      "result": "UNSETTLED_RESEARCH",
+      "result": "PENDING_IN_PROGRESS_NOT_GRADED",
       "link_mode": "selection_bearing_universal_link_cached_ids_live_acceptance_unverified",
       "betslip_link_pa": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=742.194080730&selectionId%5B0%5D=50193&marketId%5B1%5D=742.194080802&selectionId%5B1%5D=179823",
       "betslip_link_md": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=724.194219471&selectionId%5B0%5D=50193&marketId%5B1%5D=724.194219532&selectionId%5B1%5D=179823",
@@ -119,7 +119,7 @@
           "event_key": "espn-nfl-401873046"
         }
       ],
-      "status_reason": "Official 1:00 PM EST Lions and Dolphins inactives are unchanged (St. Brown not listed inactive; Wright inactive). Houston’s 4:05 PM EST inactives are still ahead, typically around 2:35 PM EST. The 12:00 PM EST AgentBets snapshot left DET -310 and HOU -240 unchanged. Await those inactives, current PA/MD prices and live selection acceptance. These are researched candidates, not ready-to-bet or guaranteed winners.",
+      "status_reason": "BEGUN / IN PROGRESS — not bettable. Posted version preserved as last published at 12:22 PM EST with the 12:00 PM EST AgentBets prices shown. At least one leg kicked off at 1:00 PM EST; no official final result yet, so this card is pending and not graded. Official 1:00 PM EST Lions and Dolphins inactives are unchanged (St. Brown not listed inactive; Wright inactive). Houston’s 4:05 PM EST inactives are still ahead, typically around 2:35 PM EST. The 12:00 PM EST AgentBets snapshot left DET -310 and HOU -240 unchanged. Await those inactives, current PA/MD prices and live selection acceptance. These are researched candidates, not ready-to-bet or guaranteed winners.",
       "availability_confirmed": false,
       "price_live_verified": false,
       "link_live_verified": false
@@ -300,7 +300,7 @@
         }
       ],
       "theoretical_decimal_return": 2.3096500530222692,
-      "result": "UNSETTLED_RESEARCH",
+      "result": "PENDING_IN_PROGRESS_NOT_GRADED",
       "link_mode": "selection_bearing_universal_link_cached_ids_live_acceptance_unverified",
       "betslip_link_pa": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=742.194080827&selectionId%5B0%5D=10782388&marketId%5B1%5D=742.194080483&selectionId%5B1%5D=50211",
       "betslip_link_md": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=724.194219571&selectionId%5B0%5D=10782388&marketId%5B1%5D=724.194219223&selectionId%5B1%5D=50211",
@@ -336,10 +336,122 @@
           "event_key": "espn-nfl-401873041"
         }
       ],
-      "status_reason": "Official 1:00 PM EST inactives are unchanged: Rams CB Trent McDuffie and Broncos S Talanoa Hufanga are inactive. Kamren Curl is not on the Rams list; Pat Bryant and Dondrea Tillman are not on the Broncos list. The 12:00 PM EST AgentBets snapshot moved LAR -220 to -230 and DEN -152 to -164. This remains the weaker reserve because of those confirmed secondary absences. Await current PA/MD prices and live selection acceptance. These are researched candidates, not ready-to-bet or guaranteed winners.",
+      "status_reason": "BEGUN / IN PROGRESS — not bettable. Posted version preserved as last published at 12:22 PM EST with the 12:00 PM EST AgentBets prices shown. At least one leg kicked off at 1:00 PM EST; no official final result yet, so this card is pending and not graded. Official 1:00 PM EST inactives are unchanged: Rams CB Trent McDuffie and Broncos S Talanoa Hufanga are inactive. Kamren Curl is not on the Rams list; Pat Bryant and Dondrea Tillman are not on the Broncos list. The 12:00 PM EST AgentBets snapshot moved LAR -220 to -230 and DEN -152 to -164. This remains the weaker reserve because of those confirmed secondary absences. Await current PA/MD prices and live selection acceptance. These are researched candidates, not ready-to-bet or guaranteed winners.",
       "availability_confirmed": true,
       "price_live_verified": false,
       "link_live_verified": false
+    },
+    {
+      "id": "nov08-d",
+      "title": "49ers + Bears",
+      "status": "conditional",
+      "tier": "Lowest payout on today’s slate; highest raw price-implied probability of the remaining late-game moneylines that passed screening",
+      "legs": [
+        {
+          "checked_at": "2026-11-08T13:19:41-05:00",
+          "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
+          "price_quoted_at": "2026-11-08T13:00:28-05:00",
+          "price_state_verified": false,
+          "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
+          "availability_checked_at": "2026-11-08T13:19:41-05:00",
+          "team": "San Francisco 49ers",
+          "market": "Moneyline",
+          "american_odds": -490,
+          "event": "Las Vegas Raiders @ San Francisco 49ers",
+          "start_est": "2026-11-08 4:25 PM EST",
+          "venue": "Levi's Stadium",
+          "start_at": "2026-11-08T16:25:00-05:00",
+          "event_key": "espn-nfl-401873047",
+          "evidence": "NFL.com Week 9 report lists San Francisco 6-1 hosting Las Vegas 4-4. StatsNext (through Nov 5, updated Nov 7, 2:54 PM ET): 49ers 28.1 points/game (5th) and 19.9 allowed (6th); 29.5 scored / 18.5 allowed in four home games. Raiders allow 28.8 points/game (31st), 381.9 yards/game (30th) and 146.4 rushing yards/game (31st). 49ers.com: QB Brock Purdy is not on the injury report (69.2% completions, 3rd); Christian McCaffrey and Nick Bosa returned to full practice Friday after the Week 8 bye, and DeForest Buckner was reacquired. Raiders: DT Thomas Booker OUT, CB Darien Porter questionable.",
+          "remaining_checks": "Counterevidence: 49ers WRs Mike Evans, Deebo Samuel Sr. and Christian Kirk are all OUT (thin receiver room; Demarcus Robinson questionable off IR). CBs Upton Stout, Nate Hobbs and DB Siran Neal are questionable. Las Vegas scores 27.6 points/game (6th) with Kirk Cousins, Ashton Jeanty and Brock Bowers, and San Francisco lost its last game 29-20 at Atlanta. Official 4:25 PM EST inactives are not posted (typically about 2:55 PM EST); McCaffrey/Bosa activity must be confirmed there. At -490 the payout contribution is small. Open-Meteo near 4:25 PM EST (1:25 PM PT): about 65°F, wind ~7 mph, gusts ~9 mph, precip 0%.",
+          "lineup_status": "Official NFL.com inactives article (dateModified 11:44 AM EST) has no 4:25 PM EST lists yet. Friday reports: Evans, Samuel Sr., Kirk OUT; McCaffrey, Bosa full practice (no designation); Purdy not listed.",
+          "weather_status": "Outdoor Levi's Stadium. Open-Meteo hourly forecast checked this review: ~65°F, light wind, 0% precip at kickoff. Not a live observation.",
+          "sources": [
+            "https://www.49ers.com/news/49ers-rule-out-three-wide-receivers-vs-raiders-bosa-returns-to-full-practice-ahead-of-week-9-lvvssf",
+            "https://www.49ers.com/news/5-things-to-know-49ers-week-9-matchup-vs-raiders-salute-to-service",
+            "https://www.49ers.com/team/injury-report/week/reg-9",
+            "https://www.raiders.com/news/raiders-49ers-week-9-injury-report",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.nfl.com/news/nfl-week-9-inactives-players-ruled-out-sunday-2026-season",
+            "https://statsnext.com/nfl/team-stats",
+            "https://api.open-meteo.com/v1/forecast?latitude=37.403&longitude=-121.970&hourly=temperature_2m,precipitation_probability,wind_speed_10m,wind_gusts_10m&start_date=2026-11-08&end_date=2026-11-08&timezone=America%2FNew_York&temperature_unit=fahrenheit&wind_speed_unit=mph"
+          ],
+          "availability_source": "https://www.49ers.com/team/injury-report/week/reg-9"
+        },
+        {
+          "checked_at": "2026-11-08T13:19:41-05:00",
+          "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
+          "price_quoted_at": "2026-11-08T13:00:28-05:00",
+          "price_state_verified": false,
+          "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
+          "availability_checked_at": "2026-11-08T13:19:41-05:00",
+          "team": "Chicago Bears",
+          "market": "Moneyline",
+          "american_odds": -270,
+          "event": "Tampa Bay Buccaneers @ Chicago Bears",
+          "start_est": "2026-11-08 8:20 PM EST",
+          "venue": "Soldier Field",
+          "start_at": "2026-11-08T20:20:00-05:00",
+          "event_key": "espn-nfl-401873050",
+          "evidence": "NFL.com lists Chicago 6-2 hosting Tampa Bay 3-5 on Sunday Night Football. StatsNext: Bears 26.8 points/game (8th), 387.3 yards/game (3rd), 150.8 rushing yards/game (2nd), 20.0 allowed (8th); 13.0 points allowed per game in four home games. Buccaneers rank 32nd in passing yards/game (147.5) and 19th in scoring (22.3). Official team report: Tampa Bay OLB YaYa Diaby OUT. SI reports Chicago has won three straight with Caleb Williams back. Bears’ only Friday designations were RB Kyle Monangai, DB Malik Muhammad II and CB Tyrique Stevenson Sr. (questionable); Rapoport says Muhammad and Stevenson should play.",
+          "remaining_checks": "Counterevidence: Tampa Bay’s defense allows 18.9 points/game (5th) and 285.9 yards/game (3rd), and SI cites it as the league’s best in EPA/play; the Bucs lead the NFL in rushing (168.6 yards/game). Baker Mayfield (right thumb) practiced fully and carries no designation; Rapoport reports Emeka Egbuka will play. Monangai won’t play (Rapoport) — he has already missed four games, so D’Andre Swift/Roschon Johnson remain the backfield. Official SNF inactives are not posted (typically about 6:50 PM EST); this card’s research expires before then, so a later review must recheck. Open-Meteo near 8:20 PM EST: about 49°F, wind ~7 mph, gusts ~16 mph, precip 0%.",
+          "lineup_status": "SNF inactives not posted yet. Rapoport (Nov 8): Monangai out; Stevenson (splint) and Muhammad II should play. Egbuka will play for Tampa Bay; Diaby OUT.",
+          "weather_status": "Outdoor Soldier Field. Open-Meteo hourly forecast checked this review: ~49°F, gusts mid-teens mph, 0% precip at kickoff. Not a live observation.",
+          "sources": [
+            "https://static.clubs.nfl.com/image/upload/buccaneers/szp42cvxndvmnpjbqx5l",
+            "https://www.nfl.com/news/week-9-injuries-sunday-pregame-2026-nfl-season",
+            "https://www.nbcchicago.com/news/local/will-kyle-monangai-play-for-bears-vs-buccaneers-nfl-insider-has-new-report/4013744/",
+            "https://www.cbssports.com/fantasy/football/news/bears-kyle-monangai-not-expected-to-return-sunday/",
+            "https://www.si.com/betting/kyle-monangai-injury-update-betting-impact-for-buccaneers-vs-bears-in-nfl-week-9-2026",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.nfl.com/news/nfl-week-9-inactives-players-ruled-out-sunday-2026-season",
+            "https://statsnext.com/nfl/team-stats",
+            "https://api.open-meteo.com/v1/forecast?latitude=41.862&longitude=-87.617&hourly=temperature_2m,precipitation_probability,wind_speed_10m,wind_gusts_10m&start_date=2026-11-08&end_date=2026-11-08&timezone=America%2FNew_York&temperature_unit=fahrenheit&wind_speed_unit=mph"
+          ],
+          "availability_source": "https://www.nfl.com/news/week-9-injuries-sunday-pregame-2026-nfl-season"
+        }
+      ],
+      "result": "UNSETTLED_RESEARCH",
+      "link_mode": "selection_bearing_universal_link_cached_ids_live_acceptance_unverified",
+      "betslip_identifier_records": [
+        {
+          "sel": "San Francisco 49ers",
+          "event": "Las Vegas Raiders @ San Francisco 49ers",
+          "time": "2026-11-08T21:25:00+00:00",
+          "eventId": 36244875,
+          "selectionId": 43010249,
+          "pa": "742.194080811",
+          "md": "724.194219548",
+          "market": "Moneyline",
+          "espn_event": "401873047",
+          "captured_at": "2026-11-07T15:02:36.809171-05:00",
+          "source": "Existing today.json/all_legs, corroborated with today_1030.json/all_legs; identifiers copied unchanged, not derived from ESPN IDs",
+          "verification": "cached_exact_event_selection_match_not_live",
+          "event_key": "espn-nfl-401873047"
+        },
+        {
+          "sel": "Chicago Bears",
+          "event": "Tampa Bay Buccaneers @ Chicago Bears",
+          "time": "2026-11-09T01:20:00+00:00",
+          "eventId": 36244879,
+          "selectionId": 50194,
+          "pa": "742.194081000",
+          "md": "724.194219735",
+          "market": "Moneyline",
+          "espn_event": "401873050",
+          "captured_at": "2026-11-07T15:02:36.809171-05:00",
+          "source": "Existing today.json/all_legs only (no today_1030.json record for this 8:20 PM EST game); identifiers copied unchanged, not derived from ESPN IDs",
+          "verification": "cached_exact_event_selection_match_not_live",
+          "event_key": "espn-nfl-401873050"
+        }
+      ],
+      "status_reason": "New conditional card from games still upcoming. Await official 4:25 PM EST inactives (~2:55 PM EST) and Sunday-night inactives (~6:50 PM EST), current PA/MD prices and live selection acceptance. Prices are the 1:00 PM EST AgentBets FanDuel snapshot. Researched candidate, not ready-to-bet or a guaranteed winner.",
+      "availability_confirmed": false,
+      "price_live_verified": false,
+      "link_live_verified": false,
+      "theoretical_decimal_return": 1.6500377928949357,
+      "betslip_link_pa": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=742.194080811&selectionId%5B0%5D=43010249&marketId%5B1%5D=742.194081000&selectionId%5B1%5D=50194",
+      "betslip_link_md": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=724.194219548&selectionId%5B0%5D=43010249&marketId%5B1%5D=724.194219735&selectionId%5B1%5D=50194"
     }
   ],
   "app_link": "https://sportsbook.fanduel.com/navigation/nfl",
@@ -359,16 +471,24 @@
   "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
   "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
   "schema_version": 2,
-  "last_checked_at": "2026-11-08T12:22:55-05:00",
+  "last_checked_at": "2026-11-08T13:19:41-05:00",
   "policies": {
     "max_price_age_minutes": 120,
     "max_review_age_minutes": 75
   },
-  "research_scope": "NFL moneylines rechecked against the official Week 9 injury report, the NFL.com Week 9 inactives article (updatedDate 11:43 AM EST / dateModified 11:44 AM EST; 1:00 PM lists unchanged and late-game sections still empty), NFL.com game pages and live injury tables, Open-Meteo venue forecasts, and a 12:00 PM EST AgentBets FanDuel snapshot (5:00 PM UTC / dateModified 2026-11-08T17:00:28.431Z). Direct ESPN schedule fetch returned HTTP 403 this run; start times were corroborated on NFL.com injury/inactives/game pages and the AgentBets slate. NHL and NBA screened again; no additional cards passed the evidence, availability, or independently established selection-ID checks. Other FanDuel markets remain eligible, not automatically suitable.",
+  "research_scope": "1:15 PM EST hourly review. Both earlier staged cards (Lions/Texans, Rams/Broncos) have a leg that kicked off at 1:00 PM EST and are recorded as begun/pending, not graded. Late-game NFL screened against the official Week 9 injury report, the NFL.com inactives article (dateModified 11:44 AM EST; 4:05/4:25/SNF lists not yet posted), the NFL.com Sunday pregame tracker (dateModified 11:42 AM EST), 49ers.com/Raiders.com and Buccaneers–Bears official reports, StatsNext team stats, Open-Meteo forecasts, and the 1:00 PM EST AgentBets FanDuel NFL snapshot (6:00 PM UTC / dateModified 2026-11-08T18:00:28.419Z). Seattle (-490) rejected: QB Sam Darnold, OT Charles Cross, G Quenton Nelson, WR Rashid Shaheed and DT Leonard Williams are OUT. Patriots/Packers still not supported. Texans (-240) remains researched but is already part of the begun Lions/Texans card; no repeated-leg permutation added. NHL and NBA screened again; no additional cards passed.",
   "research_holds": [
     {
+      "title": "Begun / in progress — not bettable, not graded",
+      "reason": "Lions + Texans (DET -310 / HOU -240, posted 1.874x) and Rams + Broncos (LAR -230 / DEN -164, posted 2.310x) each include a leg that kicked off at 1:00 PM EST. Posted versions are preserved exactly as published at 12:22 PM EST. No official final results exist yet; both are pending and will be graded only from official finals. For reference only: the 1:00 PM EST AgentBets snapshot (taken at kickoff) showed DET -330, LAR -230, DEN -166 — not used to alter the posted cards.",
+      "sources": [
+        "https://www.nfl.com/news/nfl-week-9-inactives-players-ruled-out-sunday-2026-season",
+        "https://agentbets.ai/odds/fanduel/nfl/"
+      ]
+    },
+    {
       "title": "NHL: no new card staged",
-      "reason": "Daily Faceoff now lists 3 of 12 Sunday goalies as confirmed (Florida’s Jacob Markstrom at Boston, per Rob Darragh; Boston’s Jeremy Swayman vs. Florida, per Scott Mclaughlin; Calgary’s Devin Cooley vs. Philadelphia, per Pat Steinberg). Florida at Boston is the only game with both starters confirmed. Counterpart starters for other games remain unconfirmed or only likely (Philadelphia’s Dan Vladar listed as likely/expected per Ryan Pike; Winnipeg’s Stuart Skinner likely; Toronto’s Anthony Stolarz likely). One fully confirmed matchup plus projected names is not enough to stage a two-leg card, and no independently established FanDuel NHL selection identifiers exist. A 12:00 PM EST AgentBets FanDuel NHL snapshot exists (same 5:00 PM UTC refresh as NFL), but prices alone do not establish an advantage.",
+      "reason": "Daily Faceoff still lists 3 of 12 Sunday goalies confirmed (Markstrom and Swayman for Florida at Boston, which started at 1:10 PM EST; Calgary’s Devin Cooley). No remaining upcoming game has both starters confirmed. Cached Nov 8 FanDuel NHL moneyline IDs exist, but the 1:00 PM EST AgentBets snapshot shows near coin-flip prices (e.g., Vegas -113 at Buffalo -106; Flyers -118 at Calgary -102), which do not support a win-first card without confirmed goalies.",
       "sources": [
         "https://www.dailyfaceoff.com/starting-goalies/2026-11-08",
         "https://agentbets.ai/odds/fanduel/nhl/"
@@ -376,7 +496,7 @@
     },
     {
       "title": "NBA: no new card staged",
-      "reason": "The official NBA injury-report page now lists updates through the 12:15 p.m. ET report, but later game-day submission windows are not uniformly complete (reports due 11 AM–1 PM local for most tips; 8–10 AM local for early tips). The latest AgentBets FanDuel NBA snapshot on that page is still 11:00 AM EST (4:00 PM UTC / dateModified 2026-11-08T16:00:28.410Z) and includes Philadelphia -390 at Chicago, Minnesota -510 vs. Utah, Dallas -290 vs. Brooklyn, Boston -700 at Milwaukee, and Miami -430 at Sacramento; heavy posted favorites were not added on record/price alone. No exact current FanDuel NBA selection identifiers were independently established, so no manufactured load-picks links.",
+      "reason": "The 1:00 PM EST AgentBets FanDuel NBA snapshot (6:00 PM UTC) lists Philadelphia -375 at Chicago (3:40 PM), Lakers +158 at Detroit -188, Minnesota -700 vs. Utah, Dallas -295 vs. Brooklyn, Boston -700 at Milwaukee, Pelicans -118 at Clippers and Miami -405 at Sacramento. This review did not complete a full official-injury-report clearance for those tips, and no exact FanDuel NBA selection identifiers are cached, so heavy posted favorites were not added on price alone and no load-picks links were manufactured.",
       "sources": [
         "https://official.nba.com/nba-injury-report-2026-27-season/",
         "https://agentbets.ai/odds/fanduel/nba/"
@@ -414,6 +534,10 @@
     {
       "at": "2026-11-08T12:22:55-05:00",
       "text": "Hourly review: AgentBets FanDuel NFL snapshot advanced to 12:00 PM EST (5:00 PM UTC). Staged Lions/Texans moneylines unchanged (DET -310, HOU -240, theoretical about 1.874x). Rams/Broncos moved — LAR -220 to -230, DEN -152 to -164 — for a theoretical return of about 2.310x ($10 → $23.10, $25 → $57.74). Official 1:00 PM EST inactives are unchanged from the NFL.com article (updatedDate 11:43 AM EST); 4:05/4:25/Sunday Night lists are not posted yet. Chargers Awosika, Njoku, Perryman and Thompson remain DOUBTFUL on the live nfl.com/injuries tables. Cowboys/Patriots remain withdrawn; Dallas’s posted moneyline moved from -235 to -198 (NE unchanged at -174). NHL now 3 of 12 confirmed goalies (Swayman confirmed opposite Markstrom), still no card. No NBA card added. Both staged cards include a 1:00 PM EST leg and will be held at that kickoff."
+    },
+    {
+      "at": "2026-11-08T13:19:41-05:00",
+      "text": "Hourly review: Lions/Texans and Rams/Broncos moved to begun/in progress (1:00 PM EST kickoffs) — posted versions preserved, pending, not graded; no official finals yet. Added conditional 49ers + Bears (SF -490 vs. Raiders 4:25 PM EST; CHI -270 vs. Buccaneers 8:20 PM EST) from the 1:00 PM EST AgentBets FanDuel snapshot: theoretical 1.650x ($10 → $16.50, $25 → $41.25) with cached exact-match IDs. Rejected Seattle -490 (QB Sam Darnold and four other starters OUT). Late-game inactives not yet posted. NHL still 3 of 12 confirmed goalies; no NBA card."
     }
   ]
 }
