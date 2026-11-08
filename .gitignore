@@ -2,3 +2,12 @@
 !docs/
 !docs/**
 !.gitignore
+!TWO_LEG_WORKFLOW.md
+!tools/
+tools/*
+!tools/render_two_leg.py
+!tools/test_two_leg.py
+!tools/test_two_leg_js.cjs
+!tools/fixtures/
+tools/fixtures/*
+!tools/fixtures/two-leg-2026-11-08.json

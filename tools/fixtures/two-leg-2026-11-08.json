@@ -1,0 +1,380 @@
+{
+  "date": "2026-11-08",
+  "published_est": "2026-11-08T08:15:33-05:00",
+  "odds_reported_at_est": "2026-11-08T07:00:00-05:00",
+  "odds_source": "https://agentbets.ai/odds/fanduel/nfl/",
+  "pa_md_prices_verified": false,
+  "fully_cleared": false,
+  "shared_legs": false,
+  "link_pa": "https://pa.sportsbook.fanduel.com/",
+  "link_md": "https://md.sportsbook.fanduel.com/",
+  "cards": [
+    {
+      "id": "nov08-a",
+      "title": "Lions + Texans",
+      "status": "conditional",
+      "tier": "Lower payout; higher raw price-implied probability than the reserves",
+      "legs": [
+        {
+          "team": "Detroit Lions",
+          "market": "Moneyline",
+          "american_odds": -295,
+          "event": "Detroit Lions @ Miami Dolphins",
+          "start_est": "2026-11-08 1:00 PM EST",
+          "venue": "Hard Rock Stadium",
+          "evidence": "NFL: Detroit ranks third in scoring and first in yards; Miami ranks 31st and 27th. Official game center identifies Jared Goff with Detroit.",
+          "remaining_checks": "Official report still lists Amon-Ra St. Brown QUESTIONABLE (ribs). Overnight reporting expects him to play, but that is not official activation. Jack Campbell, Kerby Joseph, Cade Mays, D.J. Reed and DJ Wonnum OUT. Check final inactives around 11:30 AM EST. Early Miami forecast 84°F, wind 4 mph; refresh.",
+          "sources": [
+            "https://www.nfl.com/games/lions-at-dolphins-2026-reg-9",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.espn.com/nfl/schedule/_/date/20261108",
+            "https://www.nfl.com/injuries/",
+            "https://www.rotowire.com/football/headlines/amon-ra-st-brown-injury-in-line-to-play-sunday-646489",
+            "https://api.open-meteo.com/v1/forecast?latitude=25.958&longitude=-80.239&hourly=temperature_2m,precipitation_probability,wind_speed_10m,wind_gusts_10m&start_date=2026-11-08&end_date=2026-11-08&timezone=America%2FNew_York&temperature_unit=fahrenheit&wind_speed_unit=mph"
+          ],
+          "start_at": "2026-11-08T13:00:00-05:00",
+          "event_key": "espn-nfl-401873042",
+          "checked_at": "2026-11-08T08:15:33-05:00",
+          "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
+          "price_quoted_at": "2026-11-08T07:00:00-05:00",
+          "price_state_verified": false,
+          "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
+          "availability_source": "https://www.nfl.com/injuries/",
+          "availability_checked_at": "2026-11-08T08:15:33-05:00",
+          "lineup_status": "Projected / final inactives not released; practice status is not confirmation of starting.",
+          "weather_status": "Venue/roof and weather must be rechecked before kickoff; no live weather clearance."
+        },
+        {
+          "team": "Houston Texans",
+          "market": "Moneyline",
+          "american_odds": -240,
+          "event": "Houston Texans @ Los Angeles Chargers",
+          "start_est": "2026-11-08 4:05 PM EST",
+          "venue": "SoFi Stadium",
+          "evidence": "NFL: Houston scores 23.6 points/game versus 14.1 for Los Angeles; turnover differential +3 versus -6. Official game center identifies C.J. Stroud with Houston.",
+          "remaining_checks": "Houston is only 2–5: scoring/turnover comparisons are descriptive, not a validated prediction. Montgomery and Blankenship OUT. Official latest report: Chargers Awosika, Njoku, Perryman and Thompson DOUBTFUL; Leonard and Williamson OUT. Recheck final inactives around 2:35 PM EST and current price. Indoor SoFi canopy does not eliminate every weather consideration.",
+          "sources": [
+            "https://www.nfl.com/games/texans-at-chargers-2026-reg-9",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.espn.com/nfl/schedule/_/date/20261108",
+            "https://www.nfl.com/injuries/"
+          ],
+          "start_at": "2026-11-08T16:05:00-05:00",
+          "event_key": "espn-nfl-401873046",
+          "checked_at": "2026-11-08T08:15:33-05:00",
+          "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
+          "price_quoted_at": "2026-11-08T07:00:00-05:00",
+          "price_state_verified": false,
+          "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
+          "availability_source": "https://www.nfl.com/injuries/",
+          "availability_checked_at": "2026-11-08T08:15:33-05:00",
+          "lineup_status": "Projected / final inactives not released; practice status is not confirmation of starting.",
+          "weather_status": "Venue/roof and weather must be rechecked before kickoff; no live weather clearance."
+        }
+      ],
+      "theoretical_decimal_return": 1.8968926553672316,
+      "result": "UNSETTLED_RESEARCH",
+      "link_mode": "selection_bearing_universal_link_cached_ids_live_acceptance_unverified",
+      "betslip_link_pa": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=742.194080730&selectionId%5B0%5D=50193&marketId%5B1%5D=742.194080802&selectionId%5B1%5D=179823",
+      "betslip_link_md": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=724.194219471&selectionId%5B0%5D=50193&marketId%5B1%5D=724.194219532&selectionId%5B1%5D=179823",
+      "betslip_identifier_records": [
+        {
+          "sel": "Detroit Lions",
+          "event": "Detroit Lions @ Miami Dolphins",
+          "time": "2026-11-08T18:00:00+00:00",
+          "eventId": 36244872,
+          "selectionId": 50193,
+          "pa": "742.194080730",
+          "md": "724.194219471",
+          "market": "Moneyline",
+          "espn_event": "401873042",
+          "captured_at": "2026-11-07T15:02:36.809171-05:00",
+          "source": "Existing today.json/all_legs, corroborated with today_1030.json/all_legs; identifiers copied unchanged, not derived from ESPN IDs",
+          "verification": "cached_exact_event_selection_match_not_live",
+          "event_key": "espn-nfl-401873042"
+        },
+        {
+          "sel": "Houston Texans",
+          "event": "Houston Texans @ Los Angeles Chargers",
+          "time": "2026-11-08T21:05:00+00:00",
+          "eventId": 36244874,
+          "selectionId": 179823,
+          "pa": "742.194080802",
+          "md": "724.194219532",
+          "market": "Moneyline",
+          "espn_event": "401873046",
+          "captured_at": "2026-11-07T15:02:36.809171-05:00",
+          "source": "Existing today.json/all_legs, corroborated with today_1030.json/all_legs; identifiers copied unchanged, not derived from ESPN IDs",
+          "verification": "cached_exact_event_selection_match_not_live",
+          "event_key": "espn-nfl-401873046"
+        }
+      ],
+      "status_reason": "Await final inactives, current PA/MD prices and live selection acceptance. These are researched candidates, not ready-to-bet or guaranteed winners.",
+      "availability_confirmed": false,
+      "price_live_verified": false,
+      "link_live_verified": false
+    },
+    {
+      "id": "nov08-b",
+      "title": "Cowboys + Patriots",
+      "status": "withdrawn",
+      "tier": "Higher payout, lower raw price-implied probability",
+      "legs": [
+        {
+          "team": "Dallas Cowboys",
+          "market": "Moneyline",
+          "american_odds": -220,
+          "event": "Dallas Cowboys @ Indianapolis Colts",
+          "start_est": "2026-11-08 1:00 PM EST",
+          "venue": "Lucas Oil Stadium",
+          "evidence": "Indianapolis has confirmed defensive absences including Justin Walley and Akeem Davis-Gaither.",
+          "remaining_checks": "George Pickens, Jake Ferguson and multiple Dallas defenders questionable; Jonathan Taylor practiced fully for Indianapolis. Independently confirm expected starting quarterback Dak Prescott and final roster. Check 11:30 AM EST inactives and stadium roof status.",
+          "sources": [
+            "https://www.dallascowboys.com/team/injury-report/",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.espn.com/nfl/schedule/_/date/20261108",
+            "https://www.nfl.com/injuries/"
+          ],
+          "start_at": "2026-11-08T13:00:00-05:00",
+          "event_key": "espn-nfl-401873040",
+          "checked_at": "2026-11-08T08:15:33-05:00",
+          "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
+          "price_quoted_at": "2026-11-08T07:00:00-05:00",
+          "price_state_verified": false,
+          "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
+          "availability_source": "https://www.nfl.com/injuries/",
+          "availability_checked_at": "2026-11-08T08:15:33-05:00",
+          "lineup_status": "Projected / final inactives not released; practice status is not confirmation of starting.",
+          "weather_status": "Venue/roof and weather must be rechecked before kickoff; no live weather clearance."
+        },
+        {
+          "team": "New England Patriots",
+          "market": "Moneyline",
+          "american_odds": -174,
+          "event": "Green Bay Packers @ New England Patriots",
+          "start_est": "2026-11-08 4:25 PM EST",
+          "venue": "Gillette Stadium",
+          "evidence": "Drake Maye practiced fully with no game designation. Green Bay is missing Micah Parsons, Zaire Franklin, Sean Rhyan and Travis Glover.",
+          "remaining_checks": "A.J. Brown and TreVeyon Henderson out; Hunter Henry, Morgan Moses and others questionable. Check 2:55 PM EST inactives. Forecast near kickoff: 48°F, wind 8 mph, gusts 24 mph; refresh.",
+          "sources": [
+            "https://www.patriots.com/team/injury-report/",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.espn.com/nfl/schedule/_/date/20261108",
+            "https://www.nfl.com/injuries/",
+            "https://api.open-meteo.com/v1/forecast?latitude=42.065&longitude=-71.248&hourly=temperature_2m,precipitation_probability,wind_speed_10m,wind_gusts_10m&start_date=2026-11-08&end_date=2026-11-08&timezone=America%2FNew_York&temperature_unit=fahrenheit&wind_speed_unit=mph"
+          ],
+          "start_at": "2026-11-08T16:25:00-05:00",
+          "event_key": "espn-nfl-401873049",
+          "checked_at": "2026-11-08T08:15:33-05:00",
+          "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
+          "price_quoted_at": "2026-11-08T07:00:00-05:00",
+          "price_state_verified": false,
+          "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
+          "availability_source": "https://www.nfl.com/injuries/",
+          "availability_checked_at": "2026-11-08T08:15:33-05:00",
+          "lineup_status": "Projected / final inactives not released; practice status is not confirmation of starting.",
+          "weather_status": "Venue/roof and weather must be rechecked before kickoff; no live weather clearance."
+        }
+      ],
+      "theoretical_decimal_return": 2.290491118077325,
+      "result": "UNSETTLED_RESEARCH",
+      "link_mode": "selection_bearing_universal_link_cached_ids_live_acceptance_unverified",
+      "betslip_link_pa": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=742.194080498&selectionId%5B0%5D=50189&marketId%5B1%5D=742.194080883&selectionId%5B1%5D=50204",
+      "betslip_link_md": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=724.194219239&selectionId%5B0%5D=50189&marketId%5B1%5D=724.194219618&selectionId%5B1%5D=50204",
+      "betslip_identifier_records": [
+        {
+          "sel": "Dallas Cowboys",
+          "event": "Dallas Cowboys @ Indianapolis Colts",
+          "time": "2026-11-08T18:00:00+00:00",
+          "eventId": 36244868,
+          "selectionId": 50189,
+          "pa": "742.194080498",
+          "md": "724.194219239",
+          "market": "Moneyline",
+          "espn_event": "401873040",
+          "captured_at": "2026-11-07T15:02:36.809171-05:00",
+          "source": "Existing today.json/all_legs, corroborated with today_1030.json/all_legs; identifiers copied unchanged, not derived from ESPN IDs",
+          "verification": "cached_exact_event_selection_match_not_live",
+          "event_key": "espn-nfl-401873040"
+        },
+        {
+          "sel": "New England Patriots",
+          "event": "Green Bay Packers @ New England Patriots",
+          "time": "2026-11-08T21:25:00+00:00",
+          "eventId": 36244877,
+          "selectionId": 50204,
+          "pa": "742.194080883",
+          "md": "724.194219618",
+          "market": "Moneyline",
+          "espn_event": "401873049",
+          "captured_at": "2026-11-07T15:02:36.809171-05:00",
+          "source": "Existing today.json/all_legs, corroborated with today_1030.json/all_legs; identifiers copied unchanged, not derived from ESPN IDs",
+          "verification": "cached_exact_event_selection_match_not_live",
+          "event_key": "espn-nfl-401873049"
+        }
+      ],
+      "status_reason": "Not staged: Dallas has Pickens, Ferguson and multiple defenders questionable; New England is missing A.J. Brown and Henderson, with Henry and several blockers/defenders uncertain. Opponent absences alone are not enough to justify this card.",
+      "availability_confirmed": false,
+      "price_live_verified": false,
+      "link_live_verified": false
+    },
+    {
+      "id": "nov08-c",
+      "title": "Rams + Broncos",
+      "status": "conditional",
+      "tier": "Higher payout, lower raw price-implied probability",
+      "legs": [
+        {
+          "team": "Los Angeles Rams",
+          "market": "Moneyline",
+          "american_odds": -235,
+          "event": "Los Angeles Rams @ Washington Commanders",
+          "start_est": "2026-11-08 1:00 PM EST",
+          "venue": "Northwest Stadium",
+          "evidence": "Official injury report: Matthew Stafford full practice/no game designation; Washington receivers Dyami Brown and Treylon Burks OUT. This supports further review of a healthier starting-QB/receiving situation, not a quantified edge; Rams are 4–4 against Washington 2–4–1.",
+          "remaining_checks": "Rams secondary is also depleted: Watson OUT, McDuffie and Curl QUESTIONABLE; Ferguson OUT and long snapper Cardona DOUBTFUL. Washington Jayden Daniels practiced fully, so do not presume a quarterback absence. Final inactives around 11:30 AM EST. Early Landover forecast 62°F, wind 11 mph/gusts 21; refresh. This is the weaker conditional reserve, not a cleared recommendation.",
+          "sources": [
+            "https://www.therams.com/news/injury-updates",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.espn.com/nfl/schedule/_/date/20261108",
+            "https://www.nfl.com/injuries/",
+            "https://api.open-meteo.com/v1/forecast?latitude=38.908&longitude=-76.864&hourly=temperature_2m,precipitation_probability,wind_speed_10m,wind_gusts_10m&start_date=2026-11-08&end_date=2026-11-08&timezone=America%2FNew_York&temperature_unit=fahrenheit&wind_speed_unit=mph"
+          ],
+          "start_at": "2026-11-08T13:00:00-05:00",
+          "event_key": "espn-nfl-401873043",
+          "checked_at": "2026-11-08T08:15:33-05:00",
+          "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
+          "price_quoted_at": "2026-11-08T07:00:00-05:00",
+          "price_state_verified": false,
+          "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
+          "availability_source": "https://www.nfl.com/injuries/",
+          "availability_checked_at": "2026-11-08T08:15:33-05:00",
+          "lineup_status": "Projected / final inactives not released; practice status is not confirmation of starting.",
+          "weather_status": "Early-morning forecast only; refresh at the next review and before kickoff.  62°F, wind 11 mph, gusts 21 mph; refresh."
+        },
+        {
+          "team": "Denver Broncos",
+          "market": "Moneyline",
+          "american_odds": -146,
+          "event": "Denver Broncos @ Carolina Panthers",
+          "start_est": "2026-11-08 1:00 PM EST",
+          "venue": "Bank of America Stadium",
+          "evidence": "Official NFL report lists Denver 6–2 versus Carolina 3–4; Carolina missing guard Damien Lewis and defenders Jaelan Phillips, Bobby Okereke and Will Lee III. Official game center identifies Bo Nix with Denver. Record and absences are descriptive support, not a calibrated win probability.",
+          "remaining_checks": "Denver also missing Abrams-Draine, Brandon Jones and Uwazurike; Hufanga, Bryant and Tillman QUESTIONABLE. Carolina Bryce Young practiced fully. Confirm final inactives around 11:30 AM EST. Early Charlotte forecast 65°F, wind 7 mph; refresh.",
+          "sources": [
+            "https://www.nfl.com/games/broncos-at-panthers-2026-reg-9",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.espn.com/nfl/schedule/_/date/20261108",
+            "https://www.nfl.com/injuries/",
+            "https://api.open-meteo.com/v1/forecast?latitude=35.225&longitude=-80.853&hourly=temperature_2m,precipitation_probability,wind_speed_10m,wind_gusts_10m&start_date=2026-11-08&end_date=2026-11-08&timezone=America%2FNew_York&temperature_unit=fahrenheit&wind_speed_unit=mph"
+          ],
+          "start_at": "2026-11-08T13:00:00-05:00",
+          "event_key": "espn-nfl-401873041",
+          "checked_at": "2026-11-08T08:15:33-05:00",
+          "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
+          "price_quoted_at": "2026-11-08T07:00:00-05:00",
+          "price_state_verified": false,
+          "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
+          "availability_source": "https://www.nfl.com/injuries/",
+          "availability_checked_at": "2026-11-08T08:15:33-05:00",
+          "lineup_status": "Projected / final inactives not released; practice status is not confirmation of starting.",
+          "weather_status": "Early-morning forecast only; refresh at the next review and before kickoff.  65°F, wind 7 mph; refresh."
+        }
+      ],
+      "theoretical_decimal_return": 2.401923637423492,
+      "result": "UNSETTLED_RESEARCH",
+      "link_mode": "selection_bearing_universal_link_cached_ids_live_acceptance_unverified",
+      "betslip_link_pa": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=742.194080827&selectionId%5B0%5D=10782388&marketId%5B1%5D=742.194080483&selectionId%5B1%5D=50211",
+      "betslip_link_md": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=724.194219571&selectionId%5B0%5D=10782388&marketId%5B1%5D=724.194219223&selectionId%5B1%5D=50211",
+      "betslip_identifier_records": [
+        {
+          "sel": "Los Angeles Rams",
+          "event": "Los Angeles Rams @ Washington Commanders",
+          "time": "2026-11-08T18:00:00+00:00",
+          "eventId": 36244876,
+          "selectionId": 10782388,
+          "pa": "742.194080827",
+          "md": "724.194219571",
+          "market": "Moneyline",
+          "espn_event": "401873043",
+          "captured_at": "2026-11-07T15:02:36.809171-05:00",
+          "source": "Existing today.json/all_legs, corroborated with today_1030.json/all_legs; identifiers copied unchanged, not derived from ESPN IDs",
+          "verification": "cached_exact_event_selection_match_not_live",
+          "event_key": "espn-nfl-401873043"
+        },
+        {
+          "sel": "Denver Broncos",
+          "event": "Denver Broncos @ Carolina Panthers",
+          "time": "2026-11-08T18:00:00+00:00",
+          "eventId": 36244867,
+          "selectionId": 50211,
+          "pa": "742.194080483",
+          "md": "724.194219223",
+          "market": "Moneyline",
+          "espn_event": "401873041",
+          "captured_at": "2026-11-07T15:02:36.809171-05:00",
+          "source": "Existing today.json/all_legs, corroborated with today_1030.json/all_legs; identifiers copied unchanged, not derived from ESPN IDs",
+          "verification": "cached_exact_event_selection_match_not_live",
+          "event_key": "espn-nfl-401873041"
+        }
+      ],
+      "status_reason": "Await final inactives, current PA/MD prices and live selection acceptance. These are researched candidates, not ready-to-bet or guaranteed winners.",
+      "availability_confirmed": false,
+      "price_live_verified": false,
+      "link_live_verified": false
+    }
+  ],
+  "app_link": "https://sportsbook.fanduel.com/navigation/nfl",
+  "app_link_mode": "ios_universal_link_user_triggered_not_guaranteed_not_prefilled",
+  "app_store_fallback": "https://apps.apple.com/us/app/fanduel-sportsbook-casino/id1413721906",
+  "app_state_selection": "PA/MD chooses cached betslip market IDs and website fallback; app location/account rules still apply",
+  "app_link_evidence": [
+    "https://sportsbook.fanduel.com/.well-known/apple-app-site-association",
+    "https://itunes.apple.com/lookup?id=1413721906&country=us",
+    "https://developer.apple.com/library/archive/documentation/General/Conceptual/AppSearch/WebContent.html"
+  ],
+  "app_links_updated_est": "2026-11-08T07:10:53-05:00",
+  "betslip_identifiers_source": "Existing today.json/all_legs, corroborated with today_1030.json/all_legs; identifiers copied unchanged, not derived from ESPN IDs",
+  "betslip_identifiers_cached_at_est": "2026-11-07T15:02:36.809171-05:00",
+  "betslip_live_verified": false,
+  "betslip_end_to_end_verified": false,
+  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
+  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
+  "schema_version": 2,
+  "last_checked_at": "2026-11-08T08:15:33-05:00",
+  "policies": {
+    "max_price_age_minutes": 120,
+    "max_review_age_minutes": 75
+  },
+  "research_scope": "NFL moneylines reviewed; NHL and NBA screened, but no additional cards passed the evidence/availability/link checks. Other FanDuel markets remain eligible, not automatically suitable.",
+  "research_holds": [
+    {
+      "title": "NHL: no new card staged",
+      "reason": "Daily Faceoff lists 0 of 12 goalies confirmed. Tampa Bay/Winnipeg and New Jersey/Toronto starters remain projected, not independently confirmed by official team sources. Do not infer starter identity from a cached feed. FanDuel-attributed NHL snapshot is 8 AM EST, but prices alone do not establish an advantage. Revisit after official lineup/goalie and schedule checks.",
+      "sources": [
+        "https://www.dailyfaceoff.com/starting-goalies/2026-11-08",
+        "https://agentbets.ai/odds/fanduel/nhl/"
+      ]
+    },
+    {
+      "title": "NBA: no new card staged",
+      "reason": "Early injury/lineup uncertainty remains, including major-player designations in preliminary reports. NBA requires later game-day updates (8–10 AM local for early tip-offs; otherwise 11 AM–1 PM, with back-to-back exceptions). No exact current FanDuel selection identifiers independently established for NBA candidates; no manufactured load-picks links.",
+      "sources": [
+        "https://official.nba.com/nba-injury-report-2026-27-season/"
+      ]
+    },
+    {
+      "title": "No long-card or speculative-prop padding",
+      "reason": "No payout floor, unsupported forecast percentages, repeated-leg permutations, or unverified player props. More cards are not evidence of more winning opportunities.",
+      "sources": [
+        "https://www.nfl.com/injuries/"
+      ]
+    }
+  ],
+  "update_log": [
+    {
+      "at": "2026-11-08T08:15:33-05:00",
+      "text": "Rechecked official Week 9 injury report; advanced reported NFL price snapshot from 6 AM to 7 AM EST. Retained Lions/Texans and Rams/Broncos as conditional only; withdrew Cowboys/Patriots pending stronger availability evidence. No additional sport passed. Added expiring, read-only two-leg renderer and validation workflow."
+    }
+  ]
+}
