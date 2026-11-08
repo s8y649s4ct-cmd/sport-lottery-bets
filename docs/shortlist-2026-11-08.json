@@ -1,7 +1,7 @@
 {
   "date": "2026-11-08",
-  "published_est": "2026-11-08T11:48:23-05:00",
-  "odds_reported_at_est": "2026-11-08T11:00:28-05:00",
+  "published_est": "2026-11-08T12:22:55-05:00",
+  "odds_reported_at_est": "2026-11-08T12:00:28-05:00",
   "odds_source": "https://agentbets.ai/odds/fanduel/nfl/",
   "pa_md_prices_verified": false,
   "fully_cleared": false,
@@ -23,7 +23,7 @@
           "start_est": "2026-11-08 1:00 PM EST",
           "venue": "Hard Rock Stadium",
           "evidence": "StatsNext (through Nov 5, updated Nov 7, 2:54 PM ET) and Football Database list Detroit 29.0 points/game (3rd) and 395.4 yards/game (1st); Miami 16.7 points/game (31st) and 290.0 yards/game (27th). ESPN scoreboard lists Detroit 5-2 and Miami 1-6 for the 1:00 PM EST Hard Rock Stadium game. Jared Goff is Detroit’s season passing leader and is not listed with a Week 9 game designation on the official injury report. Official NFL.com Week 9 inactives (article updated 11:43 AM EST) do not include Amon-Ra St. Brown among Detroit’s seven inactive players, the standard indication he is active after Sunday-morning Rapoport and Pelissero reports that he was expected to play / good to go.",
-          "remaining_checks": "Official Lions inactives: CB D.J. Reed, EDGE DJ Wonnum, C Cade Mays, RB Jacob Saylors, TE Jordan Meeks, DL Mekhi Wingo and EDGE Ahmed Hassanein. Saylors, previously questionable (neck), is inactive. Jack Campbell and Kerby Joseph remain listed OUT on the official injury report but were not among those seven names. Official Dolphins inactives include RB Jaylen Wright, matching Rapoport’s earlier report he would not play; also inactive are WR Jalen Tolbert, CB Marcellas Dial Jr., CB Reese Taylor, G Christian Haynes, T Chukwuebuka Godrick and TE Justin Joly. Kaytron Allen and Malik Herring, listed questionable on the injury report, are not on Miami’s inactive list. Houston’s 4:05 PM EST inactives are still ahead, typically around 2:35 PM EST. Open-Meteo near 1:00 PM EST: about 84°F, wind 4 mph, gusts 5 mph, precip ~1%. Live PA/MD prices and live selection acceptance remain unverified.",
+          "remaining_checks": "Official Lions inactives: CB D.J. Reed, EDGE DJ Wonnum, C Cade Mays, RB Jacob Saylors, TE Jordan Meeks, DL Mekhi Wingo and EDGE Ahmed Hassanein. Saylors, previously questionable (neck), is inactive. Jack Campbell and Kerby Joseph remain listed OUT on the official injury report but were not among those seven names. Official Dolphins inactives include RB Jaylen Wright, matching Rapoport’s earlier report he would not play; also inactive are WR Jalen Tolbert, CB Marcellas Dial Jr., CB Reese Taylor, G Christian Haynes, T Chukwuebuka Godrick and TE Justin Joly. Kaytron Allen and Malik Herring, listed questionable on the injury report, are not on Miami’s inactive list. Houston’s 4:05 PM EST inactives are still ahead, typically around 2:35 PM EST. Open-Meteo near 1:00 PM EST: about 84°F, wind 2 mph, gusts 4 mph, precip 0%. Live PA/MD prices and live selection acceptance remain unverified.",
           "sources": [
             "https://www.nfl.com/games/lions-at-dolphins-2026-reg-9",
             "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
@@ -40,15 +40,15 @@
           ],
           "start_at": "2026-11-08T13:00:00-05:00",
           "event_key": "espn-nfl-401873042",
-          "checked_at": "2026-11-08T11:48:23-05:00",
+          "checked_at": "2026-11-08T12:22:55-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
-          "price_quoted_at": "2026-11-08T11:00:28-05:00",
+          "price_quoted_at": "2026-11-08T12:00:28-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
           "availability_source": "https://www.nfl.com/news/nfl-week-9-inactives-players-ruled-out-sunday-2026-season",
-          "availability_checked_at": "2026-11-08T11:48:23-05:00",
-          "lineup_status": "Official NFL.com inactives for the 1:00 PM EST game are posted (article updated 11:43 AM EST). Amon-Ra St. Brown is not on Detroit’s inactive list. Jacob Saylors is inactive.",
-          "weather_status": "Outdoor Hard Rock Stadium. Rechecked Open-Meteo this review: ~84°F, light wind (~4 mph, gusts ~5 mph), precip about 1% at 1:00 PM EST. Not a live stadium observation; refresh again before kickoff."
+          "availability_checked_at": "2026-11-08T12:22:55-05:00",
+          "lineup_status": "Official NFL.com inactives for the 1:00 PM EST game remain posted (article updatedDate 11:43 AM EST / dateModified 11:44 AM EST; unchanged this review). Amon-Ra St. Brown is not on Detroit’s inactive list. Jacob Saylors is inactive.",
+          "weather_status": "Outdoor Hard Rock Stadium. Rechecked Open-Meteo this review: ~84°F, light wind (~2 mph, gusts ~4 mph), precip about 0% at 1:00 PM EST. Not a live stadium observation; refresh again before kickoff."
         },
         {
           "team": "Houston Texans",
@@ -58,7 +58,7 @@
           "start_est": "2026-11-08 4:05 PM EST",
           "venue": "SoFi Stadium",
           "evidence": "StatsNext/Football Database list Houston 23.6 points/game versus 14.1 for the Chargers (32nd). Houston’s giveaway rate is 0.4 per game (fewest) against the Chargers’ 2.4 (most); those season rates through Nov 5 roughly match about a +3 versus about -6 turnover differential, which is descriptive, not a calibrated forecast. ESPN scoreboard: Houston 2-5 at Los Angeles 0-7, 4:05 PM EST at SoFi Stadium. C.J. Stroud is Houston’s listed passing leader and is not on the Week 9 out/questionable list.",
-          "remaining_checks": "Houston is only 2-5: scoring and turnover comparisons are descriptive, not a validated prediction. David Montgomery and Reed Blankenship remain OUT on the official injury report. The live nfl.com/injuries tables list Chargers Kayode Awosika, David Njoku, Denzel Perryman and Brenen Thompson as DOUBTFUL; the written Week 9 injury-report article still lists those four as questionable. Deane Leonard and Kendall Williamson remain OUT. Official inactives for this 4:05 PM EST game are not posted yet (typically around 2:35 PM EST). Recheck those lists and the current price. SoFi’s canopy is not a fully indoor stadium in ESPN’s listing; it does not eliminate every weather consideration.",
+          "remaining_checks": "Houston is only 2-5: scoring and turnover comparisons are descriptive, not a validated prediction. David Montgomery and Reed Blankenship remain OUT on the official injury report. The live nfl.com/injuries tables still list Chargers Kayode Awosika, David Njoku, Denzel Perryman and Brenen Thompson as DOUBTFUL; the written Week 9 injury-report article still lists those four as questionable. Deane Leonard and Kendall Williamson remain OUT. Official inactives for this 4:05 PM EST game are not posted yet (typically around 2:35 PM EST). Recheck those lists and the current price. SoFi’s canopy is not a fully indoor stadium in ESPN’s listing; it does not eliminate every weather consideration.",
           "sources": [
             "https://www.nfl.com/games/texans-at-chargers-2026-reg-9",
             "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
@@ -71,13 +71,13 @@
           ],
           "start_at": "2026-11-08T16:05:00-05:00",
           "event_key": "espn-nfl-401873046",
-          "checked_at": "2026-11-08T11:48:23-05:00",
+          "checked_at": "2026-11-08T12:22:55-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
-          "price_quoted_at": "2026-11-08T11:00:28-05:00",
+          "price_quoted_at": "2026-11-08T12:00:28-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
           "availability_source": "https://www.nfl.com/injuries/",
-          "availability_checked_at": "2026-11-08T11:48:23-05:00",
+          "availability_checked_at": "2026-11-08T12:22:55-05:00",
           "lineup_status": "Final inactives not released for the 4:05 PM EST game; typical posting window is around 2:35 PM EST. Practice status is not confirmation of starting.",
           "weather_status": "SoFi Stadium has a canopy; ESPN lists the venue as not indoor. No separate live weather clearance this review."
         }
@@ -119,7 +119,7 @@
           "event_key": "espn-nfl-401873046"
         }
       ],
-      "status_reason": "Official 1:00 PM EST Lions and Dolphins inactives are posted (St. Brown not listed inactive; Wright inactive). Houston’s 4:05 PM EST inactives are still ahead, typically around 2:35 PM EST. Await those inactives, current PA/MD prices and live selection acceptance. These are researched candidates, not ready-to-bet or guaranteed winners.",
+      "status_reason": "Official 1:00 PM EST Lions and Dolphins inactives are unchanged (St. Brown not listed inactive; Wright inactive). Houston’s 4:05 PM EST inactives are still ahead, typically around 2:35 PM EST. The 12:00 PM EST AgentBets snapshot left DET -310 and HOU -240 unchanged. Await those inactives, current PA/MD prices and live selection acceptance. These are researched candidates, not ready-to-bet or guaranteed winners.",
       "availability_confirmed": false,
       "price_live_verified": false,
       "link_live_verified": false
@@ -133,7 +133,7 @@
         {
           "team": "Dallas Cowboys",
           "market": "Moneyline",
-          "american_odds": -235,
+          "american_odds": -198,
           "event": "Dallas Cowboys @ Indianapolis Colts",
           "start_est": "2026-11-08 1:00 PM EST",
           "venue": "Lucas Oil Stadium",
@@ -149,14 +149,14 @@
           ],
           "start_at": "2026-11-08T13:00:00-05:00",
           "event_key": "espn-nfl-401873040",
-          "checked_at": "2026-11-08T11:48:23-05:00",
+          "checked_at": "2026-11-08T12:22:55-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
-          "price_quoted_at": "2026-11-08T11:00:28-05:00",
+          "price_quoted_at": "2026-11-08T12:00:28-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
           "availability_source": "https://www.nfl.com/news/nfl-week-9-inactives-players-ruled-out-sunday-2026-season",
-          "availability_checked_at": "2026-11-08T11:48:23-05:00",
-          "lineup_status": "Official NFL.com inactives for the 1:00 PM EST game are posted (article updated 11:43 AM EST). George Pickens, Luke Schoonmaker, DeMarvion Overshown, Joey Porter Jr. and KaVontae Turpin are inactive. The card remains withdrawn.",
+          "availability_checked_at": "2026-11-08T12:22:55-05:00",
+          "lineup_status": "Official NFL.com inactives for the 1:00 PM EST game remain posted (article updatedDate 11:43 AM EST). George Pickens, Luke Schoonmaker, DeMarvion Overshown, Joey Porter Jr. and KaVontae Turpin are inactive. The card remains withdrawn.",
           "weather_status": "Lucas Oil Stadium is indoor per ESPN; roof status is not an outdoor-weather issue, but the card remains withdrawn on availability grounds."
         },
         {
@@ -178,18 +178,18 @@
           ],
           "start_at": "2026-11-08T16:25:00-05:00",
           "event_key": "espn-nfl-401873049",
-          "checked_at": "2026-11-08T11:48:23-05:00",
+          "checked_at": "2026-11-08T12:22:55-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
-          "price_quoted_at": "2026-11-08T11:00:28-05:00",
+          "price_quoted_at": "2026-11-08T12:00:28-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
           "availability_source": "https://www.nfl.com/injuries/",
-          "availability_checked_at": "2026-11-08T11:48:23-05:00",
+          "availability_checked_at": "2026-11-08T12:22:55-05:00",
           "lineup_status": "Projected / final inactives not released for the 4:25 PM EST game; the card remains withdrawn on earlier availability grounds.",
           "weather_status": "Outdoor Gillette Stadium. This withdrawn card was not re-cleared as a staged outdoor pick; prior early forecast is not a live observation."
         }
       ],
-      "theoretical_decimal_return": 2.2448031303497187,
+      "theoretical_decimal_return": 2.370022059677232,
       "result": "UNSETTLED_RESEARCH",
       "link_mode": "selection_bearing_universal_link_cached_ids_live_acceptance_unverified",
       "betslip_link_pa": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=742.194080498&selectionId%5B0%5D=50189&marketId%5B1%5D=742.194080883&selectionId%5B1%5D=50204",
@@ -226,7 +226,7 @@
           "event_key": "espn-nfl-401873049"
         }
       ],
-      "status_reason": "Not staged: official Cowboys inactives include George Pickens, Luke Schoonmaker, DeMarvion Overshown, Joey Porter Jr. and KaVontae Turpin. New England is still without A.J. Brown and TreVeyon Henderson, with several blockers and defenders unresolved and 4:25 PM EST inactives not posted. Opponent absences alone are not enough to justify this card.",
+      "status_reason": "Not staged: official Cowboys inactives include George Pickens, Luke Schoonmaker, DeMarvion Overshown, Joey Porter Jr. and KaVontae Turpin. New England is still without A.J. Brown and TreVeyon Henderson, with Hunter Henry, Morgan Moses, Mack Hollins, Carlton Davis III, Kevin Byard and Brenden Schooler still QUESTIONABLE and Greg Van Roten listed OUT; 4:25 PM EST inactives are not posted. Dallas’s reported FanDuel moneyline moved from -235 to -198 on the 12:00 PM EST snapshot (NE unchanged at -174). Opponent absences alone are not enough to justify this card.",
       "availability_confirmed": false,
       "price_live_verified": false,
       "link_live_verified": false
@@ -240,12 +240,12 @@
         {
           "team": "Los Angeles Rams",
           "market": "Moneyline",
-          "american_odds": -220,
+          "american_odds": -230,
           "event": "Los Angeles Rams @ Washington Commanders",
           "start_est": "2026-11-08 1:00 PM EST",
           "venue": "Northwest Stadium",
           "evidence": "Official Week 9 report does not list Matthew Stafford with a game designation, and he is not on the official Rams inactive list. Washington receivers Dyami Brown and Treylon Burks were listed OUT on the Week 9 report; official Commanders inactives include Burks. That supports further review of a healthier starting-QB/receiving comparison, not a quantified edge. ESPN lists the Rams 4-4 at Washington 2-4-1, 1:00 PM EST at Northwest Stadium.",
-          "remaining_checks": "Official Rams inactives: QB Ty Simpson (emergency third QB), CB Trent McDuffie, LS Joe Cardona, OLB Darryl Peterson III, OL Bill Murray, OL Keagen Trost and OLB Desjuan Johnson. McDuffie, previously questionable, is inactive; Cardona, previously doubtful, is also inactive. Jaylen Watson remains listed OUT on the injury report and was not among the seven names. Kamren Curl, Jordan Whittington and Colby Parkinson are not on the inactive list. Official Commanders inactives: WR Treylon Burks, QB Athan Kaliakmanis (emergency third QB), CB Fabian Moreau, CB Isaac Yiadom and G Tanoa Togiai. Jayden Daniels and Jer’Zhan Newton are not listed as inactive; do not presume a quarterback absence. Dyami Brown remains listed OUT on the injury report and was not among those Commanders names. This remains the weaker conditional reserve because the Rams secondary is now without McDuffie after Watson was already out. The 11:00 AM EST price snapshot predates these official lists. Open-Meteo near 1:00 PM EST: about 60°F, wind 10 mph, gusts 17 mph, precip 0%.",
+          "remaining_checks": "Official Rams inactives: QB Ty Simpson (emergency third QB), CB Trent McDuffie, LS Joe Cardona, OLB Darryl Peterson III, OL Bill Murray, OL Keagen Trost and OLB Desjuan Johnson. McDuffie, previously questionable, is inactive; Cardona, previously doubtful, is also inactive. Jaylen Watson remains listed OUT on the injury report and was not among the seven names. Kamren Curl, Jordan Whittington and Colby Parkinson are not on the inactive list. Official Commanders inactives: WR Treylon Burks, QB Athan Kaliakmanis (emergency third QB), CB Fabian Moreau, CB Isaac Yiadom and G Tanoa Togiai. Jayden Daniels and Jer’Zhan Newton are not listed as inactive; do not presume a quarterback absence. Dyami Brown remains listed OUT on the injury report and was not among those Commanders names. This remains the weaker conditional reserve because the Rams secondary is now without McDuffie after Watson was already out. The 12:00 PM EST snapshot moved LAR from -220 to -230 after those official lists. Open-Meteo near 1:00 PM EST: about 60°F, wind 9 mph, gusts 15 mph, precip 0%.",
           "sources": [
             "https://www.therams.com/news/injury-updates",
             "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
@@ -257,25 +257,25 @@
           ],
           "start_at": "2026-11-08T13:00:00-05:00",
           "event_key": "espn-nfl-401873043",
-          "checked_at": "2026-11-08T11:48:23-05:00",
+          "checked_at": "2026-11-08T12:22:55-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
-          "price_quoted_at": "2026-11-08T11:00:28-05:00",
+          "price_quoted_at": "2026-11-08T12:00:28-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
           "availability_source": "https://www.nfl.com/news/nfl-week-9-inactives-players-ruled-out-sunday-2026-season",
-          "availability_checked_at": "2026-11-08T11:48:23-05:00",
-          "lineup_status": "Official NFL.com inactives for the 1:00 PM EST game are posted (article updated 11:43 AM EST). Trent McDuffie and Joe Cardona are inactive. Kamren Curl, Jordan Whittington and Colby Parkinson are not on the Rams list.",
-          "weather_status": "Outdoor Northwest Stadium. Rechecked Open-Meteo this review: ~60°F, wind about 10 mph, gusts about 17 mph, no rain in the hourly forecast at 1:00 PM EST. Refresh again before kickoff."
+          "availability_checked_at": "2026-11-08T12:22:55-05:00",
+          "lineup_status": "Official NFL.com inactives for the 1:00 PM EST game remain posted (article updatedDate 11:43 AM EST; unchanged this review). Trent McDuffie and Joe Cardona are inactive. Kamren Curl, Jordan Whittington and Colby Parkinson are not on the Rams list.",
+          "weather_status": "Outdoor Northwest Stadium. Rechecked Open-Meteo this review: ~60°F, wind about 9 mph, gusts about 15 mph, no rain in the hourly forecast at 1:00 PM EST. Refresh again before kickoff."
         },
         {
           "team": "Denver Broncos",
           "market": "Moneyline",
-          "american_odds": -152,
+          "american_odds": -164,
           "event": "Denver Broncos @ Carolina Panthers",
           "start_est": "2026-11-08 1:00 PM EST",
           "venue": "Bank of America Stadium",
           "evidence": "ESPN lists Denver 6-2 at Carolina 3-4, 1:00 PM EST at Bank of America Stadium. Official Panthers inactives include G Damien Lewis, OLB Jaelan Phillips, LB Bobby Okereke and CB Will Lee III, matching the Week 9 outs, plus QB Haynes King (emergency third QB), RB AJ Dillon and DT TeRah Edwards. Bo Nix is Denver’s listed passing leader and is not on the Broncos inactive list. Record and opponent absences are descriptive support, not a calibrated win probability. Counterevidence: Carolina’s season offense is 25.4 points/game (9th) and 363.7 yards/game (9th) versus Denver’s 21.5 (21st) and 273.0 (30th) on the NFL.com game page.",
-          "remaining_checks": "Official Broncos inactives: QB Sam Ehlinger (emergency third QB), WR Lil’Jordan Humphrey, S Talanoa Hufanga, S Brandon Jones, CB Kris Abrams-Draine, OL Kage Casey and TE Dallen Bentley. Hufanga, previously questionable, is inactive along with the already-out Jones and Abrams-Draine. Pat Bryant and Dondrea Tillman are not on the inactive list. Eyioma Uwazurike remains listed OUT on the injury report but was not among Denver’s seven names. The confirmed Hufanga absence is a defensive hit on an already thinner secondary. The 11:00 AM EST price snapshot predates these official lists. Open-Meteo near 1:00 PM EST: about 65°F, wind 9 mph, gusts 13 mph, precip 0%.",
+          "remaining_checks": "Official Broncos inactives: QB Sam Ehlinger (emergency third QB), WR Lil’Jordan Humphrey, S Talanoa Hufanga, S Brandon Jones, CB Kris Abrams-Draine, OL Kage Casey and TE Dallen Bentley. Hufanga, previously questionable, is inactive along with the already-out Jones and Abrams-Draine. Pat Bryant and Dondrea Tillman are not on the inactive list; the Broncos’ official inactives article also says both are active. Eyioma Uwazurike remains listed OUT on the injury report but was not among Denver’s seven names. The confirmed Hufanga absence is a defensive hit on an already thinner secondary. The 12:00 PM EST snapshot moved DEN from -152 to -164 after those official lists. Open-Meteo near 1:00 PM EST: about 65°F, wind 8 mph, gusts 11 mph, precip 0%.",
           "sources": [
             "https://www.nfl.com/games/broncos-at-panthers-2026-reg-9",
             "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
@@ -283,22 +283,23 @@
             "https://www.nfl.com/injuries/",
             "https://api.open-meteo.com/v1/forecast?latitude=35.225&longitude=-80.853&hourly=temperature_2m,precipitation_probability,wind_speed_10m,wind_gusts_10m&start_date=2026-11-08&end_date=2026-11-08&timezone=America%2FNew_York&temperature_unit=fahrenheit&wind_speed_unit=mph",
             "https://www.nfl.com/news/week-9-injuries-sunday-pregame-2026-nfl-season",
-            "https://www.nfl.com/news/nfl-week-9-inactives-players-ruled-out-sunday-2026-season"
+            "https://www.nfl.com/news/nfl-week-9-inactives-players-ruled-out-sunday-2026-season",
+            "https://www.denverbroncos.com/news/broncos-announce-inactives-for-week-9-game-vs-panthers"
           ],
           "start_at": "2026-11-08T13:00:00-05:00",
           "event_key": "espn-nfl-401873041",
-          "checked_at": "2026-11-08T11:48:23-05:00",
+          "checked_at": "2026-11-08T12:22:55-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
-          "price_quoted_at": "2026-11-08T11:00:28-05:00",
+          "price_quoted_at": "2026-11-08T12:00:28-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nfl/schedule/_/date/20261108",
           "availability_source": "https://www.nfl.com/news/nfl-week-9-inactives-players-ruled-out-sunday-2026-season",
-          "availability_checked_at": "2026-11-08T11:48:23-05:00",
-          "lineup_status": "Official NFL.com inactives for the 1:00 PM EST game are posted (article updated 11:43 AM EST). Talanoa Hufanga, Brandon Jones and Kris Abrams-Draine are inactive. Pat Bryant and Dondrea Tillman are not on the Broncos list.",
-          "weather_status": "Outdoor Bank of America Stadium. Rechecked Open-Meteo this review: ~65°F, wind about 9 mph, gusts about 13 mph, no rain in the hourly forecast at 1:00 PM EST. Refresh again before kickoff."
+          "availability_checked_at": "2026-11-08T12:22:55-05:00",
+          "lineup_status": "Official NFL.com inactives for the 1:00 PM EST game remain posted (article updatedDate 11:43 AM EST; unchanged this review). Talanoa Hufanga, Brandon Jones and Kris Abrams-Draine are inactive. Pat Bryant and Dondrea Tillman are not on the Broncos list.",
+          "weather_status": "Outdoor Bank of America Stadium. Rechecked Open-Meteo this review: ~65°F, wind about 8 mph, gusts about 11 mph, no rain in the hourly forecast at 1:00 PM EST. Refresh again before kickoff."
         }
       ],
-      "theoretical_decimal_return": 2.411483253588517,
+      "theoretical_decimal_return": 2.3096500530222692,
       "result": "UNSETTLED_RESEARCH",
       "link_mode": "selection_bearing_universal_link_cached_ids_live_acceptance_unverified",
       "betslip_link_pa": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=742.194080827&selectionId%5B0%5D=10782388&marketId%5B1%5D=742.194080483&selectionId%5B1%5D=50211",
@@ -335,7 +336,7 @@
           "event_key": "espn-nfl-401873041"
         }
       ],
-      "status_reason": "Official 1:00 PM EST inactives are posted: Rams CB Trent McDuffie and Broncos S Talanoa Hufanga are inactive. Kamren Curl is not on the Rams list; Pat Bryant and Dondrea Tillman are not on the Broncos list. This remains the weaker reserve because of those confirmed secondary absences. Await current PA/MD prices and live selection acceptance. These are researched candidates, not ready-to-bet or guaranteed winners.",
+      "status_reason": "Official 1:00 PM EST inactives are unchanged: Rams CB Trent McDuffie and Broncos S Talanoa Hufanga are inactive. Kamren Curl is not on the Rams list; Pat Bryant and Dondrea Tillman are not on the Broncos list. The 12:00 PM EST AgentBets snapshot moved LAR -220 to -230 and DEN -152 to -164. This remains the weaker reserve because of those confirmed secondary absences. Await current PA/MD prices and live selection acceptance. These are researched candidates, not ready-to-bet or guaranteed winners.",
       "availability_confirmed": true,
       "price_live_verified": false,
       "link_live_verified": false
@@ -358,16 +359,16 @@
   "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
   "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
   "schema_version": 2,
-  "last_checked_at": "2026-11-08T11:48:23-05:00",
+  "last_checked_at": "2026-11-08T12:22:55-05:00",
   "policies": {
     "max_price_age_minutes": 120,
     "max_review_age_minutes": 75
   },
-  "research_scope": "NFL moneylines rechecked against the official Week 9 injury report, the NFL.com Week 9 inactives article (updated 11:43 AM EST after a wait through the typical 11:30 AM window), ESPN Nov 8 scoreboard, StatsNext/Football Database season offense figures, Open-Meteo venue forecasts, and an 11:00 AM EST AgentBets FanDuel snapshot (4:00 PM UTC / dateModified 2026-11-08T16:00:28.410Z). That snapshot predates the official 1:00 PM inactive lists. NHL and NBA screened again; no additional cards passed the evidence, availability, or independently established selection-ID checks. Other FanDuel markets remain eligible, not automatically suitable.",
+  "research_scope": "NFL moneylines rechecked against the official Week 9 injury report, the NFL.com Week 9 inactives article (updatedDate 11:43 AM EST / dateModified 11:44 AM EST; 1:00 PM lists unchanged and late-game sections still empty), NFL.com game pages and live injury tables, Open-Meteo venue forecasts, and a 12:00 PM EST AgentBets FanDuel snapshot (5:00 PM UTC / dateModified 2026-11-08T17:00:28.431Z). Direct ESPN schedule fetch returned HTTP 403 this run; start times were corroborated on NFL.com injury/inactives/game pages and the AgentBets slate. NHL and NBA screened again; no additional cards passed the evidence, availability, or independently established selection-ID checks. Other FanDuel markets remain eligible, not automatically suitable.",
   "research_holds": [
     {
       "title": "NHL: no new card staged",
-      "reason": "Daily Faceoff now lists 2 of 12 Sunday goalies as confirmed (Florida’s Jacob Markstrom at Boston, per Rob Darragh; Calgary’s Devin Cooley vs. Philadelphia, per Pat Steinberg). Counterpart starters remain unconfirmed or only likely (Boston’s Jeremy Swayman unconfirmed; Philadelphia’s Dan Vladar listed as likely/expected). One-side confirmations and projected names are not enough to stage a card. An 11:00 AM EST AgentBets FanDuel NHL snapshot exists, but prices alone do not establish an advantage or replace full lineup confirmation. No independently established FanDuel NHL selection identifiers.",
+      "reason": "Daily Faceoff now lists 3 of 12 Sunday goalies as confirmed (Florida’s Jacob Markstrom at Boston, per Rob Darragh; Boston’s Jeremy Swayman vs. Florida, per Scott Mclaughlin; Calgary’s Devin Cooley vs. Philadelphia, per Pat Steinberg). Florida at Boston is the only game with both starters confirmed. Counterpart starters for other games remain unconfirmed or only likely (Philadelphia’s Dan Vladar listed as likely/expected per Ryan Pike; Winnipeg’s Stuart Skinner likely; Toronto’s Anthony Stolarz likely). One fully confirmed matchup plus projected names is not enough to stage a two-leg card, and no independently established FanDuel NHL selection identifiers exist. A 12:00 PM EST AgentBets FanDuel NHL snapshot exists (same 5:00 PM UTC refresh as NFL), but prices alone do not establish an advantage.",
       "sources": [
         "https://www.dailyfaceoff.com/starting-goalies/2026-11-08",
         "https://agentbets.ai/odds/fanduel/nhl/"
@@ -375,7 +376,7 @@
     },
     {
       "title": "NBA: no new card staged",
-      "reason": "The official NBA injury-report page lists updates through the 11:15 AM ET report, but later game-day submission windows are not uniformly complete (reports due 11 AM–1 PM local for most tips; 8–10 AM local for early tips). Today’s AgentBets FanDuel slate includes Philadelphia -390 at Chicago, Minnesota -510 vs. Utah, Boston -700 at Milwaukee, and Miami -430 at Sacramento; heavy posted favorites were not added on record/price alone. No exact current FanDuel NBA selection identifiers were independently established, so no manufactured load-picks links.",
+      "reason": "The official NBA injury-report page now lists updates through the 12:15 p.m. ET report, but later game-day submission windows are not uniformly complete (reports due 11 AM–1 PM local for most tips; 8–10 AM local for early tips). The latest AgentBets FanDuel NBA snapshot on that page is still 11:00 AM EST (4:00 PM UTC / dateModified 2026-11-08T16:00:28.410Z) and includes Philadelphia -390 at Chicago, Minnesota -510 vs. Utah, Dallas -290 vs. Brooklyn, Boston -700 at Milwaukee, and Miami -430 at Sacramento; heavy posted favorites were not added on record/price alone. No exact current FanDuel NBA selection identifiers were independently established, so no manufactured load-picks links.",
       "sources": [
         "https://official.nba.com/nba-injury-report-2026-27-season/",
         "https://agentbets.ai/odds/fanduel/nba/"
@@ -409,6 +410,10 @@
     {
       "at": "2026-11-08T11:48:23-05:00",
       "text": "Hourly review after waiting through the 11:30 AM EST inactives window: AgentBets FanDuel NFL snapshot advanced to 11:00 AM EST (4:00 PM UTC). Staged moneylines moved — DET -295 to -310, HOU unchanged at -240, LAR -235 to -220, DEN -146 to -152 — for theoretical returns of about 1.874x (Lions/Texans) and 2.411x (Rams/Broncos). Official NFL.com Week 9 inactives (article updated 11:43 AM EST) do not list Amon-Ra St. Brown among Detroit’s seven inactives; Jacob Saylors and Miami’s Jaylen Wright are inactive. Houston/Chargers 4:05 PM inactives are not posted yet. Rams CB Trent McDuffie and Broncos S Talanoa Hufanga are inactive; Kamren Curl, Pat Bryant and Dondrea Tillman are not listed inactive. Official Cowboys inactives include George Pickens, Luke Schoonmaker, DeMarvion Overshown and Joey Porter Jr., so Cowboys/Patriots remain withdrawn (NE -178 back to -174 on the 11:00 AM snapshot; 4:25 PM inactives not posted). Chargers Awosika, Njoku, Perryman and Thompson are DOUBTFUL on the live nfl.com/injuries tables. NHL now 2 of 12 confirmed goalies, still no card. No NBA card added."
+    },
+    {
+      "at": "2026-11-08T12:22:55-05:00",
+      "text": "Hourly review: AgentBets FanDuel NFL snapshot advanced to 12:00 PM EST (5:00 PM UTC). Staged Lions/Texans moneylines unchanged (DET -310, HOU -240, theoretical about 1.874x). Rams/Broncos moved — LAR -220 to -230, DEN -152 to -164 — for a theoretical return of about 2.310x ($10 → $23.10, $25 → $57.74). Official 1:00 PM EST inactives are unchanged from the NFL.com article (updatedDate 11:43 AM EST); 4:05/4:25/Sunday Night lists are not posted yet. Chargers Awosika, Njoku, Perryman and Thompson remain DOUBTFUL on the live nfl.com/injuries tables. Cowboys/Patriots remain withdrawn; Dallas’s posted moneyline moved from -235 to -198 (NE unchanged at -174). NHL now 3 of 12 confirmed goalies (Swayman confirmed opposite Markstrom), still no card. No NBA card added. Both staged cards include a 1:00 PM EST leg and will be held at that kickoff."
     }
   ]
 }
