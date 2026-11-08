@@ -48,7 +48,7 @@
       ],
       "theoretical_decimal_return": 1.8968926553672316,
       "result": "UNSETTLED_RESEARCH",
-      "link_mode": "official_sportsbook_only_not_prefilled"
+      "link_mode": "ios_universal_link_user_triggered_not_guaranteed_not_prefilled"
     },
     {
       "id": "nov08-b",
@@ -89,7 +89,7 @@
       ],
       "theoretical_decimal_return": 2.290491118077325,
       "result": "UNSETTLED_RESEARCH",
-      "link_mode": "official_sportsbook_only_not_prefilled"
+      "link_mode": "ios_universal_link_user_triggered_not_guaranteed_not_prefilled"
     },
     {
       "id": "nov08-c",
@@ -130,7 +130,17 @@
       ],
       "theoretical_decimal_return": 2.401923637423492,
       "result": "UNSETTLED_RESEARCH",
-      "link_mode": "official_sportsbook_only_not_prefilled"
+      "link_mode": "ios_universal_link_user_triggered_not_guaranteed_not_prefilled"
     }
-  ]
+  ],
+  "app_link": "https://sportsbook.fanduel.com/navigation/nfl",
+  "app_link_mode": "ios_universal_link_user_triggered_not_guaranteed_not_prefilled",
+  "app_store_fallback": "https://apps.apple.com/us/app/fanduel-sportsbook-casino/id1413721906",
+  "app_state_selection": "location/account controlled; PA/MD affects website fallback only",
+  "app_link_evidence": [
+    "https://sportsbook.fanduel.com/.well-known/apple-app-site-association",
+    "https://itunes.apple.com/lookup?id=1413721906&country=us",
+    "https://developer.apple.com/library/archive/documentation/General/Conceptual/AppSearch/WebContent.html"
+  ],
+  "app_links_updated_est": "2026-11-08T07:10:53-05:00"
 }
