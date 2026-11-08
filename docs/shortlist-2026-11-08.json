@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-08",
+  "published_est": "2026-11-08T07:04:54-05:00",
+  "odds_reported_at_est": "2026-11-08T06:00:00-05:00",
+  "odds_source": "https://agentbets.ai/odds/fanduel/nfl/",
+  "pa_md_prices_verified": false,
+  "fully_cleared": false,
+  "shared_legs": false,
+  "link_pa": "https://pa.sportsbook.fanduel.com/",
+  "link_md": "https://md.sportsbook.fanduel.com/",
+  "cards": [
+    {
+      "id": "nov08-a",
+      "title": "Lions + Texans",
+      "status": "Conditional shortlist — not fully cleared",
+      "tier": "Lower payout; higher raw price-implied probability than the reserves",
+      "legs": [
+        {
+          "team": "Detroit Lions",
+          "market": "Moneyline",
+          "american_odds": -295,
+          "event": "Detroit Lions @ Miami Dolphins",
+          "start_est": "2026-11-08 1:00 PM EST",
+          "venue": "Hard Rock Stadium",
+          "evidence": "NFL: Detroit ranks third in scoring and first in yards; Miami ranks 31st and 27th. Official game center identifies Jared Goff with Detroit.",
+          "remaining_checks": "Amon-Ra St. Brown questionable; five Lions outs include Jack Campbell, Kerby Joseph, D.J. Reed and Cade Mays. Check 11:30 AM EST inactives. Miami forecast: 84°F, wind 4 mph; refresh before kickoff.",
+          "sources": [
+            "https://www.nfl.com/games/lions-at-dolphins-2026-reg-9",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.espn.com/nfl/schedule/_/date/20261108"
+          ]
+        },
+        {
+          "team": "Houston Texans",
+          "market": "Moneyline",
+          "american_odds": -240,
+          "event": "Houston Texans @ Los Angeles Chargers",
+          "start_est": "2026-11-08 4:05 PM EST",
+          "venue": "SoFi Stadium",
+          "evidence": "NFL: Houston scores 23.6 points/game versus 14.1 for Los Angeles; turnover differential +3 versus -6. Official game center identifies C.J. Stroud with Houston.",
+          "remaining_checks": "David Montgomery and Reed Blankenship out. Chargers doubtful/questionable descriptions differ across reports; verify final inactives around 2:35 PM EST.",
+          "sources": [
+            "https://www.nfl.com/games/texans-at-chargers-2026-reg-9",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.espn.com/nfl/schedule/_/date/20261108"
+          ]
+        }
+      ],
+      "theoretical_decimal_return": 1.8968926553672316,
+      "result": "UNSETTLED_RESEARCH",
+      "link_mode": "official_sportsbook_only_not_prefilled"
+    },
+    {
+      "id": "nov08-b",
+      "title": "Cowboys + Patriots",
+      "status": "Conditional reserve — higher variance; not fully cleared",
+      "tier": "Higher payout, lower raw price-implied probability",
+      "legs": [
+        {
+          "team": "Dallas Cowboys",
+          "market": "Moneyline",
+          "american_odds": -220,
+          "event": "Dallas Cowboys @ Indianapolis Colts",
+          "start_est": "2026-11-08 1:00 PM EST",
+          "venue": "Lucas Oil Stadium",
+          "evidence": "Indianapolis has confirmed defensive absences including Justin Walley and Akeem Davis-Gaither.",
+          "remaining_checks": "George Pickens, Jake Ferguson and multiple Dallas defenders questionable; Jonathan Taylor practiced fully for Indianapolis. Independently confirm expected starting quarterback Dak Prescott and final roster. Check 11:30 AM EST inactives and stadium roof status.",
+          "sources": [
+            "https://www.dallascowboys.com/team/injury-report/",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.espn.com/nfl/schedule/_/date/20261108"
+          ]
+        },
+        {
+          "team": "New England Patriots",
+          "market": "Moneyline",
+          "american_odds": -174,
+          "event": "Green Bay Packers @ New England Patriots",
+          "start_est": "2026-11-08 4:25 PM EST",
+          "venue": "Gillette Stadium",
+          "evidence": "Drake Maye practiced fully with no game designation. Green Bay is missing Micah Parsons, Zaire Franklin, Sean Rhyan and Travis Glover.",
+          "remaining_checks": "A.J. Brown and TreVeyon Henderson out; Hunter Henry, Morgan Moses and others questionable. Check 2:55 PM EST inactives. Forecast near kickoff: 48°F, wind 8 mph, gusts 24 mph; refresh.",
+          "sources": [
+            "https://www.patriots.com/game-day/2026/reg-week9/packers-at-patriots/injuries",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.espn.com/nfl/schedule/_/date/20261108"
+          ]
+        }
+      ],
+      "theoretical_decimal_return": 2.290491118077325,
+      "result": "UNSETTLED_RESEARCH",
+      "link_mode": "official_sportsbook_only_not_prefilled"
+    },
+    {
+      "id": "nov08-c",
+      "title": "Rams + Broncos",
+      "status": "Conditional reserve — higher variance; not fully cleared",
+      "tier": "Higher payout, lower raw price-implied probability",
+      "legs": [
+        {
+          "team": "Los Angeles Rams",
+          "market": "Moneyline",
+          "american_odds": -235,
+          "event": "Los Angeles Rams @ Washington Commanders",
+          "start_est": "2026-11-08 1:00 PM EST",
+          "venue": "Northwest Stadium",
+          "evidence": "Matthew Stafford practiced fully. Washington has Dyami Brown and Treylon Burks out.",
+          "remaining_checks": "Rams: Jaylen Watson and Terrance Ferguson out, long snapper Joe Cardona doubtful, Trent McDuffie and Kam Curl questionable. Check 11:30 AM EST inactives. Forecast: 62°F, wind 11 mph, gusts 21 mph; refresh.",
+          "sources": [
+            "https://www.therams.com/news/injury-updates",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.espn.com/nfl/schedule/_/date/20261108"
+          ]
+        },
+        {
+          "team": "Denver Broncos",
+          "market": "Moneyline",
+          "american_odds": -146,
+          "event": "Denver Broncos @ Carolina Panthers",
+          "start_est": "2026-11-08 1:00 PM EST",
+          "venue": "Bank of America Stadium",
+          "evidence": "Official NFL game center identifies Bo Nix with Denver. Carolina is missing Damien Lewis, Jaelan Phillips, Bobby Okereke and Will Lee III.",
+          "remaining_checks": "Denver also has defensive absences; Talanoa Hufanga questionable. Verify starting lineup and 11:30 AM EST inactives. Forecast: 65°F, wind 7 mph; refresh.",
+          "sources": [
+            "https://www.nfl.com/games/broncos-at-panthers-2026-reg-9",
+            "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season",
+            "https://www.espn.com/nfl/schedule/_/date/20261108"
+          ]
+        }
+      ],
+      "theoretical_decimal_return": 2.401923637423492,
+      "result": "UNSETTLED_RESEARCH",
+      "link_mode": "official_sportsbook_only_not_prefilled"
+    }
+  ]
+}
