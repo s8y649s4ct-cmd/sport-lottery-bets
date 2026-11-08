@@ -48,7 +48,33 @@
       ],
       "theoretical_decimal_return": 1.8968926553672316,
       "result": "UNSETTLED_RESEARCH",
-      "link_mode": "ios_universal_link_user_triggered_not_guaranteed_not_prefilled"
+      "link_mode": "selection_bearing_universal_link_cached_ids_live_acceptance_unverified",
+      "betslip_link_pa": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=742.194080730&selectionId%5B0%5D=50193&marketId%5B1%5D=742.194080802&selectionId%5B1%5D=179823",
+      "betslip_link_md": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=724.194219471&selectionId%5B0%5D=50193&marketId%5B1%5D=724.194219532&selectionId%5B1%5D=179823",
+      "betslip_identifier_records": [
+        {
+          "sel": "Detroit Lions",
+          "event": "Detroit Lions @ Miami Dolphins",
+          "time": "2026-11-08T18:00:00+00:00",
+          "eventId": 36244872,
+          "selectionId": 50193,
+          "pa": "742.194080730",
+          "md": "724.194219471",
+          "market": "Moneyline",
+          "espn_event": "401873042"
+        },
+        {
+          "sel": "Houston Texans",
+          "event": "Houston Texans @ Los Angeles Chargers",
+          "time": "2026-11-08T21:05:00+00:00",
+          "eventId": 36244874,
+          "selectionId": 179823,
+          "pa": "742.194080802",
+          "md": "724.194219532",
+          "market": "Moneyline",
+          "espn_event": "401873046"
+        }
+      ]
     },
     {
       "id": "nov08-b",
@@ -89,7 +115,33 @@
       ],
       "theoretical_decimal_return": 2.290491118077325,
       "result": "UNSETTLED_RESEARCH",
-      "link_mode": "ios_universal_link_user_triggered_not_guaranteed_not_prefilled"
+      "link_mode": "selection_bearing_universal_link_cached_ids_live_acceptance_unverified",
+      "betslip_link_pa": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=742.194080498&selectionId%5B0%5D=50189&marketId%5B1%5D=742.194080883&selectionId%5B1%5D=50204",
+      "betslip_link_md": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=724.194219239&selectionId%5B0%5D=50189&marketId%5B1%5D=724.194219618&selectionId%5B1%5D=50204",
+      "betslip_identifier_records": [
+        {
+          "sel": "Dallas Cowboys",
+          "event": "Dallas Cowboys @ Indianapolis Colts",
+          "time": "2026-11-08T18:00:00+00:00",
+          "eventId": 36244868,
+          "selectionId": 50189,
+          "pa": "742.194080498",
+          "md": "724.194219239",
+          "market": "Moneyline",
+          "espn_event": "401873040"
+        },
+        {
+          "sel": "New England Patriots",
+          "event": "Green Bay Packers @ New England Patriots",
+          "time": "2026-11-08T21:25:00+00:00",
+          "eventId": 36244877,
+          "selectionId": 50204,
+          "pa": "742.194080883",
+          "md": "724.194219618",
+          "market": "Moneyline",
+          "espn_event": "401873049"
+        }
+      ]
     },
     {
       "id": "nov08-c",
@@ -130,17 +182,49 @@
       ],
       "theoretical_decimal_return": 2.401923637423492,
       "result": "UNSETTLED_RESEARCH",
-      "link_mode": "ios_universal_link_user_triggered_not_guaranteed_not_prefilled"
+      "link_mode": "selection_bearing_universal_link_cached_ids_live_acceptance_unverified",
+      "betslip_link_pa": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=742.194080827&selectionId%5B0%5D=10782388&marketId%5B1%5D=742.194080483&selectionId%5B1%5D=50211",
+      "betslip_link_md": "https://sportsbook.fanduel.com/addToBetslip?marketId%5B0%5D=724.194219571&selectionId%5B0%5D=10782388&marketId%5B1%5D=724.194219223&selectionId%5B1%5D=50211",
+      "betslip_identifier_records": [
+        {
+          "sel": "Los Angeles Rams",
+          "event": "Los Angeles Rams @ Washington Commanders",
+          "time": "2026-11-08T18:00:00+00:00",
+          "eventId": 36244876,
+          "selectionId": 10782388,
+          "pa": "742.194080827",
+          "md": "724.194219571",
+          "market": "Moneyline",
+          "espn_event": "401873043"
+        },
+        {
+          "sel": "Denver Broncos",
+          "event": "Denver Broncos @ Carolina Panthers",
+          "time": "2026-11-08T18:00:00+00:00",
+          "eventId": 36244867,
+          "selectionId": 50211,
+          "pa": "742.194080483",
+          "md": "724.194219223",
+          "market": "Moneyline",
+          "espn_event": "401873041"
+        }
+      ]
     }
   ],
   "app_link": "https://sportsbook.fanduel.com/navigation/nfl",
   "app_link_mode": "ios_universal_link_user_triggered_not_guaranteed_not_prefilled",
   "app_store_fallback": "https://apps.apple.com/us/app/fanduel-sportsbook-casino/id1413721906",
-  "app_state_selection": "location/account controlled; PA/MD affects website fallback only",
+  "app_state_selection": "PA/MD chooses cached betslip market IDs and website fallback; app location/account rules still apply",
   "app_link_evidence": [
     "https://sportsbook.fanduel.com/.well-known/apple-app-site-association",
     "https://itunes.apple.com/lookup?id=1413721906&country=us",
     "https://developer.apple.com/library/archive/documentation/General/Conceptual/AppSearch/WebContent.html"
   ],
-  "app_links_updated_est": "2026-11-08T07:10:53-05:00"
+  "app_links_updated_est": "2026-11-08T07:10:53-05:00",
+  "betslip_identifiers_source": "Existing today.json/all_legs, corroborated with today_1030.json/all_legs; identifiers copied unchanged, not derived from ESPN IDs",
+  "betslip_identifiers_cached_at_est": "2026-11-07T15:02:36.809171-05:00",
+  "betslip_live_verified": false,
+  "betslip_end_to_end_verified": false,
+  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
+  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00"
 }
