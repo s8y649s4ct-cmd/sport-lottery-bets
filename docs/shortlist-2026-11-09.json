@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
-  "published_est": "2026-11-09T18:26:00-05:00",
-  "odds_reported_at_est": "2026-11-09T18:00:00-05:00",
+  "published_est": "2026-11-09T19:24:00-05:00",
+  "odds_reported_at_est": "2026-11-09T19:00:00-05:00",
   "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
   "pa_md_prices_verified": false,
   "fully_cleared": false,
@@ -14,7 +14,7 @@
       "title": "Spurs + Warriors",
       "status": "conditional",
       "tier": "Both favorites carry long current win streaks; Warriors leg strengthened by Pelicans' absences, now including Zion Williamson",
-      "status_reason": "Conditional: the official 6:15 PM ET report is unchanged for these four teams (Pelicans without Zion Williamson (rest), Trey Murphy III, Yves Missi and Trendon Watford; Spurs without Vassell and Tobias Harris; Suns' Jordan Goodwin questionable). Reported FanDuel prices at 6:00 PM EST are unchanged: SA -375, GS -590 (theoretical 1.481x). Starters, live PA/MD price and exact selection IDs are still missing; links are app-only.",
+      "status_reason": "Conditional: the official 7:15 PM ET report is unchanged for these four teams (Pelicans without Zion Williamson (rest), Trey Murphy III, Yves Missi and Trendon Watford; Spurs without Vassell and Tobias Harris; Suns' Jordan Goodwin questionable; Warriors' Gary Payton II questionable). Reported FanDuel prices at 7:00 PM EST are unchanged: SA -375, GS -590 (theoretical 1.481x). Starters, live PA/MD price and exact selection IDs are still missing; links are app-only.",
       "availability_confirmed": false,
       "price_live_verified": false,
       "link_live_verified": false,
@@ -22,13 +22,13 @@
       "link_mode": "app_only_no_exact_ids",
       "legs": [
         {
-          "checked_at": "2026-11-09T18:26:00-05:00",
+          "checked_at": "2026-11-09T19:24:00-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-          "price_quoted_at": "2026-11-09T18:00:00-05:00",
+          "price_quoted_at": "2026-11-09T19:00:00-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261109",
-          "availability_checked_at": "2026-11-09T18:26:00-05:00",
-          "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_06_15PM.pdf",
+          "availability_checked_at": "2026-11-09T19:24:00-05:00",
+          "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_07_15PM.pdf",
           "team": "San Antonio Spurs",
           "market": "Moneyline",
           "american_odds": -375,
@@ -38,24 +38,24 @@
           "start_at": "2026-11-09T21:00:00-05:00",
           "event_key": "espn-nba-401909958",
           "evidence": "ESPN standings: San Antonio 8-2 (4-0 on the road), eight straight wins, +10.3 average point differential (118.4 scored, 108.1 allowed). Phoenix is 3-5 with a -6.2 differential (112.4 / 118.6), though it has won two straight and is 3-2 at home. Phoenix center Mark Williams is out long-term after shoulder surgery.",
-          "remaining_checks": "Official NBA report 6:15 PM ET: Spurs' Devin Vassell moved from QUESTIONABLE to OUT (left adductor tightness) and Tobias Harris stays OUT (left calf strain); Suns' Jordan Goodwin QUESTIONABLE (right calf) and Mark Williams OUT. Counterevidence and open items: San Antonio is now without two rotation wings (Harris and Vassell). Starting lineups not yet confirmed. Live PA/MD price not verified.",
-          "lineup_status": "Official 6:15 PM ET NBA injury report checked; starters not yet confirmed.",
+          "remaining_checks": "Official NBA report 7:15 PM ET: Spurs' Devin Vassell moved from QUESTIONABLE to OUT (left adductor tightness) and Tobias Harris stays OUT (left calf strain); Suns' Jordan Goodwin QUESTIONABLE (right calf) and Mark Williams OUT. Counterevidence and open items: San Antonio is now without two rotation wings (Harris and Vassell). Starting lineups not yet confirmed. Live PA/MD price not verified.",
+          "lineup_status": "Official 7:15 PM ET NBA injury report checked; starters not yet confirmed.",
           "weather_status": "Indoor arena; weather not a factor.",
           "sources": [
             "https://www.espn.com/nba/game/_/gameId/401909958",
             "https://www.espn.com/nba/injuries",
             "https://www.espn.com/nba/standings",
-            "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_06_15PM.pdf"
+            "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_07_15PM.pdf"
           ]
         },
         {
-          "checked_at": "2026-11-09T18:26:00-05:00",
+          "checked_at": "2026-11-09T19:24:00-05:00",
           "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-          "price_quoted_at": "2026-11-09T18:00:00-05:00",
+          "price_quoted_at": "2026-11-09T19:00:00-05:00",
           "price_state_verified": false,
           "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261109",
-          "availability_checked_at": "2026-11-09T18:26:00-05:00",
-          "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_06_15PM.pdf",
+          "availability_checked_at": "2026-11-09T19:24:00-05:00",
+          "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_07_15PM.pdf",
           "team": "Golden State Warriors",
           "market": "Moneyline",
           "american_odds": -590,
@@ -65,14 +65,14 @@
           "start_at": "2026-11-09T22:00:00-05:00",
           "event_key": "espn-nba-401909959",
           "evidence": "ESPN standings: Golden State 7-3 (5-1 at home), seven straight wins, +5.0 differential. New Orleans is 4-6 (1-3 on the road), -0.3 differential, two straight losses, and is on the second night of a back-to-back after losing 139-123 at the LA Clippers on Sunday (ESPN final).",
-          "remaining_checks": "Official NBA report 6:15 PM ET: Warriors' Butler III, Moody, Porzingis (not with team) and Will Richard OUT, Gary Payton II QUESTIONABLE (left knee), Gui Santos PROBABLE. New Orleans: Zion Williamson newly OUT (rest) on the back-to-back, joining Trey Murphy III, Yves Missi and Trendon Watford OUT, plus two-way players Dia and Pierre Jr. Counterevidence and open items: Golden State is itself missing Butler, Moody and Porzingis, and New Orleans scores 120.5 per game, so a shootout is plausible. Starters and live PA/MD price not yet checked.",
-          "lineup_status": "Official 6:15 PM ET NBA injury report checked; starters not yet confirmed.",
+          "remaining_checks": "Official NBA report 7:15 PM ET: Warriors' Butler III, Moody, Porzingis (not with team) and Will Richard OUT, Gary Payton II QUESTIONABLE (left knee), Gui Santos PROBABLE. New Orleans: Zion Williamson newly OUT (rest) on the back-to-back, joining Trey Murphy III, Yves Missi and Trendon Watford OUT, plus two-way players Dia and Pierre Jr. Counterevidence and open items: Golden State is itself missing Butler, Moody and Porzingis, and New Orleans scores 120.5 per game, so a shootout is plausible. Starters and live PA/MD price not yet checked.",
+          "lineup_status": "Official 7:15 PM ET NBA injury report checked; starters not yet confirmed.",
           "weather_status": "Indoor arena; weather not a factor.",
           "sources": [
             "https://www.espn.com/nba/game/_/gameId/401909959",
             "https://www.espn.com/nba/injuries",
             "https://www.espn.com/nba/standings",
-            "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_06_15PM.pdf"
+            "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_07_15PM.pdf"
           ]
         }
       ],
@@ -83,11 +83,11 @@
       "title": "Cavaliers + Pistons",
       "status": "conditional",
       "tier": "Slightly higher payout of the two; weaker support because of Detroit’s back-to-back, Anthony Davis now available for Washington, and Cleveland’s road form",
-      "status_reason": "Conditional: the official 6:15 PM ET report moved Wizards' Anthony Davis from questionable to AVAILABLE (counterevidence for Detroit) and Bilal Coulibaly to OUT; Detroit remains without Jalen Duren and Isaiah Joe on a back-to-back, and Cleveland's Jarrett Allen is still questionable. Reported FanDuel prices at 6:00 PM EST: CLE -340 to -350, DET -480 (theoretical 1.554x). Tips at 7:00 PM EST, so this card closes on the page at tip. Starters, live PA/MD price and exact selection IDs are still missing; links are app-only.",
+      "status_reason": "BEGUN / IN PROGRESS — not bettable. Posted version preserved as last published at 6:26 PM EST with the 6:00 PM EST AgentBets prices shown (CLE -350 / DET -480, 1.554x). Both games tipped around 7:10 PM EST; no official final yet, so this card is pending and not graded. Conditional: the official 6:15 PM ET report moved Wizards' Anthony Davis from questionable to AVAILABLE (counterevidence for Detroit) and Bilal Coulibaly to OUT; Detroit remains without Jalen Duren and Isaiah Joe on a back-to-back, and Cleveland's Jarrett Allen is still questionable. Reported FanDuel prices at 6:00 PM EST: CLE -340 to -350, DET -480 (theoretical 1.554x). Tips at 7:00 PM EST, so this card closes on the page at tip. Starters, live PA/MD price and exact selection IDs are still missing; links are app-only.",
       "availability_confirmed": false,
       "price_live_verified": false,
       "link_live_verified": false,
-      "result": "UNSETTLED_RESEARCH",
+      "result": "PENDING_IN_PROGRESS_NOT_GRADED",
       "link_mode": "app_only_no_exact_ids",
       "legs": [
         {
@@ -165,13 +165,22 @@
   "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
   "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
   "schema_version": 2,
-  "last_checked_at": "2026-11-09T18:26:00-05:00",
+  "last_checked_at": "2026-11-09T19:24:00-05:00",
   "policies": {
     "max_price_age_minutes": 120,
     "max_review_age_minutes": 75
   },
-  "research_scope": "6:26 PM EST hourly review for Monday, Nov 9. Rechecked the official NBA injury report (6:15 PM ET); prices from the AgentBets FanDuel NBA page, snapshot 11:00 PM UTC (6:00 PM EST). Earlier screen: 8 NBA games, 3 NHL games, Monday Night Football Bills @ Vikings and college basketball. Nov 8 staged cards graded against ESPN official finals.",
+  "research_scope": "7:24 PM EST hourly review for Monday, Nov 9. Rechecked the official NBA injury report (7:15 PM ET); prices from the AgentBets FanDuel NBA page, snapshot 12:00 AM UTC Nov 10 (7:00 PM EST Nov 9). Cavaliers + Pistons moved to begun/pending after the 7:10 PM EST tips. Remaining games rescreened: Mavericks -188 vs Pacers and Rockets -198 vs Nuggets (Jokic probable) priced too close for a high-win-chance leg; MNF Bills -178 previously rejected. Nov 8 staged cards graded against ESPN official finals.",
   "research_holds": [
+    {
+      "title": "Begun / in progress — not bettable, not graded",
+      "reason": "Cavaliers + Pistons (posted CLE -350 / DET -480, 1.554x) began with the 7:10 PM EST tips at Charlotte and Detroit. Posted version preserved as published at 6:26 PM EST. Will be graded only from official finals. For reference only: the 7:00 PM EST AgentBets snapshot showed CLE -320 / DET -400, and the official 7:15 PM ET report moved Cleveland's Jarrett Allen questionable to AVAILABLE — not used to alter the posted card.",
+      "sources": [
+        "https://www.espn.com/nba/scoreboard/_/date/20261109",
+        "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_07_15PM.pdf",
+        "https://agentbets.ai/odds/fanduel/nba/"
+      ]
+    },
     {
       "title": "Nov 8 staged cards graded from official finals — 3 wins",
       "reason": "Lions + Texans (posted DET -310 / HOU -240, 1.874x) WON: Lions 19-9 at Miami, Texans 44-22 at the Chargers. Rams + Broncos (posted LAR -230 / DEN -164, 2.310x) WON: Rams 20-13 at Washington, Broncos 26-21 at Carolina. 49ers + Bears (posted conditional SF -490 / CHI -270, 1.650x) WON: 49ers 38-17 vs Las Vegas, Bears 27-24 vs Tampa Bay. Withdrawn Cowboys + Patriots is not graded (it would have lost: Green Bay beat New England 45-27). These are graded staged research cards, not recorded wagers. The preserved historical record below is unchanged by this renderer. Lesson: the Bears won by only 3, a reminder that a -270 favorite can come close to losing; three wins in one day do not prove a calibrated edge.",
@@ -192,6 +201,10 @@
     }
   ],
   "update_log": [
+    {
+      "at": "2026-11-09T19:24:00-05:00",
+      "text": "7:24 PM review: Cavaliers + Pistons moved to begun / in progress (7:10 PM EST tips), posted 6:26 PM version preserved, pending and not graded. Spurs + Warriors stands as conditional: official NBA 7:15 PM ET report unchanged for those four teams; AgentBets FanDuel 7:00 PM EST snapshot SA -375 / GS -590 unchanged (1.481x). No new card qualified. No exact FanDuel IDs, links stay app-only."
+    },
     {
       "at": "2026-11-09T18:26:00-05:00",
       "text": "6:26 PM review: both conditional cards stand. Official NBA 6:15 PM ET report: Wizards' Anthony Davis questionable to AVAILABLE and Bilal Coulibaly questionable to OUT; Spurs, Suns, Pelicans, Warriors, Cavaliers, Hornets and Pistons unchanged. AgentBets FanDuel 6:00 PM EST snapshot: CLE -340 to -350 (Cavaliers + Pistons 1.554x); SA -375 / GS -590 unchanged (Spurs + Warriors 1.481x). Corrected Murray-Boyles team attribution (Toronto). No exact FanDuel IDs, links stay app-only."
