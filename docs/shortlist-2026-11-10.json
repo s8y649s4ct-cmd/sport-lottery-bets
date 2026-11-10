@@ -1,7 +1,7 @@
 {
  "date": "2026-11-10",
- "published_est": "2026-11-10T08:25:00-05:00",
- "odds_reported_at_est": "2026-11-10T07:00:00-05:00",
+ "published_est": "2026-11-10T09:23:00-05:00",
+ "odds_reported_at_est": "2026-11-10T09:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
  "fully_cleared": false,
@@ -14,68 +14,68 @@
    "title": "Knicks + Heat",
    "status": "conditional",
    "tier": "Highest price-implied win chance on the Tuesday NBA board; small payout because the Knicks leg is -1500",
-   "status_reason": "CONDITIONAL, app-only. Prices are AgentBets' FanDuel snapshot of 7:00 AM EST (not PA/MD-verified live quotes). Official 8:00 AM ET NBA injury report checked; Herro, Hart and Markkanen are questionable and starters are not confirmed. No exact FanDuel selection IDs exist for Nov 10, so links open the app without loading picks.",
+   "status_reason": "CONDITIONAL, app-only. Prices are AgentBets' FanDuel snapshot of 9:00 AM EST (not PA/MD-verified live quotes). Official 9:15 AM ET NBA injury report checked and unchanged from 8:00 AM; Herro, Hart and Markkanen are questionable and starters are not confirmed. No exact FanDuel selection IDs exist for Nov 10, so links open the app without loading picks.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-10T08:25:00-05:00",
+     "checked_at": "2026-11-10T09:23:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-10T07:00:00-05:00",
+     "price_quoted_at": "2026-11-10T09:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261110",
-     "availability_checked_at": "2026-11-10T08:25:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_08_00AM.pdf",
+     "availability_checked_at": "2026-11-10T09:23:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_09_15AM.pdf",
      "team": "New York Knicks",
      "market": "Moneyline",
-     "american_odds": -1500,
+     "american_odds": -1350,
      "event": "Milwaukee Bucks @ New York Knicks",
      "start_est": "2026-11-10 7:30 PM EST (AgentBets lists 7:40 PM EST)",
      "venue": "Madison Square Garden",
      "start_at": "2026-11-10T19:30:00-05:00",
      "event_key": "espn-nba-401909960",
      "evidence": "ESPN standings: Milwaukee is 1-9 (0-4 on the road) on a six-game losing streak with a -13.2 average point differential (108.4 scored, 121.6 allowed). New York is 5-4 (3-2 at home), has won three straight and carries a +5.7 differential (109.9 / 104.2).",
-     "remaining_checks": "Official NBA report 8:00 AM ET: Bucks' Tyler Herro QUESTIONABLE (right contusion); Knicks' Josh Hart QUESTIONABLE (right ankle soreness). Counterevidence and open items: New York is only 5-4 and its differential is modest for a -1500 favorite; at this price the leg adds very little payout. Later official reports, starters and live PA/MD price not yet checked.",
-     "lineup_status": "Official 8:00 AM ET NBA injury report checked; starters not yet confirmed.",
+     "remaining_checks": "Official NBA report 9:15 AM ET (unchanged from 8:00 AM): Bucks' Tyler Herro QUESTIONABLE (right contusion); Knicks' Josh Hart QUESTIONABLE (right ankle soreness). Counterevidence and open items: New York is only 5-4 and its differential is modest for a -1500 favorite; at this price the leg adds very little payout. Later official reports, starters and live PA/MD price not yet checked.",
+     "lineup_status": "Official 9:15 AM ET NBA injury report checked (Knicks, Bucks and Jazz not yet submitted for today; Heat entries unchanged); starters not yet confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909960",
       "https://www.espn.com/nba/injuries",
       "https://www.espn.com/nba/standings",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_08_00AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_09_15AM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-10T08:25:00-05:00",
+     "checked_at": "2026-11-10T09:23:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-10T07:00:00-05:00",
+     "price_quoted_at": "2026-11-10T09:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261110",
-     "availability_checked_at": "2026-11-10T08:25:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_08_00AM.pdf",
+     "availability_checked_at": "2026-11-10T09:23:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_09_15AM.pdf",
      "team": "Miami Heat",
      "market": "Moneyline",
-     "american_odds": -405,
+     "american_odds": -370,
      "event": "Miami Heat @ Utah Jazz",
      "start_est": "2026-11-10 9:00 PM EST (AgentBets lists 9:10 PM EST)",
      "venue": "Delta Center",
      "start_at": "2026-11-10T21:00:00-05:00",
      "event_key": "espn-nba-401909963",
-     "evidence": "ESPN standings: Utah is 1-9 (1-4 at home) on an eight-game losing streak with a -11.7 differential (106.2 / 117.9). Official 8:00 AM report lists Utah's Keyonte George (right ankle sprain), Jaren Jackson Jr. (right MCL tear) and Jusuf Nurkic OUT, with Lauri Markkanen QUESTIONABLE (right wrist sprain). Miami is 3-3 on the road and Giannis Antetokounmpo is listed PROBABLE (right wrist sprain).",
+     "evidence": "ESPN standings: Utah is 1-9 (1-4 at home) on an eight-game losing streak with a -11.7 differential (106.2 / 117.9). Official 9:15 AM report (unchanged from 8:00 AM) lists Utah's Keyonte George (right ankle sprain), Jaren Jackson Jr. (right MCL tear) and Jusuf Nurkic OUT, with Lauri Markkanen QUESTIONABLE (right wrist sprain). Miami is 3-3 on the road and Giannis Antetokounmpo is listed PROBABLE (right wrist sprain).",
      "remaining_checks": "Counterevidence and open items: Miami is only 4-6 with a -5.3 differential (115.8 / 121.1), so this is the weaker leg; Markkanen's status matters, and Giannis's wrist must hold up. Later official reports, starters and live PA/MD price not yet checked.",
-     "lineup_status": "Official 8:00 AM ET NBA injury report checked; starters not yet confirmed.",
+     "lineup_status": "Official 9:15 AM ET NBA injury report checked (Knicks, Bucks and Jazz not yet submitted for today; Heat entries unchanged); starters not yet confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909963",
       "https://www.espn.com/nba/injuries",
       "https://www.espn.com/nba/standings",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_08_00AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-10_09_15AM.pdf"
      ]
     }
    ],
-   "theoretical_decimal_return": 1.3300411522633744
+   "theoretical_decimal_return": 1.3643643643643641
   }
  ],
  "app_link": "https://sportsbook.fanduel.com/navigation/nfl",
@@ -95,12 +95,12 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-10T08:25:00-05:00",
+ "last_checked_at": "2026-11-10T09:23:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
  },
- "research_scope": "8:25 AM EST hourly review for Tuesday, Nov 10. Six NBA games tonight (ESPN schedule) checked against AgentBets' FanDuel 7:00 AM EST snapshot and the official NBA 8:00 AM ET injury report. One conditional card staged: Knicks + Heat. Yesterday's Spurs + Warriors card graded WON from official finals.",
+ "research_scope": "9:23 AM EST hourly review for Tuesday, Nov 10. Six NBA games tonight checked against AgentBets' FanDuel 9:00 AM EST snapshot and the official NBA 9:15 AM ET injury report (no status changes from 8:00 AM). Knicks + Heat stands as conditional with updated prices. Yesterday's Spurs + Warriors card graded WON from official finals.",
  "research_holds": [
   {
    "title": "Nov 9 staged cards graded from official finals",
@@ -122,6 +122,10 @@
   }
  ],
  "update_log": [
+  {
+   "at": "2026-11-10T09:23:00-05:00",
+   "text": "9:23 AM review: Knicks + Heat stands as conditional. AgentBets FanDuel 9:00 AM EST snapshot: NY -1500 to -1350, MIA -405 to -370 (return 1.330x to 1.364x). Official NBA 9:15 AM ET report unchanged for the four teams (Herro, Hart, Markkanen still questionable; Giannis probable). Magic -230 at Kings and the near-pick'em games still screened out. No exact FanDuel IDs, links stay app-only."
+  },
   {
    "at": "2026-11-09T19:24:00-05:00",
    "text": "7:24 PM review: Cavaliers + Pistons moved to begun / in progress (7:10 PM EST tips), posted 6:26 PM version preserved, pending and not graded. Spurs + Warriors stands as conditional: official NBA 7:15 PM ET report unchanged for those four teams; AgentBets FanDuel 7:00 PM EST snapshot SA -375 / GS -590 unchanged (1.481x). No new card qualified. No exact FanDuel IDs, links stay app-only."
