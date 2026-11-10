@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "published_est": "2026-11-09T20:18:00-05:00",
+  "published_est": "2026-11-09T21:20:00-05:00",
   "odds_reported_at_est": "2026-11-09T20:00:00-05:00",
   "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
   "pa_md_prices_verified": false,
@@ -14,11 +14,11 @@
       "title": "Spurs + Warriors",
       "status": "conditional",
       "tier": "Both favorites carry long current win streaks; Warriors leg strengthened by Pelicans' absences, now including Zion Williamson",
-      "status_reason": "Conditional: the official 8:15 PM ET report moved Suns' Jordan Goodwin from questionable to OUT; otherwise unchanged for these four teams (Pelicans without Zion Williamson (rest), Trey Murphy III, Yves Missi and Trendon Watford; Spurs without Vassell and Tobias Harris; Warriors' Gary Payton II questionable). Reported FanDuel prices at 8:00 PM EST: SA -390 (from -375), GS -590 unchanged (theoretical 1.469x). Starters, live PA/MD price and exact selection IDs are still missing; links are app-only.",
+      "status_reason": "BEGUN / IN PROGRESS — not bettable. Posted version preserved as last published at 8:18 PM EST with the 8:00 PM EST AgentBets prices shown (SA -390 / GS -590, 1.469x). Spurs at Suns tipped at 9:00 PM EST (ESPN showed Spurs 11-9 early in the 1st quarter at 9:19 PM EST, not a result); Pelicans at Warriors tips at 10:00 PM EST. Pending until both official finals; not graded.",
       "availability_confirmed": false,
       "price_live_verified": false,
       "link_live_verified": false,
-      "result": "UNSETTLED_RESEARCH",
+      "result": "PENDING_IN_PROGRESS_NOT_GRADED",
       "link_mode": "app_only_no_exact_ids",
       "legs": [
         {
@@ -83,11 +83,11 @@
       "title": "Cavaliers + Pistons",
       "status": "conditional",
       "tier": "Slightly higher payout of the two; weaker support because of Detroit’s back-to-back, Anthony Davis now available for Washington, and Cleveland’s road form",
-      "status_reason": "BEGUN / IN PROGRESS — not bettable. Posted version preserved as last published at 6:26 PM EST with the 6:00 PM EST AgentBets prices shown (CLE -350 / DET -480, 1.554x). Both games tipped around 7:10 PM EST; no official final yet, so this card is pending and not graded. Conditional: the official 6:15 PM ET report moved Wizards' Anthony Davis from questionable to AVAILABLE (counterevidence for Detroit) and Bilal Coulibaly to OUT; Detroit remains without Jalen Duren and Isaiah Joe on a back-to-back, and Cleveland's Jarrett Allen is still questionable. Reported FanDuel prices at 6:00 PM EST: CLE -340 to -350, DET -480 (theoretical 1.554x). Tips at 7:00 PM EST, so this card closes on the page at tip. Starters, live PA/MD price and exact selection IDs are still missing; links are app-only.",
+      "status_reason": "LOST — graded from the official final. Posted version (6:26 PM EST, CLE -350 / DET -480, 1.554x) preserved. Charlotte beat Cleveland 124-112 (ESPN final, checked 9:19 PM EST), so the card lost regardless of the Detroit leg (Detroit led Washington 108-91 with 8:34 left in the 4th at 9:19 PM EST, not yet final).",
       "availability_confirmed": false,
       "price_live_verified": false,
       "link_live_verified": false,
-      "result": "PENDING_IN_PROGRESS_NOT_GRADED",
+      "result": "LOST",
       "link_mode": "app_only_no_exact_ids",
       "legs": [
         {
@@ -165,19 +165,18 @@
   "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
   "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
   "schema_version": 2,
-  "last_checked_at": "2026-11-09T20:18:00-05:00",
+  "last_checked_at": "2026-11-09T21:20:00-05:00",
   "policies": {
     "max_price_age_minutes": 120,
     "max_review_age_minutes": 75
   },
-  "research_scope": "8:18 PM EST hourly review for Monday, Nov 9. Rechecked the official NBA injury report (8:15 PM ET); prices from the AgentBets FanDuel NBA page, snapshot 1:00 AM UTC Nov 10 (8:00 PM EST Nov 9). Cavaliers + Pistons remain begun/pending. Remaining unstarted games rescreened: Rockets -198 vs Nuggets (Jokic, Murray, Gordon now available) is too close for a high-win-chance leg; MNF Bills previously rejected. No new card added.",
+  "research_scope": "9:20 PM EST hourly review for Monday, Nov 9. Spurs + Warriors began with the 9:00 PM EST Spurs tip and is now pending. Cavaliers + Pistons graded LOST from the Charlotte 124-112 final. The only NBA game not yet started is Pelicans at Warriors (10:00 PM EST), so no new two-game NBA card is possible; MNF and earlier NHL games have started. No new card added.",
   "research_holds": [
     {
-      "title": "Begun / in progress — not bettable, not graded",
-      "reason": "Cavaliers + Pistons (posted CLE -350 / DET -480, 1.554x) began with the 7:10 PM EST tips at Charlotte and Detroit. Posted version preserved as published at 6:26 PM EST. Will be graded only from official finals. For reference only: the 7:00 PM EST AgentBets snapshot showed CLE -320 / DET -400, and the official 7:15 PM ET report moved Cleveland's Jarrett Allen questionable to AVAILABLE — not used to alter the posted card. Score check at 8:16 PM EST (ESPN scoreboard, in progress, not a result): Charlotte led Cleveland 69-53 at halftime; Detroit led Washington 62-55 late in the 2nd quarter. The Cleveland leg is currently at real risk.",
+      "title": "Begun / graded tonight — not bettable",
+      "reason": "Cavaliers + Pistons (posted CLE -350 / DET -480, 1.554x) LOST: Charlotte beat Cleveland 124-112 (ESPN final). The halftime deficit flagged at 8:16 PM EST held up. Lesson: Cleveland was the weaker leg on the road (Allen questionable until 7:15 PM, road form flagged as counterevidence); a -350 road favorite still loses roughly one time in five or more by price alone. Spurs + Warriors (posted SA -390 / GS -590, 1.469x) is in progress: Spurs at Suns tipped 9:00 PM EST, Pelicans at Warriors tips 10:00 PM EST. It will be graded only from official finals. These are staged research cards, not recorded wagers.",
       "sources": [
         "https://www.espn.com/nba/scoreboard/_/date/20261109",
-        "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-09_07_15PM.pdf",
         "https://agentbets.ai/odds/fanduel/nba/"
       ]
     },
@@ -252,6 +251,10 @@
     {
       "at": "2026-11-09T20:18:00-05:00",
       "text": "8:18 PM review: Spurs + Warriors stands conditional with the 8:00 PM EST snapshot (SA -390, GS -590, 1.469x); official 8:15 PM report moved Suns' Jordan Goodwin to OUT. Cavaliers + Pistons in progress, Cleveland trailing 69-53 at half."
+    },
+    {
+      "at": "2026-11-09T21:20:00-05:00",
+      "text": "9:20 PM review: Cavaliers + Pistons LOST (Charlotte 124-112 over Cleveland, final). Spurs + Warriors moved to begun/pending after the 9:00 PM tip. No bettable cards remain tonight; only Pelicans at Warriors is still unstarted."
     }
   ]
 }
