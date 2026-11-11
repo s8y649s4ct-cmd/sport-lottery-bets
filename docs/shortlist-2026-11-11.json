@@ -1,7 +1,7 @@
 {
  "date": "2026-11-11",
- "published_est": "2026-11-11T14:22:00-05:00",
- "odds_reported_at_est": "2026-11-11T14:00:00-05:00",
+ "published_est": "2026-11-11T15:23:00-05:00",
+ "odds_reported_at_est": "2026-11-11T15:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
  "fully_cleared": false,
@@ -14,20 +14,20 @@
    "title": "Spurs + Lakers",
    "status": "conditional",
    "tier": "Highest price-implied win chance on the Wednesday NBA board; small payout because both legs are heavy favorites",
-   "status_reason": "CONDITIONAL, app-only. Prices are AgentBets' FanDuel snapshot of 2:00 PM EST (its latest at 2:22 PM) (not PA/MD-verified live quotes). Official 2:15 PM ET report checked: Milwaukee submitted for the first time with Myles Turner OUT (rest) and Tyler Herro QUESTIONABLE; Lakers' Quentin Grimes moved to OUT; Spurs unchanged (Harris OUT, Vassell QUESTIONABLE). No exact FanDuel selection IDs exist for Nov 11, so links open the app without loading picks.",
+   "status_reason": "CONDITIONAL, app-only. Prices are AgentBets' FanDuel snapshot of 3:00 PM EST (its latest at 3:23 PM) (not PA/MD-verified live quotes). Official 3:15 PM ET report checked and unchanged for all four teams: Spurs Harris OUT, Vassell QUESTIONABLE; Bulls Awaka OUT, Collins/Powell/Wilson QUESTIONABLE; Lakers Grimes OUT; Bucks Turner OUT (rest), Herro QUESTIONABLE. No exact FanDuel selection IDs exist for Nov 11, so links open the app without loading picks.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-11T14:22:00-05:00",
+     "checked_at": "2026-11-11T15:23:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-11T14:00:00-05:00",
+     "price_quoted_at": "2026-11-11T15:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261111",
-     "availability_checked_at": "2026-11-11T14:22:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_02_15PM.pdf",
+     "availability_checked_at": "2026-11-11T15:23:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_03_15PM.pdf",
      "team": "San Antonio Spurs",
      "market": "Moneyline",
      "american_odds": -1200,
@@ -38,58 +38,58 @@
      "event_key": "espn-nba-401909969",
      "evidence": "ESPN standings: San Antonio is 9-2, 5-0 on the road, on a nine-game winning streak with a +11.7 average point differential (118.7 scored, 107.0 allowed). Chicago is 1-8 (0-3 at home) on a seven-game losing streak with the league's worst listed differential, -16.6 (112.7 / 129.3). ESPN lists SA -15.5.",
      "remaining_checks": "Counterevidence and open items: Tobias Harris is OUT and Devin Vassell is QUESTIONABLE (left adductor), so the Spurs may be short two rotation players; nine-game streaks end and -1200 leaves little payout. Starters and live PA/MD price not yet checked.",
-     "lineup_status": "Official 2:15 PM ET NBA injury report checked: Spurs' Tobias Harris OUT (left calf strain), Devin Vassell QUESTIONABLE (left adductor); Bulls' Tobe Awaka OUT, Zach Collins, Norman Powell and Caleb Wilson QUESTIONABLE; Lakers' Quentin Grimes OUT (right finger sprain, moved from QUESTIONABLE), Walker Kessler AVAILABLE; Bucks (first submission) Myles Turner OUT (rest), Tyler Herro QUESTIONABLE (right knee contusion); starters not confirmed.",
+     "lineup_status": "Official 3:15 PM ET NBA injury report checked: Spurs' Tobias Harris OUT (left calf strain), Devin Vassell QUESTIONABLE (left adductor); Bulls' Tobe Awaka OUT, Zach Collins, Norman Powell and Caleb Wilson QUESTIONABLE; Lakers' Quentin Grimes OUT (right finger sprain, moved from QUESTIONABLE), Walker Kessler AVAILABLE; Bucks Myles Turner OUT (rest), Tyler Herro QUESTIONABLE (right knee contusion); starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909969",
       "https://www.espn.com/nba/injuries",
       "https://www.espn.com/nba/standings",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_02_15PM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_03_15PM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-11T14:22:00-05:00",
+     "checked_at": "2026-11-11T15:23:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-11T14:00:00-05:00",
+     "price_quoted_at": "2026-11-11T15:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261111",
-     "availability_checked_at": "2026-11-11T14:22:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_02_15PM.pdf",
+     "availability_checked_at": "2026-11-11T15:23:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_03_15PM.pdf",
      "team": "Los Angeles Lakers",
      "market": "Moneyline",
-     "american_odds": -800,
+     "american_odds": -850,
      "event": "Los Angeles Lakers @ Milwaukee Bucks",
      "start_est": "2026-11-11 8:00 PM EST (AgentBets lists 8:10 PM EST)",
      "venue": "Fiserv Forum",
      "start_at": "2026-11-11T20:00:00-05:00",
      "event_key": "espn-nba-401909971",
-     "evidence": "ESPN standings: the Lakers are 10-2 (5-1 on the road), have won six straight and carry a +7.7 differential (122.1 / 114.4). Milwaukee is 1-10 (1-5 at home) on a seven-game losing streak with a -14.9 differential (106.3 / 121.2), lost 117-85 at New York last night (ESPN final) and is on the second night of a back-to-back. Milwaukee's 2:15 PM official report rests Myles Turner (OUT) and lists Tyler Herro QUESTIONABLE.",
-     "remaining_checks": "Counterevidence and open items: Quentin Grimes is now OUT for LA and the FanDuel price eased from -900 to -800 between the 12:00 PM and 2:00 PM EST snapshots; Herro is only QUESTIONABLE, so he may play. Starters and live PA/MD price not yet checked.",
-     "lineup_status": "Official 2:15 PM ET NBA injury report checked: Spurs' Tobias Harris OUT (left calf strain), Devin Vassell QUESTIONABLE (left adductor); Bulls' Tobe Awaka OUT, Zach Collins, Norman Powell and Caleb Wilson QUESTIONABLE; Lakers' Quentin Grimes OUT (right finger sprain, moved from QUESTIONABLE), Walker Kessler AVAILABLE; Bucks (first submission) Myles Turner OUT (rest), Tyler Herro QUESTIONABLE (right knee contusion); starters not confirmed.",
+     "evidence": "ESPN standings: the Lakers are 10-2 (5-1 on the road), have won six straight and carry a +7.7 differential (122.1 / 114.4). Milwaukee is 1-10 (1-5 at home) on a seven-game losing streak with a -14.9 differential (106.3 / 121.2), lost 117-85 at New York last night (ESPN final) and is on the second night of a back-to-back. Milwaukee's official report (unchanged at 3:15 PM) rests Myles Turner (OUT) and lists Tyler Herro QUESTIONABLE.",
+     "remaining_checks": "Counterevidence and open items: Quentin Grimes is OUT for LA, and the FanDuel price has moved -900 (12:00 PM) to -800 (2:00 PM) and back to -850 (3:00 PM EST snapshot); Herro is only QUESTIONABLE, so he may play. Starters and live PA/MD price not yet checked.",
+     "lineup_status": "Official 3:15 PM ET NBA injury report checked: Spurs' Tobias Harris OUT (left calf strain), Devin Vassell QUESTIONABLE (left adductor); Bulls' Tobe Awaka OUT, Zach Collins, Norman Powell and Caleb Wilson QUESTIONABLE; Lakers' Quentin Grimes OUT (right finger sprain, moved from QUESTIONABLE), Walker Kessler AVAILABLE; Bucks Myles Turner OUT (rest), Tyler Herro QUESTIONABLE (right knee contusion); starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909971",
       "https://www.espn.com/nba/injuries",
       "https://www.espn.com/nba/standings",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_02_15PM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_03_15PM.pdf"
      ]
     }
    ],
-   "theoretical_decimal_return": 1.21875
+   "theoretical_decimal_return": 1.2107843137254901
   },
   {
    "id": "nov11-b",
    "title": "Celtics + Knicks",
    "status": "withdrawn",
    "tier": "Bigger payout, lower win chance: the Knicks leg at -180 is the weakest leg staged today",
-   "status_reason": "WITHDRAWN at 1:18 PM EST. Boston's first official report (1:00 PM ET, repeated 1:15 PM) lists Paul George OUT (illness) and New York's lists Karl-Anthony Towns QUESTIONABLE (left sore calf). The latest FanDuel price available (AgentBets 12:00 PM EST: BOS -240 / NY -188, 2.170x) predates both reports, and the Knicks leg was already the thinnest on the board, so this card no longer has enough support. Do not bet it from this page; it may be re-reviewed next hour only if Towns is cleared and a post-report price is available.",
+   "status_reason": "WITHDRAWN at 1:18 PM EST. Boston's first official report (1:00 PM ET, repeated 1:15 PM) lists Paul George OUT (illness) and New York's lists Karl-Anthony Towns QUESTIONABLE (left sore calf). The latest FanDuel price available (AgentBets 12:00 PM EST: BOS -240 / NY -188, 2.170x) predates both reports, and the Knicks leg was already the thinnest on the board, so this card no longer has enough support. Do not bet it from this page; it may be re-reviewed next hour only if Towns is cleared and a post-report price is available. 3:23 PM recheck: 3:15 PM report still lists George OUT and Towns QUESTIONABLE; AgentBets 3:00 PM EST shows BOS -225 / NY -172 (Knicks price drifting). Stays withdrawn.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-11T14:22:00-05:00",
+     "checked_at": "2026-11-11T15:23:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
      "price_quoted_at": "2026-11-11T12:00:00-05:00",
      "price_state_verified": false,
@@ -120,7 +120,7 @@
      ]
     },
     {
-     "checked_at": "2026-11-11T14:22:00-05:00",
+     "checked_at": "2026-11-11T15:23:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
      "price_quoted_at": "2026-11-11T12:00:00-05:00",
      "price_state_verified": false,
@@ -167,12 +167,12 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-11T14:22:00-05:00",
+ "last_checked_at": "2026-11-11T15:23:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
  },
- "research_scope": "2:22 PM EST hourly review for Wednesday, Nov 11. Spurs + Lakers stands, repriced from AgentBets' 2:00 PM EST FanDuel snapshot (SA -1200 / LAL -800, 1.219x). Milwaukee's first official report (2:15 PM ET): Myles Turner OUT (rest), Tyler Herro QUESTIONABLE; Lakers' Quentin Grimes moved to OUT. Celtics + Knicks stays WITHDRAWN (George OUT, Towns QUESTIONABLE unchanged at 2:15 PM). Graded Nov 10: Knicks + Heat WON.",
+ "research_scope": "3:23 PM EST hourly review for Wednesday, Nov 11. Spurs + Lakers stands, repriced from AgentBets' 3:00 PM EST FanDuel snapshot (SA -1200 / LAL -850, 1.211x). Official 3:15 PM ET report unchanged for Spurs, Bulls, Lakers and Bucks (Turner OUT rest, Herro QUESTIONABLE, Grimes OUT, Harris OUT, Vassell QUESTIONABLE). Celtics + Knicks stays WITHDRAWN (George OUT, Towns QUESTIONABLE). Graded Nov 10: Knicks + Heat WON.",
  "research_holds": [
   {
    "title": "Nov 10 staged card graded from official finals",
@@ -194,6 +194,10 @@
   }
  ],
  "update_log": [
+  {
+   "at": "2026-11-11T15:23:00-05:00",
+   "text": "3 PM-hour review (Nov 11): Spurs + Lakers stands, repriced from AgentBets' 3:00 PM EST FanDuel snapshot: SA -1200 / LAL -850 (was -800), 1.211x. Official 3:15 PM report unchanged for all four teams. Celtics + Knicks stays WITHDRAWN (George OUT, Towns QUESTIONABLE; BOS -225 / NY -172 at 3:00 PM EST)."
+  },
   {
    "at": "2026-11-11T14:22:00-05:00",
    "text": "2 PM-hour review (Nov 11): Spurs + Lakers stands, repriced from AgentBets' 2:00 PM EST FanDuel snapshot: SA -1200 / LAL -800 (was -900), 1.219x. Official 2:15 PM report: Milwaukee's first submission has Myles Turner OUT (rest) and Tyler Herro QUESTIONABLE; Lakers' Quentin Grimes moved from QUESTIONABLE to OUT. Celtics + Knicks stays WITHDRAWN (George OUT, Towns QUESTIONABLE unchanged; BOS now -215 / NY -188 at 2:00 PM EST)."
