@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "published_est": "2026-11-10T18:24:00-05:00",
+ "published_est": "2026-11-10T20:22:00-05:00",
  "odds_reported_at_est": "2026-11-10T18:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
@@ -95,12 +95,12 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-10T18:24:00-05:00",
+ "last_checked_at": "2026-11-10T20:22:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
  },
- "research_scope": "6:24 PM EST hourly review for Tuesday, Nov 10. AgentBets' FanDuel page posted a 6:00 PM EST snapshot with both prices unchanged: Knicks -1200 and Heat -405. The official NBA 6:15 PM ET injury report moved Milwaukee's Tyler Herro to OUT and Kel'el Ware to AVAILABLE, and the Knicks' Josh Hart to OUT; Markkanen still out for Utah and Giannis probable. Knicks + Heat stands as conditional at 1.351x. Yesterday's Spurs + Warriors card graded WON from official finals.",
+ "research_scope": "8:22 PM EST hourly review for Tuesday, Nov 10. Knicks + Heat (posted 6:24 PM at NY -1200 / MIA -405, 1.351x) has BEGUN and is held: the Knicks tipped at 7:30 PM and led Milwaukee 48-28 with 3:40 left in the 2nd quarter per ESPN at about 8:25 PM EST. The Heat leg at Utah tips at 9:00 PM EST. Official NBA 8:15 PM ET report: Miami's Giannis Antetokounmpo upgraded to AVAILABLE; Utah's Markkanen still OUT. AgentBets' 7:00 PM EST FanDuel snapshot moved Miami to -350 (posted card keeps its -405 price). Nothing graded yet. No new card: remaining games (Suns -178, Magic -220, Thunder -124 in the same snapshot) were already screened out as too close or too thinly supported.",
  "research_holds": [
   {
    "title": "Nov 9 staged cards graded from official finals",
@@ -221,6 +221,10 @@
   {
    "at": "2026-11-10T18:24:00-05:00",
    "text": "6:24 PM review (Nov 10): Knicks + Heat stands conditional at NY -1200 / MIA -405 (1.351x), unchanged in AgentBets' 6:00 PM EST snapshot. 6:15 PM official report: Bucks' Herro OUT and Ware AVAILABLE; Knicks' Hart OUT."
+  },
+  {
+   "at": "2026-11-10T20:22:00-05:00",
+   "text": "8 PM-hour review (Nov 10): Knicks + Heat has begun (Knicks led Bucks 48-28 in the 2nd quarter, ESPN); card held, result pending. 8:15 PM official report: Giannis AVAILABLE for Miami, Markkanen OUT for Utah. AgentBets 7:00 PM EST snapshot MIA -350 (posted -405 kept). No new card added."
   }
  ]
 }
