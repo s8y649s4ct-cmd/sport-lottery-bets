@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "published_est": "2026-11-11T09:22:00-05:00",
+ "published_est": "2026-11-11T10:18:00-05:00",
  "odds_reported_at_est": "2026-11-11T09:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
@@ -14,20 +14,20 @@
    "title": "Spurs + Lakers",
    "status": "conditional",
    "tier": "Highest price-implied win chance on the Wednesday NBA board; small payout because both legs are heavy favorites",
-   "status_reason": "CONDITIONAL, app-only. Prices are AgentBets' FanDuel snapshot of 9:00 AM EST (not PA/MD-verified live quotes). Official 9:15 AM ET report checked (unchanged from 8:00 AM); Milwaukee not yet submitted and Vassell questionable. No exact FanDuel selection IDs exist for Nov 11, so links open the app without loading picks.",
+   "status_reason": "CONDITIONAL, app-only. Prices are AgentBets' FanDuel snapshot of 9:00 AM EST (still its latest at 10:18 AM) (not PA/MD-verified live quotes). Official 10:15 AM ET report checked (unchanged from 9:15 AM); Milwaukee not yet submitted and Vassell questionable. No exact FanDuel selection IDs exist for Nov 11, so links open the app without loading picks.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-11T09:22:00-05:00",
+     "checked_at": "2026-11-11T10:18:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
      "price_quoted_at": "2026-11-11T09:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261111",
-     "availability_checked_at": "2026-11-11T09:22:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_09_15AM.pdf",
+     "availability_checked_at": "2026-11-11T10:18:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_10_15AM.pdf",
      "team": "San Antonio Spurs",
      "market": "Moneyline",
      "american_odds": -1200,
@@ -38,23 +38,23 @@
      "event_key": "espn-nba-401909969",
      "evidence": "ESPN standings: San Antonio is 9-2, 5-0 on the road, on a nine-game winning streak with a +11.7 average point differential (118.7 scored, 107.0 allowed). Chicago is 1-8 (0-3 at home) on a seven-game losing streak with the league's worst listed differential, -16.6 (112.7 / 129.3). ESPN lists SA -15.5.",
      "remaining_checks": "Counterevidence and open items: Tobias Harris is OUT and Devin Vassell is QUESTIONABLE (left adductor), so the Spurs may be short two rotation players; nine-game streaks end and -1200 leaves little payout. Later official reports, starters and live PA/MD price not yet checked.",
-     "lineup_status": "Official 9:15 AM ET NBA injury report checked (unchanged from 8:00 AM): Spurs' Tobias Harris OUT (left calf strain), Devin Vassell QUESTIONABLE; Bulls' Tobe Awaka, Zach Collins and Norman Powell QUESTIONABLE; Lakers' Quentin Grimes QUESTIONABLE; Milwaukee NOT YET SUBMITTED; starters not confirmed.",
+     "lineup_status": "Official 10:15 AM ET NBA injury report checked (unchanged from 9:15 AM): Spurs' Tobias Harris OUT (left calf strain), Devin Vassell QUESTIONABLE; Bulls' Tobe Awaka, Zach Collins and Norman Powell QUESTIONABLE; Lakers' Quentin Grimes QUESTIONABLE; Milwaukee NOT YET SUBMITTED; starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909969",
       "https://www.espn.com/nba/injuries",
       "https://www.espn.com/nba/standings",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_09_15AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_10_15AM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-11T09:22:00-05:00",
+     "checked_at": "2026-11-11T10:18:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
      "price_quoted_at": "2026-11-11T09:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261111",
-     "availability_checked_at": "2026-11-11T09:22:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_09_15AM.pdf",
+     "availability_checked_at": "2026-11-11T10:18:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_10_15AM.pdf",
      "team": "Los Angeles Lakers",
      "market": "Moneyline",
      "american_odds": -900,
@@ -65,13 +65,13 @@
      "event_key": "espn-nba-401909971",
      "evidence": "ESPN standings: the Lakers are 10-2 (5-1 on the road), have won six straight and carry a +7.7 differential (122.1 / 114.4). Milwaukee is 1-10 (1-5 at home) on a seven-game losing streak with a -14.9 differential (106.3 / 121.2), and lost 117-85 at New York last night (ESPN final), so the Bucks are on the second night of a back-to-back. Tyler Herro was OUT for Milwaukee on the Nov 10 report.",
      "remaining_checks": "Counterevidence and open items: Milwaukee's Nov 11 report is NOT YET SUBMITTED, so Herro's status for tonight is unconfirmed; Quentin Grimes is QUESTIONABLE for LA. Later official reports, starters and live PA/MD price not yet checked.",
-     "lineup_status": "Official 9:15 AM ET NBA injury report checked (unchanged from 8:00 AM): Spurs' Tobias Harris OUT (left calf strain), Devin Vassell QUESTIONABLE; Bulls' Tobe Awaka, Zach Collins and Norman Powell QUESTIONABLE; Lakers' Quentin Grimes QUESTIONABLE; Milwaukee NOT YET SUBMITTED; starters not confirmed.",
+     "lineup_status": "Official 10:15 AM ET NBA injury report checked (unchanged from 9:15 AM): Spurs' Tobias Harris OUT (left calf strain), Devin Vassell QUESTIONABLE; Bulls' Tobe Awaka, Zach Collins and Norman Powell QUESTIONABLE; Lakers' Quentin Grimes QUESTIONABLE; Milwaukee NOT YET SUBMITTED; starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909971",
       "https://www.espn.com/nba/injuries",
       "https://www.espn.com/nba/standings",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_09_15AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_10_15AM.pdf"
      ]
     }
    ],
@@ -82,20 +82,20 @@
    "title": "Celtics + Knicks",
    "status": "conditional",
    "tier": "Bigger payout, lower win chance: the Knicks leg at -180 is the weakest leg staged today",
-   "status_reason": "CONDITIONAL, app-only. Prices are AgentBets' FanDuel snapshot of 9:00 AM EST (not PA/MD-verified live quotes). Official 9:15 AM ET report checked (unchanged from 8:00 AM): Toronto without Kawhi Leonard and Scottie Barnes; Boston and New York not yet submitted. No exact FanDuel selection IDs exist for Nov 11, so links open the app without loading picks.",
+   "status_reason": "CONDITIONAL, app-only. Prices are AgentBets' FanDuel snapshot of 9:00 AM EST (still its latest at 10:18 AM) (not PA/MD-verified live quotes). Official 10:15 AM ET report checked (unchanged from 9:15 AM): Toronto without Kawhi Leonard and Scottie Barnes; Boston and New York not yet submitted. No exact FanDuel selection IDs exist for Nov 11, so links open the app without loading picks.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-11T09:22:00-05:00",
+     "checked_at": "2026-11-11T10:18:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
      "price_quoted_at": "2026-11-11T09:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261111",
-     "availability_checked_at": "2026-11-11T09:22:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_09_15AM.pdf",
+     "availability_checked_at": "2026-11-11T10:18:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_10_15AM.pdf",
      "team": "Boston Celtics",
      "market": "Moneyline",
      "american_odds": -235,
@@ -105,25 +105,27 @@
      "start_at": "2026-11-11T19:00:00-05:00",
      "event_key": "espn-nba-401909968",
      "evidence": "ESPN standings: Boston is 9-2 (4-2 on the road), has won four straight and has a +11.7 differential (115.7 / 104.0); 9-1 in its last ten. Toronto is 5-5 (2-2 at home, +3.3). Official 8:00 AM report lists Toronto's Kawhi Leonard (left knee management) and Scottie Barnes (left groin strain) OUT, plus Nate Bittle OUT and Immanuel Quickley QUESTIONABLE.",
-     "remaining_checks": "Counterevidence and open items: FanDuel's Boston price drifted from -295 (7:00 AM EST) to -235 (9:00 AM EST) with no matching injury news found (SI/AP list only Devin Carter OUT, illness), so the market has moved toward Toronto; road favorite in Canada; Boston's official report is NOT YET SUBMITTED. The Nov 9 lesson was a losing road favorite, though that team (Cleveland) had poor road form unlike Boston. Later official reports, starters and live PA/MD price not yet checked.",
-     "lineup_status": "Official 9:15 AM ET NBA injury report checked (unchanged from 8:00 AM): Toronto's Kawhi Leonard and Scottie Barnes OUT, Quickley, Jackson-Davis and Murray-Boyles QUESTIONABLE; Cleveland's Sam Merrill and Nae'Qwan Tomlin OUT, Jaylon Tyson QUESTIONABLE; Boston and New York NOT YET SUBMITTED; starters not confirmed.",
+     "remaining_checks": "Counterevidence and open items: FanDuel's Boston price drifted from -295 (7:00 AM EST) to -235 (9:00 AM EST) with no matching injury news found (SI/AP list only Devin Carter OUT, illness), so the market has moved toward Toronto; road favorite in Canada; Boston's official report is NOT YET SUBMITTED, and tonight is the second night of a back-to-back (won 123-101 at Philadelphia on Nov 10) and Boston's fourth game in six nights; TheSpread notes Boston rested Paul George on the second night of its last back-to-back and Jayson Tatum the game after, so a rest scratch is a real risk (SI: Tatum has played all four prior back-to-back second nights). The Nov 9 lesson was a losing road favorite, though that team (Cleveland) had poor road form unlike Boston. Later official reports, starters and live PA/MD price not yet checked.",
+     "lineup_status": "Official 10:15 AM ET NBA injury report checked (unchanged from 9:15 AM): Toronto's Kawhi Leonard and Scottie Barnes OUT, Quickley, Jackson-Davis and Murray-Boyles QUESTIONABLE; Cleveland's Sam Merrill and Nae'Qwan Tomlin OUT, Jaylon Tyson QUESTIONABLE; Boston and New York NOT YET SUBMITTED; starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909968",
       "https://www.espn.com/nba/injuries",
       "https://www.espn.com/nba/standings",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_09_15AM.pdf",
-      "https://www.si.com/nba/scoreboard/celtics-vs-raptors-11-11-2026-1653"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_10_15AM.pdf",
+      "https://www.si.com/nba/scoreboard/celtics-vs-raptors-11-11-2026-1653",
+      "https://www.thespread.com/nba-articles/celtics-vs-raptors-prediction-november-11-2026/",
+      "https://www.si.com/betting/jayson-tatum-injury-update-betting-impact-for-celtics-vs-raptors-nov-11"
      ]
     },
     {
-     "checked_at": "2026-11-11T09:22:00-05:00",
+     "checked_at": "2026-11-11T10:18:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
      "price_quoted_at": "2026-11-11T09:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261111",
-     "availability_checked_at": "2026-11-11T09:22:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_09_15AM.pdf",
+     "availability_checked_at": "2026-11-11T10:18:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_10_15AM.pdf",
      "team": "New York Knicks",
      "market": "Moneyline",
      "american_odds": -196,
@@ -134,13 +136,13 @@
      "event_key": "espn-nba-401909967",
      "evidence": "ESPN standings: New York is 6-4 (4-2 at home), has won four straight with a +8.3 differential (110.6 / 102.3) and beat Milwaukee 117-85 last night. Cleveland is 5-6 and only 1-4 on the road, has lost two straight (including 124-112 at Charlotte on Nov 9, the leg that lost our Nov 9 card) and is missing Sam Merrill and Nae'Qwan Tomlin (OUT), with Jaylon Tyson QUESTIONABLE.",
      "remaining_checks": "Counterevidence and open items: this is the weakest leg on the board at -180 (roughly a 64% raw implied price before margin); the Knicks are on the second night of a back-to-back, Josh Hart was OUT (illness) on Nov 10, and New York's Nov 11 report is NOT YET SUBMITTED. Later official reports, starters and live PA/MD price not yet checked.",
-     "lineup_status": "Official 9:15 AM ET NBA injury report checked (unchanged from 8:00 AM): Toronto's Kawhi Leonard and Scottie Barnes OUT, Quickley, Jackson-Davis and Murray-Boyles QUESTIONABLE; Cleveland's Sam Merrill and Nae'Qwan Tomlin OUT, Jaylon Tyson QUESTIONABLE; Boston and New York NOT YET SUBMITTED; starters not confirmed.",
+     "lineup_status": "Official 10:15 AM ET NBA injury report checked (unchanged from 9:15 AM): Toronto's Kawhi Leonard and Scottie Barnes OUT, Quickley, Jackson-Davis and Murray-Boyles QUESTIONABLE; Cleveland's Sam Merrill and Nae'Qwan Tomlin OUT, Jaylon Tyson QUESTIONABLE; Boston and New York NOT YET SUBMITTED; starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909967",
       "https://www.espn.com/nba/injuries",
       "https://www.espn.com/nba/standings",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_09_15AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-11_10_15AM.pdf"
      ]
     }
    ],
@@ -164,12 +166,12 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-11T09:22:00-05:00",
+ "last_checked_at": "2026-11-11T10:18:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
  },
- "research_scope": "9:22 AM EST hourly review for Wednesday, Nov 11. Both conditional cards stand with repriced legs from AgentBets' 9:00 AM EST FanDuel snapshot: Spurs + Lakers (SA -1200 / LAL -900, 1.204x) and Celtics + Knicks (BOS -235 / NY -196, 2.153x). Official 9:15 AM ET NBA report unchanged from 8:00 AM; Celtics, Knicks and Bucks still not submitted. Graded Nov 10: Knicks + Heat WON.",
+ "research_scope": "10:18 AM EST hourly review for Wednesday, Nov 11. Both conditional cards stand unchanged: Spurs + Lakers (SA -1200 / LAL -900, 1.204x) and Celtics + Knicks (BOS -235 / NY -196, 2.153x); AgentBets' latest FanDuel snapshot is still 9:00 AM EST. Official 10:15 AM ET NBA report unchanged from 9:15 AM; Celtics, Knicks and Bucks still not submitted. Added Boston back-to-back rest risk as counterevidence. Graded Nov 10: Knicks + Heat WON.",
  "research_holds": [
   {
    "title": "Nov 10 staged card graded from official finals",
@@ -191,6 +193,10 @@
   }
  ],
  "update_log": [
+  {
+   "at": "2026-11-11T10:18:00-05:00",
+   "text": "10:18 AM review: both conditional cards stand, prices unchanged (AgentBets' latest FanDuel snapshot is still 9:00 AM EST, so cards hold at the 11:00 AM price-age deadline unless refreshed). Official NBA 10:15 AM ET report unchanged from 9:15 AM; Celtics, Knicks and Bucks not yet submitted. Added counterevidence: Boston is on the second night of a back-to-back (fourth game in six nights) and rested George/Tatum around its last back-to-back, so a rest scratch is possible. No exact FanDuel IDs, links stay app-only."
+  },
   {
    "at": "2026-11-11T09:22:00-05:00",
    "text": "9:22 AM review: both conditional cards stand. AgentBets FanDuel 9:00 AM EST snapshot: LAL -700 to -900 (Spurs + Lakers 1.238x to 1.204x); BOS -295 to -235 and NY -180 to -196 (Celtics + Knicks 2.083x to 2.153x). Boston's drift has no matching injury news (only Devin Carter OUT, illness, per SI/AP), noted as counterevidence. Official NBA 9:15 AM ET report unchanged from 8:00 AM; Celtics, Knicks and Bucks not yet submitted. No exact FanDuel IDs, links stay app-only."
