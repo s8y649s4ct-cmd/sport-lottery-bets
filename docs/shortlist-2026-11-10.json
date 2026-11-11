@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "published_est": "2026-11-10T21:24:00-05:00",
+ "published_est": "2026-11-10T22:21:00-05:00",
  "odds_reported_at_est": "2026-11-10T18:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
@@ -95,12 +95,12 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-10T21:24:00-05:00",
+ "last_checked_at": "2026-11-10T22:21:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
  },
- "research_scope": "9:24 PM EST hourly review for Tuesday, Nov 10. Knicks + Heat (posted 6:24 PM at NY -1200 / MIA -405, 1.351x) has BEGUN and is held; result pending. Per ESPN at about 9:24 PM EST, the Knicks led Milwaukee 91-74 with 10:56 left in the 4th quarter, and Miami led Utah 18-12 with 6:48 left in the 1st quarter (tipped 9:00 PM). Nothing graded yet; neither game is final. No new card: the only games not yet started are Magic at Kings (10:00 PM) and Thunder at Trail Blazers (11:00 PM), both already screened out as too thinly supported or too close.",
+ "research_scope": "10:21 PM EST hourly review for Tuesday, Nov 10. Knicks + Heat (posted 6:24 PM at NY -1200 / MIA -405, 1.351x) has BEGUN and is held; card result still pending. Knicks leg WON: ESPN final, Knicks 117, Bucks 85. Heat leg in progress: per ESPN at about 10:21 PM EST, Miami led Utah 64-54 at halftime. Card not graded until the Heat game is final. No new card: Magic at Kings (10:00 PM) has started and Thunder at Trail Blazers (11:00 PM) remains screened out as too close.",
  "research_holds": [
   {
    "title": "Nov 9 staged cards graded from official finals",
@@ -229,6 +229,10 @@
   {
    "at": "2026-11-10T21:24:00-05:00",
    "text": "9 PM-hour review (Nov 10): Knicks + Heat still in progress and held. ESPN ~9:24 PM: Knicks 91-74 over Bucks, 10:56 left in the 4th; Heat 18-12 at Jazz, 6:48 left in the 1st. Not graded yet. No new card."
+  },
+  {
+   "at": "2026-11-10T22:21:00-05:00",
+   "text": "10 PM-hour review (Nov 10): Knicks leg WON (ESPN final: Knicks 117, Bucks 85). Heat leg in progress, Miami led Utah 64-54 at halftime (ESPN ~10:21 PM). Card still held and not graded. No new card."
   }
  ]
 }
