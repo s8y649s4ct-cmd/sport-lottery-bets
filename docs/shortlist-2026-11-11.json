@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "published_est": "2026-11-11T20:20:00-05:00",
+ "published_est": "2026-11-11T21:19:00-05:00",
  "odds_reported_at_est": "2026-11-11T19:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
@@ -14,7 +14,7 @@
    "title": "Spurs + Lakers",
    "status": "conditional",
    "tier": "Highest price-implied win chance on the Wednesday NBA board; small payout because both legs are heavy favorites",
-   "status_reason": "STARTED ~8:10 PM ET; held, not bettable. CONDITIONAL, app-only. Prices are AgentBets' FanDuel snapshot of 7:00 PM EST (SA -1350 / LAL -950; not PA/MD-verified live quotes). Official 7:15 PM ET report: Spurs Harris OUT and Vassell moved to OUT; Bulls Awaka, Powell (moved to OUT) and Swain OUT, Collins AVAILABLE, Wilson QUESTIONABLE; Lakers Grimes OUT; Bucks Turner OUT (rest), Herro QUESTIONABLE. No exact FanDuel selection IDs exist for Nov 11, so links open the app without loading picks.",
+   "status_reason": "STARTED ~8:10 PM ET; held, not bettable. ESPN ~9:20 PM ET: Bulls 70, Spurs 56 (11:10 3rd) - Spurs leg at serious risk; Lakers 61, Bucks 50 at halftime. CONDITIONAL, app-only. Prices are AgentBets' FanDuel snapshot of 7:00 PM EST (SA -1350 / LAL -950; not PA/MD-verified live quotes). Official 7:15 PM ET report: Spurs Harris OUT and Vassell moved to OUT; Bulls Awaka, Powell (moved to OUT) and Swain OUT, Collins AVAILABLE, Wilson QUESTIONABLE; Lakers Grimes OUT; Bucks Turner OUT (rest), Herro QUESTIONABLE. No exact FanDuel selection IDs exist for Nov 11, so links open the app without loading picks.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -167,12 +167,12 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-11T20:20:00-05:00",
+ "last_checked_at": "2026-11-11T21:19:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
  },
- "research_scope": "8:20 PM EST hourly review for Wednesday, Nov 11. Spurs + Lakers has STARTED (both tipped ~8:10 PM ET) and is held, not bettable; last posted price SA -1350 / LAL -950 (AgentBets 7:00 PM EST), 1.187x. In progress per ESPN ~8:20 PM: Spurs 19, Bulls 17 (6:51 1st); Lakers 14, Bucks 7 (7:13 1st). Celtics + Knicks stays WITHDRAWN. Late games rechecked at AgentBets' 8:00 PM EST snapshot (Magic -174 at Utah, Rockets -250 vs Warriors, Portland -136 vs Thunder): none qualify, no new card.",
+ "research_scope": "9:20 PM EST hourly review for Wednesday, Nov 11. Spurs + Lakers has STARTED and is held, not bettable; last posted price SA -1350 / LAL -950 (AgentBets 7:00 PM EST), 1.187x. In progress per ESPN ~9:20 PM: Bulls 70, Spurs 56 (11:10 3rd), Spurs leg at serious risk; Lakers 61, Bucks 50 at halftime. Celtics + Knicks stays WITHDRAWN (ESPN ~9:20 PM: Raptors 86, Celtics 81 and Cavaliers 99, Knicks 97, both late 4th). Remaining games (Warriors at Rockets 9:30 PM, Thunder at Portland 10:00 PM) were already screened out; no new card.",
  "research_holds": [
   {
    "title": "Nov 10 staged card graded from official finals",
@@ -194,6 +194,10 @@
   }
  ],
  "update_log": [
+  {
+   "at": "2026-11-11T21:19:00-05:00",
+   "text": "9 PM-hour review (Nov 11): Spurs + Lakers in progress and held; posted SA -1350 / LAL -950, 1.187x. ESPN ~9:20 PM: Bulls 70, Spurs 56 (11:10 3rd), Spurs leg at serious risk; Lakers 61, Bucks 50 at halftime. Not graded. Withdrawn Celtics + Knicks: both teams trailing late in the 4th (Raptors 86-81, Cavaliers 99-97). Warriors-Rockets and Thunder-Blazers stay screened out; no new card."
+  },
   {
    "at": "2026-11-11T20:20:00-05:00",
    "text": "8 PM-hour review (Nov 11): Spurs + Lakers has started (both tipped ~8:10 PM ET) and is held; posted version SA -1350 / LAL -950 (AgentBets 7:00 PM EST), 1.187x. ESPN ~8:20 PM: Spurs 19, Bulls 17 (6:51 1st); Lakers 14, Bucks 7 (7:13 1st). Not graded. Late games rechecked at AgentBets' 8:00 PM EST FanDuel snapshot (Magic -174, Rockets -250, Blazers -136 vs Thunder +116): none qualify, no new card. Celtics + Knicks stays WITHDRAWN."
