@@ -1,7 +1,7 @@
 {
  "date": "2026-11-12",
- "published_est": "2026-11-12T11:16:00-05:00",
- "odds_reported_at_est": "2026-11-12T10:00:00-05:00",
+ "published_est": "2026-11-12T12:25:00-05:00",
+ "odds_reported_at_est": "2026-11-12T12:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
  "fully_cleared": false,
@@ -14,116 +14,116 @@
    "title": "Pistons + 76ers",
    "status": "conditional",
    "tier": "Highest price-implied win chance on the Thursday NBA board; small payout because both legs are heavy favorites",
-   "status_reason": "CONDITIONAL. AgentBets' FanDuel snapshot of 10:00 AM EST: DET -450 / PHI -335 (PHI has drifted -430 → -375 → -335 since 8:00 AM while Embiid and LeBron James remain QUESTIONABLE; the market is pricing in their uncertainty), 1.587x theoretical ($15.87 on $10 / $39.68 on $25), not a PA/MD-verified live quote. Held until a later review confirms Embiid/James status and the Wizards/Raptors reports. No exact FanDuel selection IDs exist for Nov 12, so links are app-only.",
+   "status_reason": "CONDITIONAL. AgentBets' FanDuel snapshot of 12:00 PM EST: DET -500 / PHI -330 (DET lengthened from -450; PHI has drifted -430 → -375 → -335 → -330 since 8:00 AM while Embiid and LeBron James remain QUESTIONABLE; the market is pricing in their uncertainty), 1.564x theoretical ($15.64 on $10 / $39.09 on $25), not a PA/MD-verified live quote. Held until a later review confirms Embiid/James status and the Wizards/Raptors reports. No exact FanDuel selection IDs exist for Nov 12, so links are app-only.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-12T11:16:00-05:00",
+     "checked_at": "2026-11-12T12:25:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-12T10:00:00-05:00",
+     "price_quoted_at": "2026-11-12T12:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261112",
-     "availability_checked_at": "2026-11-12T11:16:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_11_15AM.pdf",
+     "availability_checked_at": "2026-11-12T12:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_12_15PM.pdf",
      "team": "Detroit Pistons",
      "market": "Moneyline",
-     "american_odds": -450,
+     "american_odds": -500,
      "event": "Detroit Pistons @ Washington Wizards",
      "start_est": "2026-11-12 7:00 PM EST (AgentBets lists 7:10 PM EST)",
      "venue": "Capital One Arena",
      "start_at": "2026-11-12T19:00:00-05:00",
      "event_key": "espn-nba-401909977",
      "evidence": "ESPN standings: Detroit is 7-3 (4-1 on the road) with a +8.1 average point differential (112.7 scored, 104.6 allowed). Washington is 4-8, has lost five straight, sits at -5.9 (107.5 / 113.4) and is 2-2 at home. Detroit already beat Washington 122-111 at home on Monday (Nov 9) without Jalen Duren. Washington played at Indiana last night (lost 114-101), so the Wizards are on the second night of a back-to-back while Detroit is rested since Monday. Wizards also missing Vukcevic, Beekman, Champagnie and Watkins (ESPN/RotoWire). ESPN lists DET -10.5.",
-     "remaining_checks": "Counterevidence and open items: Pistons are without starting center Jalen Duren (hamstring) and Isaiah Joe (hip), both OUT on the official 11:15 AM report; the Wizards' report was NOT YET SUBMITTED. Detroit has lost two of its last four (to PHI and LAL). -460 leaves a small payout. Live PA/MD price not checked.",
-     "lineup_status": "Official 11:15 AM ET (unchanged from 8:15, 9:15 and 10:15 AM) NBA report: Pistons' Duren OUT, Joe OUT, two-way/G League players listed; Wizards NOT YET SUBMITTED. Starters not confirmed.",
+     "remaining_checks": "Counterevidence and open items: Pistons are without starting center Jalen Duren (hamstring) and Isaiah Joe (hip), both OUT on the official 12:15 PM report; the Wizards' report was NOT YET SUBMITTED. Detroit has lost two of its last four (to PHI and LAL). -500 leaves a small payout. Live PA/MD price not checked.",
+     "lineup_status": "Official 12:15 PM ET (unchanged from 8:15, 9:15, 10:15 and 11:15 AM) NBA report: Pistons' Duren OUT, Joe OUT, two-way/G League players listed; Wizards NOT YET SUBMITTED. Starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909977",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/injuries",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_11_15AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_12_15PM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-12T11:16:00-05:00",
+     "checked_at": "2026-11-12T12:25:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-12T10:00:00-05:00",
+     "price_quoted_at": "2026-11-12T12:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261112",
-     "availability_checked_at": "2026-11-12T11:16:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_11_15AM.pdf",
+     "availability_checked_at": "2026-11-12T12:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_12_15PM.pdf",
      "team": "Philadelphia 76ers",
      "market": "Moneyline",
-     "american_odds": -335,
+     "american_odds": -330,
      "event": "Toronto Raptors @ Philadelphia 76ers",
      "start_est": "2026-11-12 7:00 PM EST (AgentBets lists 7:10 PM EST)",
      "venue": "Xfinity Mobile Arena",
      "start_at": "2026-11-12T19:00:00-05:00",
      "event_key": "espn-nba-401909976",
      "evidence": "ESPN standings: Philadelphia is 9-3 (+1.0 differential, 4-2 at home). Toronto is 5-6, has lost two straight and played at home last night (lost 98-93 to Boston), so the Raptors are on the second night of a back-to-back with travel; Philadelphia last played Tuesday. Toronto is missing Kawhi Leonard (knee, OUT until ~Nov 23 per ESPN/RotoWire), Nate Bittle (foot), and Scottie Barnes sat out last night with a groin injury. ESPN lists PHI -9.5.",
-     "remaining_checks": "Counterevidence and open items: Joel Embiid (right foot) and LeBron James (low back/sciatica) are both QUESTIONABLE on the official 11:15 AM report, and Adem Bona and Dominick Barlow are OUT; if Embiid and James both sit, this leg weakens materially and will be withdrawn. Philadelphia lost 123-101 to Boston on Tuesday. Toronto's report was NOT YET SUBMITTED (Barnes status unknown). Live PA/MD price not checked.",
-     "lineup_status": "Official 11:15 AM ET (unchanged from 8:15, 9:15 and 10:15 AM) NBA report: 76ers' Embiid QUESTIONABLE, James QUESTIONABLE, Bona OUT, Barlow OUT, Hukporti OUT; Raptors NOT YET SUBMITTED. Starters not confirmed.",
+     "remaining_checks": "Counterevidence and open items: Joel Embiid (right foot) and LeBron James (low back/sciatica) are both QUESTIONABLE on the official 12:15 PM report, and Adem Bona and Dominick Barlow are OUT; if Embiid and James both sit, this leg weakens materially and will be withdrawn. Philadelphia lost 123-101 to Boston on Tuesday. Toronto's report was NOT YET SUBMITTED (Barnes status unknown). Live PA/MD price not checked.",
+     "lineup_status": "Official 12:15 PM ET (unchanged from 8:15, 9:15, 10:15 and 11:15 AM) NBA report: 76ers' Embiid QUESTIONABLE, James QUESTIONABLE, Bona OUT, Barlow OUT, Hukporti OUT; Raptors NOT YET SUBMITTED. Starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909976",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/injuries",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_11_15AM.pdf",
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_12_15PM.pdf",
       "https://www.espn.com/nba/team/schedule/_/name/phi"
      ]
     }
    ],
-   "theoretical_decimal_return": 1.5870646766169154
+   "theoretical_decimal_return": 1.5636363636363635
   },
   {
    "id": "nov12-b",
    "title": "Timberwolves + Suns",
    "status": "conditional",
    "tier": "Lower win chance than Pistons + 76ers (both legs are moderate favorites), about 2x payout",
-   "status_reason": "CONDITIONAL. AgentBets' FanDuel snapshot of 10:00 AM EST: MIN -220 / PHX -245 (were -225 / -240 at 9:00 AM), 2.048x theoretical ($20.48 on $10 / $51.21 on $25), not a PA/MD-verified live quote. No exact FanDuel selection IDs exist for Nov 12, so links are app-only.",
+   "status_reason": "CONDITIONAL. AgentBets' FanDuel snapshot of 12:00 PM EST: MIN -230 / PHX -245 (MIN was -220 at 10:00 AM), 2.020x theoretical ($20.20 on $10 / $50.51 on $25), not a PA/MD-verified live quote. No exact FanDuel selection IDs exist for Nov 12, so links are app-only.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-12T11:16:00-05:00",
+     "checked_at": "2026-11-12T12:25:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-12T10:00:00-05:00",
+     "price_quoted_at": "2026-11-12T12:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261112",
-     "availability_checked_at": "2026-11-12T11:16:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_11_15AM.pdf",
+     "availability_checked_at": "2026-11-12T12:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_12_15PM.pdf",
      "team": "Minnesota Timberwolves",
      "market": "Moneyline",
-     "american_odds": -220,
+     "american_odds": -230,
      "event": "Dallas Mavericks @ Minnesota Timberwolves",
      "start_est": "2026-11-12 8:00 PM EST (AgentBets lists 8:10 PM EST)",
      "venue": "Target Center",
      "start_at": "2026-11-12T20:00:00-05:00",
      "event_key": "espn-nba-401909978",
      "evidence": "ESPN standings: Minnesota is 8-3 with a +11.1 differential (tied for third-best in the West) and has won four straight, all with Anthony Edwards already out after his Oct 29 knee procedure. Dallas is 7-4 (+4.6) but only 2-2 on the road and is without center Dereck Lively II (foot) plus Biberovic and de Larrea (all OUT on the official report). ESPN lists MIN -5.5.",
-     "remaining_checks": "Counterevidence and open items: Edwards (knee) and DiVincenzo are OUT for Minnesota; Dallas has won three straight. -225 is a much less certain price than the heavy NBA favorites. Live PA/MD price not checked.",
-     "lineup_status": "Official 11:15 AM ET (unchanged from 8:15, 9:15 and 10:15 AM) NBA report: Timberwolves' Edwards OUT, DiVincenzo OUT, Beringer AVAILABLE; Mavericks' Lively, Biberovic, de Larrea OUT, Morez Johnson Jr. PROBABLE, Caleb Martin AVAILABLE. Starters not confirmed.",
+     "remaining_checks": "Counterevidence and open items: Edwards (knee) and DiVincenzo are OUT for Minnesota; Dallas has won three straight. -230 is a much less certain price than the heavy NBA favorites. Live PA/MD price not checked.",
+     "lineup_status": "Official 12:15 PM ET (unchanged from 8:15, 9:15, 10:15 and 11:15 AM) NBA report: Timberwolves' Edwards OUT, DiVincenzo OUT, Beringer AVAILABLE; Mavericks' Lively, Biberovic, de Larrea OUT, Morez Johnson Jr. PROBABLE, Caleb Martin AVAILABLE. Starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909978",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/injuries",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_11_15AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_12_15PM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-12T11:16:00-05:00",
+     "checked_at": "2026-11-12T12:25:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-12T10:00:00-05:00",
+     "price_quoted_at": "2026-11-12T12:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261112",
-     "availability_checked_at": "2026-11-12T11:16:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_11_15AM.pdf",
+     "availability_checked_at": "2026-11-12T12:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_12_15PM.pdf",
      "team": "Phoenix Suns",
      "market": "Moneyline",
      "american_odds": -245,
@@ -133,19 +133,19 @@
      "start_at": "2026-11-12T21:00:00-05:00",
      "event_key": "espn-nba-401909979",
      "evidence": "Charlotte is missing three of its top perimeter players on the official 8:15 AM report: Brandon Miller (hip), Kon Knueppel (hamstring) and Dennis Schroder (hamstring), all OUT. The Hornets score 98.8 points per game, by far the lowest listed in ESPN standings (-11.6 differential), and are 1-3 on the road. Phoenix is 4-3 at home, has won three of its last five, and beat the Clippers 133-110 on Tuesday. ESPN lists PHX -6.5.",
-     "remaining_checks": "Counterevidence and open items: Phoenix is only 4-6 with a -5.3 differential, and Charlotte's defense allows just 110.4 per game. Suns center Mark Williams is OUT long-term. -250 is a moderate, not heavy, favorite. Live PA/MD price not checked.",
-     "lineup_status": "Official 11:15 AM ET (unchanged from 8:15, 9:15 and 10:15 AM) NBA report: Hornets' Miller, Knueppel, Schroder OUT, Grant Williams and Diabate PROBABLE; Suns' Mark Williams OUT. Starters not confirmed.",
+     "remaining_checks": "Counterevidence and open items: Phoenix is only 4-6 with a -5.3 differential, and Charlotte's defense allows just 110.4 per game. Suns center Mark Williams is OUT long-term. -245 is a moderate, not heavy, favorite. Live PA/MD price not checked.",
+     "lineup_status": "Official 12:15 PM ET (unchanged from 8:15, 9:15, 10:15 and 11:15 AM) NBA report: Hornets' Miller, Knueppel, Schroder OUT, Grant Williams and Diabate PROBABLE; Suns' Mark Williams OUT. Starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909979",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/injuries",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_11_15AM.pdf",
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-12_12_15PM.pdf",
       "https://www.espn.com/nba/team/schedule/_/name/phx"
      ]
     }
    ],
-   "theoretical_decimal_return": 2.0482374768089056
+   "theoretical_decimal_return": 2.020408163265306
   }
  ],
  "app_link": "https://sportsbook.fanduel.com/navigation/nfl",
@@ -165,7 +165,7 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-12T11:16:00-05:00",
+ "last_checked_at": "2026-11-12T12:25:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
@@ -391,6 +391,10 @@
   {
    "at": "2026-11-12T11:16:00-05:00",
    "text": "11:16 AM review (Nov 12): both conditional cards stand. Repriced from AgentBets' 10:00 AM EST FanDuel snapshot (3:00 PM UTC): PHI -375 to -335, MIN -225 to -220, PHX -240 to -245 (DET -450 unchanged). Pistons + 76ers now 1.587x, Timberwolves + Suns 2.048x. Official NBA 11:15 AM ET report unchanged for all four games: Embiid and LeBron James still QUESTIONABLE; Wizards and Raptors still not submitted. The steady 76ers drift reflects Embiid/James uncertainty; that leg is withdrawn if both are ruled out."
+  },
+  {
+   "at": "2026-11-12T12:25:00-05:00",
+   "text": "12:25 PM review (Nov 12): both conditional cards stand. Repriced from AgentBets' 12:00 PM EST FanDuel snapshot (5:00 PM UTC; the 11:00 AM snapshot was not captured between reviews): DET -450 to -500, PHI -335 to -330, MIN -220 to -230 (PHX -245 unchanged). Pistons + 76ers now 1.564x, Timberwolves + Suns 2.020x. Official NBA 12:15 PM ET report unchanged for all four games: Embiid and LeBron James still QUESTIONABLE; Wizards and Raptors still not submitted. The 76ers leg is withdrawn if both Embiid and James are ruled out."
   }
  ]
 }
