@@ -1,7 +1,7 @@
 {
  "date": "2026-11-13",
- "published_est": "2026-11-13T13:17:00-05:00",
- "odds_reported_at_est": "2026-11-13T12:00:00-05:00",
+ "published_est": "2026-11-13T14:17:00-05:00",
+ "odds_reported_at_est": "2026-11-13T13:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
  "fully_cleared": false,
@@ -14,20 +14,20 @@
    "title": "Rockets + Spurs",
    "status": "conditional",
    "tier": "Highest price-implied win chance on the Friday NBA board; small payout because both legs are heavy favorites",
-   "status_reason": "CONDITIONAL: priced from AgentBets' FanDuel snapshot of 12:00 PM EST (-1200 / -700), 1.238x theoretical ($12.38 on $10 / $30.95 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Availability from the official 1:15 PM NBA injury report (no changes for these players from 12:15 PM); later reports and starters still to come.",
+   "status_reason": "CONDITIONAL: priced from AgentBets' FanDuel snapshot of 1:00 PM EST (-1200 / -700), 1.238x theoretical ($12.38 on $10 / $30.95 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Availability from the official 2:15 PM NBA injury report (identical to 1:15 PM); later reports and starters still to come.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-13T13:17:00-05:00",
+     "checked_at": "2026-11-13T14:17:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-13T12:00:00-05:00",
+     "price_quoted_at": "2026-11-13T13:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261113",
-     "availability_checked_at": "2026-11-13T13:17:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf",
+     "availability_checked_at": "2026-11-13T14:17:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_02_15PM.pdf",
      "team": "Houston Rockets",
      "market": "Moneyline",
      "american_odds": -1200,
@@ -38,23 +38,23 @@
      "event_key": "espn-nba-401909301",
      "evidence": "ESPN standings: Houston is 9-3 (6-1 at home, +8.9 differential). Utah is 1-11, has lost 10 straight, is 0-5 on the road and sits at -11.5. The official 8:15 AM report lists Utah without Lauri Markkanen (hand fracture), Jaren Jackson Jr. (MCL tear) and Jusuf Nurkic, plus three two-way players. Neither team played last night. ESPN lists HOU -16.5.",
      "remaining_checks": "Counterevidence and open items: Houston is without Steven Adams, Clint Capela (both OUT) and Marcus Smart (suspension), so its frontcourt depth is thin. -1200 pays very little. Live PA/MD price not checked.",
-     "lineup_status": "Official 1:15 PM ET NBA report (no material changes from 12:15 PM): Jazz' Markkanen, Jackson Jr., Nurkic OUT (plus two-way Alexander, Bufkin, Ingram); Rockets' Adams, Capela OUT, Smart OUT (suspension), two-way Copeland and Phillips OUT. Starters not confirmed.",
+     "lineup_status": "Official 2:15 PM ET NBA report (identical to 1:15 PM): Jazz' Markkanen, Jackson Jr., Nurkic OUT (plus two-way Alexander, Bufkin, Ingram); Rockets' Adams, Capela OUT, Smart OUT (suspension), two-way Copeland and Phillips OUT. Starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909301",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/injuries",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_02_15PM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-13T13:17:00-05:00",
+     "checked_at": "2026-11-13T14:17:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-13T12:00:00-05:00",
+     "price_quoted_at": "2026-11-13T13:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261113",
-     "availability_checked_at": "2026-11-13T13:17:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf",
+     "availability_checked_at": "2026-11-13T14:17:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_02_15PM.pdf",
      "team": "San Antonio Spurs",
      "market": "Moneyline",
      "american_odds": -700,
@@ -65,13 +65,13 @@
      "event_key": "espn-nba-401909302",
      "evidence": "Golden State is missing Stephen Curry (oblique tear), Jimmy Butler, Kristaps Porzingis (not with team), Moses Moody and Brandon Williams, all OUT on the official 8:15 AM report. San Antonio is 10-2 with a 10-game win streak and a +11.2 differential (tied for best in the West). The Warriors are 2-3 on the road. Neither team played last night. ESPN lists SA -11.5.",
      "remaining_checks": "Counterevidence and open items: De'Aaron Fox (hip) and Devin Vassell are QUESTIONABLE and Tobias Harris is OUT for San Antonio; the Spurs are only 4-2 at home and trailed Chicago by 14 on Wednesday before winning. Golden State is 8-4 (+7.8). Live PA/MD price not checked.",
-     "lineup_status": "Official 1:15 PM ET NBA report (no material changes from 12:15 PM): Warriors' Curry, Butler, Porzingis, Moody, B. Williams OUT, Bassey PROBABLE; Spurs' Harris and Quaintance OUT, Fox and Vassell QUESTIONABLE. Starters not confirmed.",
+     "lineup_status": "Official 2:15 PM ET NBA report (identical to 1:15 PM): Warriors' Curry, Butler, Porzingis, Moody, B. Williams OUT, Bassey PROBABLE; Spurs' Harris and Quaintance OUT, Fox and Vassell QUESTIONABLE. Starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909302",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/injuries",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_02_15PM.pdf"
      ]
     }
    ],
@@ -82,23 +82,23 @@
    "title": "Trail Blazers + Magic",
    "status": "conditional",
    "tier": "Second-highest price-implied win chance; Magic leg carries Banchero absence and a 0-4 home record",
-   "status_reason": "CONDITIONAL: priced from AgentBets' FanDuel snapshot of 12:00 PM EST (-460 / -350), 1.565x theoretical ($15.65 on $10 / $39.13 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Availability from the official 1:15 PM NBA injury report (no changes for these players from 12:15 PM); later reports and starters still to come.",
+   "status_reason": "CONDITIONAL: priced from AgentBets' FanDuel snapshot of 1:00 PM EST (-490 / -375), 1.525x theoretical ($15.25 on $10 / $38.13 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Availability from the official 2:15 PM NBA injury report (identical to 1:15 PM); later reports and starters still to come.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-13T13:17:00-05:00",
+     "checked_at": "2026-11-13T14:17:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-13T12:00:00-05:00",
+     "price_quoted_at": "2026-11-13T13:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261113",
-     "availability_checked_at": "2026-11-13T13:17:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf",
+     "availability_checked_at": "2026-11-13T14:17:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_02_15PM.pdf",
      "team": "Portland Trail Blazers",
      "market": "Moneyline",
-     "american_odds": -460,
+     "american_odds": -490,
      "event": "Portland Trail Blazers @ Sacramento Kings",
      "start_est": "2026-11-13 10:00 PM EST (AgentBets lists 10:10 PM EST)",
      "venue": "Golden 1 Center",
@@ -106,26 +106,26 @@
      "event_key": "espn-nba-401909303",
      "evidence": "ESPN standings: Portland is 8-3 (5-1 on the road, +7.2). Sacramento is 1-10, 0-6 at home, has lost four straight and has a -12.7 differential. The Kings list Ben Simmons and Maxime Raynaud OUT and Precious Achiuwa QUESTIONABLE on the 8:15 AM report. Neither team played last night. ESPN lists POR -10.5.",
      "remaining_checks": "Counterevidence and open items: Portland is without Ja Morant (hamstring), Shaedon Sharpe, Vit Krejci and Chris Youngblood (all OUT). Late tip (10:00 PM ET). -460 leaves a small payout. Live PA/MD price not checked.",
-     "lineup_status": "Official 1:15 PM ET NBA report (no material changes from 12:15 PM): Blazers' Morant, Sharpe, Krejci, Youngblood OUT; Kings' Simmons, Raynaud OUT, Achiuwa QUESTIONABLE, two-way/G League Karaban, Mogbo, Pedulla OUT. Starters not confirmed.",
+     "lineup_status": "Official 2:15 PM ET NBA report (identical to 1:15 PM): Blazers' Morant, Sharpe, Krejci, Youngblood OUT; Kings' Simmons, Raynaud OUT, Achiuwa QUESTIONABLE, two-way/G League Karaban, Mogbo, Pedulla OUT. Starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909303",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/injuries",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_02_15PM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-13T13:17:00-05:00",
+     "checked_at": "2026-11-13T14:17:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-13T12:00:00-05:00",
+     "price_quoted_at": "2026-11-13T13:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261113",
-     "availability_checked_at": "2026-11-13T13:17:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf",
+     "availability_checked_at": "2026-11-13T14:17:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_02_15PM.pdf",
      "team": "Orlando Magic",
      "market": "Moneyline",
-     "american_odds": -350,
+     "american_odds": -375,
      "event": "Milwaukee Bucks @ Orlando Magic",
      "start_est": "2026-11-13 7:00 PM EST (AgentBets lists 7:10 PM EST)",
      "venue": "Kia Center",
@@ -133,37 +133,37 @@
      "event_key": "espn-nba-401909297",
      "evidence": "Milwaukee is 1-11, has lost eight straight, is 0-5 on the road and has the worst differential in the East (-14.5) per ESPN standings. Orlando has won two straight. Neither team played last night, and the Bucks list no one on the 8:15 AM report. ESPN lists ORL -9.5.",
      "remaining_checks": "Counterevidence and open items: Orlando is 4-7 and 0-4 at home, and is without Paolo Banchero (high ankle sprain) and Jonathan Isaac, with Jalen Suggs, Jamal Cain and Tristan da Silva QUESTIONABLE. That is the main reason this card is ranked below Rockets + Spurs. Live PA/MD price not checked.",
-     "lineup_status": "Official 1:15 PM ET NBA report (no material changes from 12:15 PM): Magic's Banchero, Isaac, Nelson, Penda OUT; Suggs, Cain, da Silva QUESTIONABLE. Bucks: no players listed. Starters not confirmed.",
+     "lineup_status": "Official 2:15 PM ET NBA report (identical to 1:15 PM): Magic's Banchero, Isaac, Nelson, Penda OUT; Suggs, Cain, da Silva QUESTIONABLE. Bucks: no players listed. Starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909297",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/injuries",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_02_15PM.pdf"
      ]
     }
    ],
-   "theoretical_decimal_return": 1.5652173913043477
+   "theoretical_decimal_return": 1.525170068027211
   },
   {
    "id": "nov13-c",
    "title": "Knicks + Hawks",
    "status": "conditional",
    "tier": "Knicks -350 and Hawks -230 road favorites against short-handed teams; lowest win chance of the three, about 1.84x payout",
-   "status_reason": "CONDITIONAL: priced from AgentBets' FanDuel snapshot of 12:00 PM EST (-335 / -290), 1.746x theoretical ($17.46 on $10 / $43.66 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Availability from the official 1:15 PM NBA injury report (no changes for these players from 12:15 PM); later reports and starters still to come.",
+   "status_reason": "CONDITIONAL: priced from AgentBets' FanDuel snapshot of 1:00 PM EST (-335 / -290), 1.746x theoretical ($17.46 on $10 / $43.66 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Availability from the official 2:15 PM NBA injury report (identical to 1:15 PM); later reports and starters still to come.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-13T13:17:00-05:00",
+     "checked_at": "2026-11-13T14:17:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-13T12:00:00-05:00",
+     "price_quoted_at": "2026-11-13T13:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261113",
-     "availability_checked_at": "2026-11-13T13:17:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf",
+     "availability_checked_at": "2026-11-13T14:17:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_02_15PM.pdf",
      "team": "New York Knicks",
      "market": "Moneyline",
      "american_odds": -335,
@@ -174,23 +174,23 @@
      "event_key": "espn-nba-401909296",
      "evidence": "Indiana is without Tyrese Haliburton (hamstring), Ben Sheppard and Johnny Furphy (all OUT), with Aaron Nesmith QUESTIONABLE on the 8:15 AM report. The Knicks list no injuries, are 6-5 with a +6.8 differential (best of tonight's road favorites in this card) and beat Milwaukee 117-85 on Tuesday. Indiana is 4-8 and 1-4 at home. ESPN lists NY -8.5.",
      "remaining_checks": "Counterevidence and open items: New York lost its last game and is only 2-2 on the road; Indiana won its last game. -335 is a moderate favorite. Live PA/MD price not checked.",
-     "lineup_status": "Official 1:15 PM ET NBA report (no material changes from 12:15 PM): Pacers' Haliburton, Sheppard, Furphy OUT, Nesmith QUESTIONABLE, McConnell PROBABLE. Knicks: no players listed. Starters not confirmed.",
+     "lineup_status": "Official 2:15 PM ET NBA report (identical to 1:15 PM): Pacers' Haliburton, Sheppard, Furphy OUT, Nesmith QUESTIONABLE, McConnell PROBABLE. Knicks: no players listed. Starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909296",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/injuries",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_02_15PM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-13T13:17:00-05:00",
+     "checked_at": "2026-11-13T14:17:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-13T12:00:00-05:00",
+     "price_quoted_at": "2026-11-13T13:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261113",
-     "availability_checked_at": "2026-11-13T13:17:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf",
+     "availability_checked_at": "2026-11-13T14:17:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_02_15PM.pdf",
      "team": "Atlanta Hawks",
      "market": "Moneyline",
      "american_odds": -290,
@@ -201,13 +201,13 @@
      "event_key": "espn-nba-401909299",
      "evidence": "Chicago is 1-9, has lost eight straight and has the league's worst differential (-15.5) per ESPN standings, and lists Norman Powell and Dailyn Swain QUESTIONABLE with Tobe Awaka and Caleb Wilson OUT. Atlanta is 7-5 (+2.1) and 4-2 on the road. ESPN lists ATL -7.5.",
      "remaining_checks": "Counterevidence and open items: Atlanta has lost its last game and is missing Mouhamed Gueye, Asa Newell, Keshon Gilbert and Henri Veesaar (OUT) with Kingston Flemings QUESTIONABLE. The Bulls nearly beat the Spurs on Wednesday (lost 124-119 after leading by 14). Live PA/MD price not checked.",
-     "lineup_status": "Official 1:15 PM ET NBA report (no material changes from 12:15 PM): Hawks' Gueye, Newell, Gilbert, Veesaar OUT, Flemings QUESTIONABLE; Bulls' Awaka, C. Wilson OUT, Powell, Swain QUESTIONABLE. Only change: two-way Jalen Wilson (Hawks) now OUT and two-way Jaylin Sellers (Bulls) added OUT. Starters not confirmed.",
+     "lineup_status": "Official 2:15 PM ET NBA report (identical to 1:15 PM): Hawks' Gueye, Newell, Gilbert, Veesaar OUT, Flemings QUESTIONABLE; Bulls' Awaka, C. Wilson OUT, Powell, Swain QUESTIONABLE. Only change: two-way Jalen Wilson (Hawks) now OUT and two-way Jaylin Sellers (Bulls) added OUT. Starters not confirmed.",
      "weather_status": "Indoor arena; weather not a factor.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909299",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/injuries",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_01_15PM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_02_15PM.pdf"
      ]
     }
    ],
@@ -231,12 +231,12 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-13T13:17:00-05:00",
+ "last_checked_at": "2026-11-13T14:17:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
  },
- "research_scope": "1:17 PM EST review for Friday, Nov 13. Three conditional NBA cards staged from AgentBets' 12:00 PM EST FanDuel snapshot (AgentBets' page still shows its 12:00 PM EST snapshot at 1:16 PM; prices unchanged) and the official 1:15 PM NBA injury report (no material changes for these six teams; only two-way Hawks/Bulls players moved to OUT): Rockets + Spurs, Trail Blazers + Magic and Knicks + Hawks, six different games, no shared legs. Nov 12 staged cards both graded WON at a prior review.",
+ "research_scope": "2:17 PM EST review for Friday, Nov 13. Three conditional NBA cards staged from AgentBets' 1:00 PM EST FanDuel snapshot (Blazers -490 / Magic -375 moved; other four legs unchanged) and the official 2:15 PM NBA injury report (identical to 1:15 PM): Rockets + Spurs, Trail Blazers + Magic and Knicks + Hawks, six different games, no shared legs. Nov 12 staged cards both graded WON at a prior review.",
  "research_holds": [
   {
    "title": "Nov 12 staged cards graded from official finals",
@@ -536,6 +536,10 @@
   {
    "at": "2026-11-13T13:17:00-05:00",
    "text": "1:17 PM review (Nov 13): all three cards stand, prices unchanged — AgentBets' FanDuel page still shows its 12:00 PM EST snapshot at 1:16 PM. Rockets + Spurs HOU -1200 / SA -700, 1.238x; Trail Blazers + Magic POR -460 / ORL -350, 1.565x; Knicks + Hawks NY -335 / ATL -290, 1.746x. The official 1:15 PM NBA injury report has no material changes for these six teams (Fox, Vassell, Suggs still QUESTIONABLE; only two-way players Jalen Wilson (ATL) and Jaylin Sellers (CHI) moved to OUT). No card added or dropped."
+  },
+  {
+   "at": "2026-11-13T14:17:00-05:00",
+   "text": "2:17 PM review (Nov 13): all three cards stand; repriced from AgentBets' 1:00 PM EST FanDuel snapshot. Rockets + Spurs HOU -1200 / SA -700 unchanged, 1.238x. Trail Blazers + Magic POR -490 / ORL -375, 1.525x (was 1.565x; both legs firmed from -460 / -350). Knicks + Hawks NY -335 / ATL -290 unchanged, 1.746x. The official 2:15 PM NBA injury report is identical to 1:15 PM (Fox, Vassell, Suggs still QUESTIONABLE). No card added or dropped."
   }
  ]
 }
