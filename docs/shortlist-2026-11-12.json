@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "published_est": "2026-11-12T21:56:00-05:00",
+ "published_est": "2026-11-12T22:20:00-05:00",
  "odds_reported_at_est": "2026-11-12T19:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
@@ -14,7 +14,7 @@
    "title": "Pistons + 76ers",
    "status": "conditional",
    "tier": "Highest price-implied win chance on the Thursday NBA board; small payout because both legs are heavy favorites",
-   "status_reason": "STARTED at 7:00 PM ET; no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, DET -480 / PHI -255, 1.682x theoretical ($16.82 on $10 / $42.05 on $25). The official 7:15 PM NBA report lists Joel Embiid AVAILABLE. 76ers leg WON: final (ESPN) 76ers 123, Raptors 112. Pistons leg PENDING: Wizards 132, Pistons 132 at the end of the first overtime (ESPN, 9:55 PM ET); the game goes to a second overtime. Card not graded until the Pistons game is final.",
+   "status_reason": "STARTED at 7:00 PM ET; no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, DET -480 / PHI -255, 1.682x theoretical ($16.82 on $10 / $42.05 on $25). GRADED WON from official finals (ESPN): 76ers 123, Raptors 112; Pistons 144, Wizards 140 in double overtime. Lesson: a -480 road favorite against a short-handed Wizards team still needed two overtimes, so heavy prices are not locks.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -84,7 +84,7 @@
    "title": "Timberwolves + Suns",
    "status": "conditional",
    "tier": "Lower win chance than Pistons + 76ers (both legs are moderate favorites), about 2x payout",
-   "status_reason": "STARTED at 8:00 PM ET (Mavericks @ Timberwolves) and 9:00 PM ET (Hornets @ Suns); no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 7:00 PM EST, MIN -230 / PHX -225, 2.072x theoretical ($20.72 on $10 / $51.81 on $25), not a PA/MD-verified live quote. Live at 9:55 PM ET (ESPN): Timberwolves 108, Mavericks 72 (10:11 left in the 4th); Suns 48, Hornets 37 (4:40 left in the 2nd). Pending; to be graded from official finals at a later review.",
+   "status_reason": "STARTED at 8:00 PM ET (Mavericks @ Timberwolves) and 9:00 PM ET (Hornets @ Suns); no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 7:00 PM EST, MIN -230 / PHX -225, 2.072x theoretical ($20.72 on $10 / $51.81 on $25), not a PA/MD-verified live quote. Timberwolves leg WON: final (ESPN) Timberwolves 133, Mavericks 94. Suns leg PENDING: Suns 55, Hornets 50 at halftime (ESPN, 10:20 PM ET). Card not graded until the Suns game is final.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -166,13 +166,24 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-12T21:56:00-05:00",
+ "last_checked_at": "2026-11-12T22:20:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
  },
  "research_scope": "8:20 AM EST morning review for Thursday, Nov 12. Two conditional NBA cards staged from AgentBets' 8:00 AM EST FanDuel snapshot and the official 8:15 AM NBA injury report: Pistons + 76ers (1.501x) and Timberwolves + Suns (2.022x), no shared games. Nov 11 Spurs + Lakers graded WON at the prior review.",
  "research_holds": [
+  {
+   "title": "Nov 12 staged cards graded from official finals",
+   "reason": "Pistons + 76ers (posted 6:00 PM EST prices DET -480 / PHI -255, 1.682x) WON: 76ers 123, Raptors 112; Pistons 144, Wizards 140 (2OT) (ESPN finals). Timberwolves + Suns: Timberwolves leg won 133-94; Suns leg still in progress at the 10:20 PM review, so the card is pending, not a win. Running two-leg staged record Nov 9-12: 4 wins, 1 loss, 1 pending. These are staged research cards, not recorded wagers.",
+   "sources": [
+    "https://www.espn.com/nba/scoreboard/_/date/20261112",
+    "https://www.espn.com/nba/game/_/gameId/401909976",
+    "https://www.espn.com/nba/game/_/gameId/401909977",
+    "https://www.espn.com/nba/game/_/gameId/401909978",
+    "https://www.espn.com/nba/game/_/gameId/401909979"
+   ]
+  },
   {
    "title": "Nov 11 staged card graded from official finals",
    "reason": "Spurs + Lakers (posted 7:21 PM at SA -1350 / LAL -950, 1.187x) WON: Spurs 124, Bulls 119; Lakers 123, Bucks 112 (ESPN finals). Nov 11 staged record: 1 win, 0 losses; the withdrawn Celtics + Knicks card is not counted. Running two-leg staged record Nov 9-11: 3 wins, 1 loss. These are staged research cards, not recorded wagers. Lesson: the Spurs, without Harris and Vassell, trailed by 14 in the 3rd before winning by five, so even a -1350 road favorite missing two rotation guards is not a lock; heavy prices reflect but do not remove that risk. Withdrawing Celtics + Knicks after the George/Towns reports avoided a Knicks loss, one data point and not proof the rule improves results.",
@@ -432,6 +443,10 @@
   {
    "at": "2026-11-12T21:56:00-05:00",
    "text": "9:56 PM review (Nov 12): 76ers leg WON (final 123-112 over the Raptors). Pistons @ Wizards is tied 132-132 after one overtime, heading to a second overtime, so Pistons + 76ers is still pending. Timberwolves lead the Mavericks 108-72 in the 4th; Suns lead the Hornets 48-37 in the 2nd. No pregame card remains tonight; nothing was added."
+  },
+  {
+   "at": "2026-11-12T22:20:00-05:00",
+   "text": "10:20 PM review (Nov 12): Pistons + 76ers GRADED WON: Pistons won 144-140 in double overtime at Washington; 76ers had already won 123-112. Timberwolves leg won 133-94; Suns lead the Hornets 55-50 at halftime, so Timberwolves + Suns is still pending. No pregame card remains tonight; nothing was added."
   }
  ]
 }
