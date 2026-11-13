@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "published_est": "2026-11-12T19:25:00-05:00",
+ "published_est": "2026-11-12T20:16:00-05:00",
  "odds_reported_at_est": "2026-11-12T19:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
@@ -14,7 +14,7 @@
    "title": "Pistons + 76ers",
    "status": "conditional",
    "tier": "Highest price-implied win chance on the Thursday NBA board; small payout because both legs are heavy favorites",
-   "status_reason": "STARTED at 7:00 PM ET; no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, DET -480 / PHI -255, 1.682x theoretical ($16.82 on $10 / $42.05 on $25). The official 7:15 PM NBA report lists Joel Embiid AVAILABLE, so the 76ers condition resolved in favor of playing. Early live score at 7:22 PM (ESPN): Wizards 22, Pistons 15 and Raptors 13, 76ers 9, both in the 1st quarter. To be graded from official finals at the next review.",
+   "status_reason": "STARTED at 7:00 PM ET; no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, DET -480 / PHI -255, 1.682x theoretical ($16.82 on $10 / $42.05 on $25). The official 7:15 PM NBA report lists Joel Embiid AVAILABLE. Halftime at 8:16 PM ET (ESPN): Pistons 64, Wizards 61; 76ers 60, Raptors 60. Pending; to be graded from official finals at the next review.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -84,7 +84,7 @@
    "title": "Timberwolves + Suns",
    "status": "conditional",
    "tier": "Lower win chance than Pistons + 76ers (both legs are moderate favorites), about 2x payout",
-   "status_reason": "CONDITIONAL. AgentBets' FanDuel snapshot of 7:00 PM EST (12:00 AM UTC; latest available at 7:25 PM): MIN -230 (was -215) / PHX -225 (unchanged), 2.072x theoretical ($20.72 on $10 / $51.81 on $25), not a PA/MD-verified live quote. Official 7:15 PM report: no change for either game (Edwards, DiVincenzo OUT for MIN; Lively OUT for DAL; Miller, Knueppel, Schroder OUT for CHA; Mark Williams OUT for PHX). No exact FanDuel selection IDs exist for Nov 12, so links are app-only.",
+   "status_reason": "STARTED at 8:00 PM ET (Mavericks @ Timberwolves tipped; Suns leg tips 9:00 PM ET); no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 7:00 PM EST, MIN -230 / PHX -225, 2.072x theoretical ($20.72 on $10 / $51.81 on $25), not a PA/MD-verified live quote. Live at 8:16 PM ET (ESPN): Mavericks 10, Timberwolves 9, 1st quarter. Pending; to be graded from official finals at a later review.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -166,7 +166,7 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-12T19:25:00-05:00",
+ "last_checked_at": "2026-11-12T20:16:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
@@ -424,6 +424,10 @@
   {
    "at": "2026-11-12T19:25:00-05:00",
    "text": "7:25 PM review (Nov 12): Pistons + 76ers tipped at 7:00 PM and is now an in-progress card at its posted 1.682x (6:00 PM prices); the official 7:15 PM report lists Embiid AVAILABLE. Timberwolves + Suns stands, repriced from AgentBets' 7:00 PM EST FanDuel snapshot: MIN -215 to -230, PHX -225 unchanged, 2.072x. No injury change for either remaining game. No new card added: only two games remain tonight."
+  },
+  {
+   "at": "2026-11-12T20:16:00-05:00",
+   "text": "8:16 PM review (Nov 12): Timberwolves + Suns started when Mavericks @ Timberwolves tipped at 8:00 PM, so both of tonight's cards are now in progress at their posted prices (Pistons + 76ers 1.682x; Timberwolves + Suns 2.072x). Halftime: Pistons 64-61, 76ers tied 60-60. No bettable pregame card remains tonight; nothing was added."
   }
  ]
 }
