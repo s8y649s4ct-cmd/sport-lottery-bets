@@ -1,0 +1,525 @@
+{
+ "date": "2026-11-13",
+ "published_est": "2026-11-13T08:25:00-05:00",
+ "odds_reported_at_est": "2026-11-13T08:00:00-05:00",
+ "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
+ "pa_md_prices_verified": false,
+ "fully_cleared": false,
+ "shared_legs": false,
+ "link_pa": "https://pa.sportsbook.fanduel.com/",
+ "link_md": "https://md.sportsbook.fanduel.com/",
+ "cards": [
+  {
+   "id": "nov13-a",
+   "title": "Rockets + Spurs",
+   "status": "conditional",
+   "tier": "Highest price-implied win chance on the Friday NBA board; small payout because both legs are heavy favorites",
+   "status_reason": "CONDITIONAL: priced from AgentBets' FanDuel snapshot of 8:00 AM EST (-1600 / -620), 1.234x theoretical ($12.34 on $10 / $30.85 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Availability from the official 8:15 AM NBA injury report; later reports and starters still to come.",
+   "availability_confirmed": false,
+   "price_live_verified": false,
+   "link_live_verified": false,
+   "link_mode": "app_only_no_exact_ids",
+   "legs": [
+    {
+     "checked_at": "2026-11-13T08:25:00-05:00",
+     "price_source": "https://agentbets.ai/odds/fanduel/nba/",
+     "price_quoted_at": "2026-11-13T08:00:00-05:00",
+     "price_state_verified": false,
+     "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261113",
+     "availability_checked_at": "2026-11-13T08:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf",
+     "team": "Houston Rockets",
+     "market": "Moneyline",
+     "american_odds": -1600,
+     "event": "Utah Jazz @ Houston Rockets",
+     "start_est": "2026-11-13 8:30 PM EST (AgentBets lists 8:40 PM EST)",
+     "venue": "Toyota Center",
+     "start_at": "2026-11-13T20:30:00-05:00",
+     "event_key": "espn-nba-401909301",
+     "evidence": "ESPN standings: Houston is 9-3 (6-1 at home, +8.9 differential). Utah is 1-11, has lost 10 straight, is 0-5 on the road and sits at -11.5. The official 8:15 AM report lists Utah without Lauri Markkanen (hand fracture), Jaren Jackson Jr. (MCL tear) and Jusuf Nurkic, plus three two-way players. Neither team played last night. ESPN lists HOU -16.5.",
+     "remaining_checks": "Counterevidence and open items: Houston is without Steven Adams, Clint Capela (both OUT) and Marcus Smart (suspension), so its frontcourt depth is thin. -1600 pays very little. Live PA/MD price not checked.",
+     "lineup_status": "Official 8:15 AM ET NBA report: Jazz' Markkanen, Jackson Jr., Nurkic OUT (plus two-way Alexander, Bufkin, Ingram); Rockets' Adams, Capela OUT, Smart OUT (suspension), two-way Copeland and Phillips OUT. Starters not confirmed.",
+     "weather_status": "Indoor arena; weather not a factor.",
+     "sources": [
+      "https://www.espn.com/nba/game/_/gameId/401909301",
+      "https://www.espn.com/nba/standings",
+      "https://www.espn.com/nba/injuries",
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf"
+     ]
+    },
+    {
+     "checked_at": "2026-11-13T08:25:00-05:00",
+     "price_source": "https://agentbets.ai/odds/fanduel/nba/",
+     "price_quoted_at": "2026-11-13T08:00:00-05:00",
+     "price_state_verified": false,
+     "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261113",
+     "availability_checked_at": "2026-11-13T08:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf",
+     "team": "San Antonio Spurs",
+     "market": "Moneyline",
+     "american_odds": -620,
+     "event": "Golden State Warriors @ San Antonio Spurs",
+     "start_est": "2026-11-13 9:30 PM EST (AgentBets lists 9:40 PM EST)",
+     "venue": "Frost Bank Center",
+     "start_at": "2026-11-13T21:30:00-05:00",
+     "event_key": "espn-nba-401909302",
+     "evidence": "Golden State is missing Stephen Curry (oblique tear), Jimmy Butler, Kristaps Porzingis (not with team), Moses Moody and Brandon Williams, all OUT on the official 8:15 AM report. San Antonio is 10-2 with a 10-game win streak and a +11.2 differential (tied for best in the West). The Warriors are 2-3 on the road. Neither team played last night. ESPN lists SA -11.5.",
+     "remaining_checks": "Counterevidence and open items: De'Aaron Fox (hip) and Devin Vassell are QUESTIONABLE and Tobias Harris is OUT for San Antonio; the Spurs are only 4-2 at home and trailed Chicago by 14 on Wednesday before winning. Golden State is 8-4 (+7.8). Live PA/MD price not checked.",
+     "lineup_status": "Official 8:15 AM ET NBA report: Warriors' Curry, Butler, Porzingis, Moody, B. Williams OUT, Bassey PROBABLE; Spurs' Harris and Quaintance OUT, Fox and Vassell QUESTIONABLE. Starters not confirmed.",
+     "weather_status": "Indoor arena; weather not a factor.",
+     "sources": [
+      "https://www.espn.com/nba/game/_/gameId/401909302",
+      "https://www.espn.com/nba/standings",
+      "https://www.espn.com/nba/injuries",
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf"
+     ]
+    }
+   ],
+   "theoretical_decimal_return": 1.2338709677419355
+  },
+  {
+   "id": "nov13-b",
+   "title": "Trail Blazers + Magic",
+   "status": "conditional",
+   "tier": "Second-highest price-implied win chance; Magic leg carries Banchero absence and a 0-4 home record",
+   "status_reason": "CONDITIONAL: priced from AgentBets' FanDuel snapshot of 8:00 AM EST (-600 / -405), 1.455x theoretical ($14.55 on $10 / $36.37 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Availability from the official 8:15 AM NBA injury report; later reports and starters still to come.",
+   "availability_confirmed": false,
+   "price_live_verified": false,
+   "link_live_verified": false,
+   "link_mode": "app_only_no_exact_ids",
+   "legs": [
+    {
+     "checked_at": "2026-11-13T08:25:00-05:00",
+     "price_source": "https://agentbets.ai/odds/fanduel/nba/",
+     "price_quoted_at": "2026-11-13T08:00:00-05:00",
+     "price_state_verified": false,
+     "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261113",
+     "availability_checked_at": "2026-11-13T08:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf",
+     "team": "Portland Trail Blazers",
+     "market": "Moneyline",
+     "american_odds": -600,
+     "event": "Portland Trail Blazers @ Sacramento Kings",
+     "start_est": "2026-11-13 10:00 PM EST (AgentBets lists 10:10 PM EST)",
+     "venue": "Golden 1 Center",
+     "start_at": "2026-11-13T22:00:00-05:00",
+     "event_key": "espn-nba-401909303",
+     "evidence": "ESPN standings: Portland is 8-3 (5-1 on the road, +7.2). Sacramento is 1-10, 0-6 at home, has lost four straight and has a -12.7 differential. The Kings list Ben Simmons and Maxime Raynaud OUT and Precious Achiuwa QUESTIONABLE on the 8:15 AM report. Neither team played last night. ESPN lists POR -10.5.",
+     "remaining_checks": "Counterevidence and open items: Portland is without Ja Morant (hamstring), Shaedon Sharpe, Vit Krejci and Chris Youngblood (all OUT). Late tip (10:00 PM ET). -600 leaves a small payout. Live PA/MD price not checked.",
+     "lineup_status": "Official 8:15 AM ET NBA report: Blazers' Morant, Sharpe, Krejci, Youngblood OUT; Kings' Simmons, Raynaud OUT, Achiuwa QUESTIONABLE, two-way/G League Karaban, Mogbo, Pedulla OUT. Starters not confirmed.",
+     "weather_status": "Indoor arena; weather not a factor.",
+     "sources": [
+      "https://www.espn.com/nba/game/_/gameId/401909303",
+      "https://www.espn.com/nba/standings",
+      "https://www.espn.com/nba/injuries",
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf"
+     ]
+    },
+    {
+     "checked_at": "2026-11-13T08:25:00-05:00",
+     "price_source": "https://agentbets.ai/odds/fanduel/nba/",
+     "price_quoted_at": "2026-11-13T08:00:00-05:00",
+     "price_state_verified": false,
+     "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261113",
+     "availability_checked_at": "2026-11-13T08:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf",
+     "team": "Orlando Magic",
+     "market": "Moneyline",
+     "american_odds": -405,
+     "event": "Milwaukee Bucks @ Orlando Magic",
+     "start_est": "2026-11-13 7:00 PM EST (AgentBets lists 7:10 PM EST)",
+     "venue": "Kia Center",
+     "start_at": "2026-11-13T19:00:00-05:00",
+     "event_key": "espn-nba-401909297",
+     "evidence": "Milwaukee is 1-11, has lost eight straight, is 0-5 on the road and has the worst differential in the East (-14.5) per ESPN standings. Orlando has won two straight. Neither team played last night, and the Bucks list no one on the 8:15 AM report. ESPN lists ORL -9.5.",
+     "remaining_checks": "Counterevidence and open items: Orlando is 4-7 and 0-4 at home, and is without Paolo Banchero (high ankle sprain) and Jonathan Isaac, with Jalen Suggs, Jamal Cain and Tristan da Silva QUESTIONABLE. That is the main reason this card is ranked below Rockets + Spurs. Live PA/MD price not checked.",
+     "lineup_status": "Official 8:15 AM ET NBA report: Magic's Banchero, Isaac, Nelson, Penda OUT; Suggs, Cain, da Silva QUESTIONABLE. Bucks: no players listed. Starters not confirmed.",
+     "weather_status": "Indoor arena; weather not a factor.",
+     "sources": [
+      "https://www.espn.com/nba/game/_/gameId/401909297",
+      "https://www.espn.com/nba/standings",
+      "https://www.espn.com/nba/injuries",
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf"
+     ]
+    }
+   ],
+   "theoretical_decimal_return": 1.454732510288066
+  },
+  {
+   "id": "nov13-c",
+   "title": "Knicks + Hawks",
+   "status": "conditional",
+   "tier": "Two -275 road favorites against short-handed losing teams; lower win chance, about 1.86x payout",
+   "status_reason": "CONDITIONAL: priced from AgentBets' FanDuel snapshot of 8:00 AM EST (-275 / -275), 1.860x theoretical ($18.60 on $10 / $46.49 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Availability from the official 8:15 AM NBA injury report; later reports and starters still to come.",
+   "availability_confirmed": false,
+   "price_live_verified": false,
+   "link_live_verified": false,
+   "link_mode": "app_only_no_exact_ids",
+   "legs": [
+    {
+     "checked_at": "2026-11-13T08:25:00-05:00",
+     "price_source": "https://agentbets.ai/odds/fanduel/nba/",
+     "price_quoted_at": "2026-11-13T08:00:00-05:00",
+     "price_state_verified": false,
+     "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261113",
+     "availability_checked_at": "2026-11-13T08:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf",
+     "team": "New York Knicks",
+     "market": "Moneyline",
+     "american_odds": -275,
+     "event": "New York Knicks @ Indiana Pacers",
+     "start_est": "2026-11-13 7:00 PM EST (AgentBets lists 7:10 PM EST)",
+     "venue": "Gainbridge Fieldhouse",
+     "start_at": "2026-11-13T19:00:00-05:00",
+     "event_key": "espn-nba-401909296",
+     "evidence": "Indiana is without Tyrese Haliburton (hamstring), Ben Sheppard and Johnny Furphy (all OUT), with Aaron Nesmith QUESTIONABLE on the 8:15 AM report. The Knicks list no injuries, are 6-5 with a +6.8 differential (best of tonight's road favorites in this card) and beat Milwaukee 117-85 on Tuesday. Indiana is 4-8 and 1-4 at home. ESPN lists NY -8.5.",
+     "remaining_checks": "Counterevidence and open items: New York lost its last game and is only 2-2 on the road; Indiana won its last game. -275 is a moderate favorite. Live PA/MD price not checked.",
+     "lineup_status": "Official 8:15 AM ET NBA report: Pacers' Haliburton, Sheppard, Furphy OUT, Nesmith QUESTIONABLE, McConnell PROBABLE. Knicks: no players listed. Starters not confirmed.",
+     "weather_status": "Indoor arena; weather not a factor.",
+     "sources": [
+      "https://www.espn.com/nba/game/_/gameId/401909296",
+      "https://www.espn.com/nba/standings",
+      "https://www.espn.com/nba/injuries",
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf"
+     ]
+    },
+    {
+     "checked_at": "2026-11-13T08:25:00-05:00",
+     "price_source": "https://agentbets.ai/odds/fanduel/nba/",
+     "price_quoted_at": "2026-11-13T08:00:00-05:00",
+     "price_state_verified": false,
+     "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261113",
+     "availability_checked_at": "2026-11-13T08:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf",
+     "team": "Atlanta Hawks",
+     "market": "Moneyline",
+     "american_odds": -275,
+     "event": "Atlanta Hawks @ Chicago Bulls",
+     "start_est": "2026-11-13 8:00 PM EST (AgentBets lists 8:10 PM EST)",
+     "venue": "United Center",
+     "start_at": "2026-11-13T20:00:00-05:00",
+     "event_key": "espn-nba-401909299",
+     "evidence": "Chicago is 1-9, has lost eight straight and has the league's worst differential (-15.5) per ESPN standings, and lists Norman Powell and Dailyn Swain QUESTIONABLE with Tobe Awaka and Caleb Wilson OUT. Atlanta is 7-5 (+2.1) and 4-2 on the road. ESPN lists ATL -7.5.",
+     "remaining_checks": "Counterevidence and open items: Atlanta has lost its last game and is missing Mouhamed Gueye, Asa Newell, Keshon Gilbert and Henri Veesaar (OUT) with Kingston Flemings QUESTIONABLE. The Bulls nearly beat the Spurs on Wednesday (lost 124-119 after leading by 14). Live PA/MD price not checked.",
+     "lineup_status": "Official 8:15 AM ET NBA report: Hawks' Gueye, Newell, Gilbert, Veesaar OUT, Flemings QUESTIONABLE; Bulls' Awaka, C. Wilson OUT, Powell, Swain QUESTIONABLE. Starters not confirmed.",
+     "weather_status": "Indoor arena; weather not a factor.",
+     "sources": [
+      "https://www.espn.com/nba/game/_/gameId/401909299",
+      "https://www.espn.com/nba/standings",
+      "https://www.espn.com/nba/injuries",
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf"
+     ]
+    }
+   ],
+   "theoretical_decimal_return": 1.8595041322314052
+  }
+ ],
+ "app_link": "https://sportsbook.fanduel.com/navigation/nfl",
+ "app_link_mode": "ios_universal_link_user_triggered_not_guaranteed_not_prefilled",
+ "app_store_fallback": "https://apps.apple.com/us/app/fanduel-sportsbook-casino/id1413721906",
+ "app_state_selection": "PA/MD chooses cached betslip market IDs and website fallback; app location/account rules still apply",
+ "app_link_evidence": [
+  "https://sportsbook.fanduel.com/.well-known/apple-app-site-association",
+  "https://itunes.apple.com/lookup?id=1413721906&country=us",
+  "https://developer.apple.com/library/archive/documentation/General/Conceptual/AppSearch/WebContent.html"
+ ],
+ "app_links_updated_est": "2026-11-08T07:10:53-05:00",
+ "betslip_identifiers_source": "No cached FanDuel records exist for Nov 13 NBA events; no identifiers used.",
+ "betslip_identifiers_cached_at_est": null,
+ "betslip_live_verified": false,
+ "betslip_end_to_end_verified": false,
+ "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
+ "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
+ "schema_version": 2,
+ "last_checked_at": "2026-11-13T08:25:00-05:00",
+ "policies": {
+  "max_price_age_minutes": 120,
+  "max_review_age_minutes": 75
+ },
+ "research_scope": "8:25 AM EST morning review for Friday, Nov 13. Three conditional NBA cards staged from AgentBets' 8:00 AM EST FanDuel snapshot and the official 8:15 AM NBA injury report: Rockets + Spurs, Trail Blazers + Magic and Knicks + Hawks, six different games, no shared legs. Nov 12 staged cards both graded WON at the prior review.",
+ "research_holds": [
+  {
+   "title": "Nov 12 staged cards graded from official finals",
+   "reason": "Pistons + 76ers (posted 6:00 PM EST prices DET -480 / PHI -255, 1.682x) WON: 76ers 123, Raptors 112; Pistons 144, Wizards 140 (2OT). Timberwolves + Suns (posted 7:00 PM EST prices MIN -230 / PHX -225, 2.072x) WON: Timberwolves 133, Mavericks 94; Suns 101, Hornets 96 (ESPN finals). Nov 12 staged record: 2 wins, 0 losses. Running two-leg staged record Nov 9-12: 5 wins, 1 loss. These are staged research cards, not recorded wagers. Lesson: both cards included a leg that was close late (2OT in Washington; Suns up six with under three minutes left), so favorite prices reflect but do not remove risk.",
+   "sources": [
+    "https://www.espn.com/nba/scoreboard/_/date/20261112",
+    "https://www.espn.com/nba/game/_/gameId/401909976",
+    "https://www.espn.com/nba/game/_/gameId/401909977",
+    "https://www.espn.com/nba/game/_/gameId/401909978",
+    "https://www.espn.com/nba/game/_/gameId/401909979"
+   ]
+  },
+  {
+   "title": "Nov 11 staged card graded from official finals",
+   "reason": "Spurs + Lakers (posted 7:21 PM at SA -1350 / LAL -950, 1.187x) WON: Spurs 124, Bulls 119; Lakers 123, Bucks 112 (ESPN finals). Nov 11 staged record: 1 win, 0 losses; the withdrawn Celtics + Knicks card is not counted. Running two-leg staged record Nov 9-11: 3 wins, 1 loss. These are staged research cards, not recorded wagers. Lesson: the Spurs, without Harris and Vassell, trailed by 14 in the 3rd before winning by five, so even a -1350 road favorite missing two rotation guards is not a lock; heavy prices reflect but do not remove that risk. Withdrawing Celtics + Knicks after the George/Towns reports avoided a Knicks loss, one data point and not proof the rule improves results.",
+   "sources": [
+    "https://www.espn.com/nba/scoreboard/_/date/20261111",
+    "https://www.espn.com/nba/game/_/gameId/401909969",
+    "https://www.espn.com/nba/game/_/gameId/401909971"
+   ]
+  },
+  {
+   "title": "Nov 10 staged card graded from official finals",
+   "reason": "Knicks + Heat (posted 6:24 PM at NY -1200 / MIA -405, 1.351x) WON: Knicks 117, Bucks 85; Heat 115, Jazz 109 (ESPN finals). Nov 10 staged record: 1 win, 0 losses. Running two-leg staged record Nov 9-10: 2 wins, 1 loss. These are staged research cards, not recorded wagers. Lesson: the Heat leg was the closer one (Utah within six late) even with Utah missing its top four listed players, so road favorites near -400 still carry real risk.",
+   "sources": [
+    "https://www.espn.com/nba/scoreboard/_/date/20261110",
+    "https://www.espn.com/nba/game/_/gameId/401909960",
+    "https://www.espn.com/nba/game/_/gameId/401909963"
+   ]
+  },
+  {
+   "title": "Screened and not staged (Nov 13)",
+   "reason": "Cavaliers @ Heat (MIA -132; Evan Mobley OUT, Giannis Antetokounmpo PROBABLE, Klay Thompson QUESTIONABLE) is close to a coin flip. Grizzlies @ Pelicans (MEM -154; Memphis without Edey, Pippen Jr. and Post, Pelicans with Murphy III, Mathurin, Missi DOUBTFUL) has too many unresolved statuses. Thunder @ Clippers (OKC -240) left out for now: Oklahoma City is without Holmgren, Jalen Williams, Wallace and Jaylin Williams with Ajay Mitchell QUESTIONABLE, and has lost two straight; may be revisited at later reviews.",
+   "sources": [
+    "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-13_08_15AM.pdf",
+    "https://agentbets.ai/odds/fanduel/nba/"
+   ]
+  }
+ ],
+ "update_log": [
+  {
+   "at": "2026-11-13T08:25:00-05:00",
+   "text": "8 AM-hour review (Nov 13): new day board. Staged three CONDITIONAL NBA cards from AgentBets' 8:00 AM EST FanDuel snapshot and the 8:15 AM official injury report: Rockets + Spurs (HOU -1600 / SA -620, 1.234x), Trail Blazers + Magic (POR -600 / ORL -405, 1.455x), Knicks + Hawks (NY -275 / ATL -275, 1.860x). No shared games. Live PA/MD quotes and exact selection IDs not verified; app-only links."
+  },
+  {
+   "at": "2026-11-11T22:34:00-05:00",
+   "text": "10 PM-hour review (Nov 11): Spurs + Lakers GRADED WON from ESPN finals (Spurs 124-119, Lakers 123-112); posted SA -1350 / LAL -950, 1.187x. Nov 11 staged record 1-0; running Nov 9-11 staged record 3-1. Withdrawn Celtics + Knicks not graded (Knicks lost 115-107). All remaining Nov 11 games started; no new card."
+  },
+  {
+   "at": "2026-11-11T21:19:00-05:00",
+   "text": "9 PM-hour review (Nov 11): Spurs + Lakers in progress and held; posted SA -1350 / LAL -950, 1.187x. ESPN ~9:20 PM: Bulls 70, Spurs 56 (11:10 3rd), Spurs leg at serious risk; Lakers 61, Bucks 50 at halftime. Not graded. Withdrawn Celtics + Knicks: both teams trailing late in the 4th (Raptors 86-81, Cavaliers 99-97). Warriors-Rockets and Thunder-Blazers stay screened out; no new card."
+  },
+  {
+   "at": "2026-11-11T20:20:00-05:00",
+   "text": "8 PM-hour review (Nov 11): Spurs + Lakers has started (both tipped ~8:10 PM ET) and is held; posted version SA -1350 / LAL -950 (AgentBets 7:00 PM EST), 1.187x. ESPN ~8:20 PM: Spurs 19, Bulls 17 (6:51 1st); Lakers 14, Bucks 7 (7:13 1st). Not graded. Late games rechecked at AgentBets' 8:00 PM EST FanDuel snapshot (Magic -174, Rockets -250, Blazers -136 vs Thunder +116): none qualify, no new card. Celtics + Knicks stays WITHDRAWN."
+  },
+  {
+   "at": "2026-11-11T19:21:00-05:00",
+   "text": "7 PM-hour review (Nov 11): Spurs + Lakers stands, repriced from AgentBets' 7:00 PM EST FanDuel snapshot: SA -1350 (was -1100) / LAL -950 (was -1000), 1.187x. Official 7:15 PM ET report: Spurs' Devin Vassell moved QUESTIONABLE to OUT (joins Harris); Bulls' Norman Powell moved to OUT and Dailyn Swain OUT, Zach Collins AVAILABLE; Lakers/Bucks unchanged (Grimes OUT; Turner OUT rest, Herro Q). Celtics + Knicks stays WITHDRAWN."
+  },
+  {
+   "at": "2026-11-11T18:26:00-05:00",
+   "text": "6 PM-hour review (Nov 11): Spurs + Lakers stands, repriced from AgentBets' 6:00 PM EST FanDuel snapshot: SA -1100 (was -1200) / LAL -1000 (was -770), 1.200x. Official 6:15 PM ET report unchanged for all four teams (Harris OUT, Vassell Q; Awaka OUT, Collins/Powell/Wilson Q; Grimes OUT; Turner OUT rest, Herro Q). Celtics + Knicks stays WITHDRAWN."
+  },
+  {
+   "at": "2026-11-11T17:17:00-05:00",
+   "text": "5 PM-hour review (Nov 11): Spurs + Lakers stands, repriced from AgentBets' 5:00 PM EST FanDuel snapshot: SA -1200 / LAL -770 (was -850), 1.224x. Lakers price drift has no matching change on the official 5:00 PM report (unchanged for all four teams). Celtics + Knicks stays WITHDRAWN."
+  },
+  {
+   "at": "2026-11-11T16:20:00-05:00",
+   "text": "4 PM-hour review (Nov 11): Spurs + Lakers stands unchanged (SA -1200 / LAL -850, 1.211x; AgentBets has not posted a snapshot newer than 3:00 PM EST). Official 4:15 PM ET report unchanged for all four teams (Harris OUT, Vassell Q; Awaka OUT, Collins/Powell/Wilson Q; Grimes OUT; Turner OUT rest, Herro Q). Celtics + Knicks stays WITHDRAWN."
+  },
+  {
+   "at": "2026-11-11T15:23:00-05:00",
+   "text": "3 PM-hour review (Nov 11): Spurs + Lakers stands, repriced from AgentBets' 3:00 PM EST FanDuel snapshot: SA -1200 / LAL -850 (was -800), 1.211x. Official 3:15 PM report unchanged for all four teams. Celtics + Knicks stays WITHDRAWN (George OUT, Towns QUESTIONABLE; BOS -225 / NY -172 at 3:00 PM EST)."
+  },
+  {
+   "at": "2026-11-11T14:22:00-05:00",
+   "text": "2 PM-hour review (Nov 11): Spurs + Lakers stands, repriced from AgentBets' 2:00 PM EST FanDuel snapshot: SA -1200 / LAL -800 (was -900), 1.219x. Official 2:15 PM report: Milwaukee's first submission has Myles Turner OUT (rest) and Tyler Herro QUESTIONABLE; Lakers' Quentin Grimes moved from QUESTIONABLE to OUT. Celtics + Knicks stays WITHDRAWN (George OUT, Towns QUESTIONABLE unchanged; BOS now -215 / NY -188 at 2:00 PM EST)."
+  },
+  {
+   "at": "2026-11-11T13:18:00-05:00",
+   "text": "1 PM-hour review (Nov 11): Celtics + Knicks WITHDRAWN. Boston and New York submitted their first official reports at 1:00 PM ET: Paul George OUT (illness) for Boston, Karl-Anthony Towns QUESTIONABLE (left sore calf) and Josh Hart PROBABLE for New York. AgentBets' latest FanDuel snapshot (12:00 PM EST) still shows BOS -240 / NY -188, which predates those reports, so the card no longer has enough current support. Spurs + Lakers stands, repriced at 12:00 PM EST: SA -1200 / LAL -900 (1.204x, unchanged). Official 1:15 PM report: Spurs and Lakers unchanged, Chicago moved Tobe Awaka to OUT and added Caleb Wilson QUESTIONABLE; Milwaukee still not submitted."
+  },
+  {
+   "at": "2026-11-11T12:17:00-05:00",
+   "text": "12 PM-hour review (Nov 11): both conditional cards stand. Repriced from AgentBets' FanDuel snapshot of 11:00 AM EST (4:00 PM UTC): Lakers ML moved -850 to -900; Spurs -1200, Celtics -240, Knicks -188 unchanged. Spurs + Lakers now 1.204x, Celtics + Knicks 2.170x. Official 12:15 PM ET NBA report unchanged for all four games; Boston, New York and Milwaukee still not submitted. Unofficial projections (BALLDONTLIE via StatiqSports, as of 10:30 AM ET) still list Tatum and George as Boston starters."
+  },
+  {
+   "at": "2026-11-11T12:17:00-05:00",
+   "text": "11:17 AM review: both conditional cards stand. AgentBets FanDuel snapshot advanced to 10:00 AM EST: LAL -900 to -850 (Spurs + Lakers 1.204x to 1.211x); BOS -235 to -240, NY -196 to -188 (Celtics + Knicks 2.153x to 2.170x). Official 11:15 AM ET report: only Nets/Pelicans changes; Celtics, Knicks, Bucks still not submitted. Unofficial projection lists Tatum and George starting for Boston."
+  },
+  {
+   "at": "2026-11-11T10:18:00-05:00",
+   "text": "10:18 AM review: both conditional cards stand, prices unchanged (AgentBets' latest FanDuel snapshot is still 9:00 AM EST, so cards hold at the 11:00 AM price-age deadline unless refreshed). Official NBA 10:15 AM ET report unchanged from 9:15 AM; Celtics, Knicks and Bucks not yet submitted. Added counterevidence: Boston is on the second night of a back-to-back (fourth game in six nights) and rested George/Tatum around its last back-to-back, so a rest scratch is possible. No exact FanDuel IDs, links stay app-only."
+  },
+  {
+   "at": "2026-11-11T09:22:00-05:00",
+   "text": "9:22 AM review: both conditional cards stand. AgentBets FanDuel 9:00 AM EST snapshot: LAL -700 to -900 (Spurs + Lakers 1.238x to 1.204x); BOS -295 to -235 and NY -180 to -196 (Celtics + Knicks 2.083x to 2.153x). Boston's drift has no matching injury news (only Devin Carter OUT, illness, per SI/AP), noted as counterevidence. Official NBA 9:15 AM ET report unchanged from 8:00 AM; Celtics, Knicks and Bucks not yet submitted. No exact FanDuel IDs, links stay app-only."
+  },
+  {
+   "at": "2026-11-11T08:19:00-05:00",
+   "text": "8:19 AM review: Nov 10 Knicks + Heat graded WON (117-85, 115-109). New conditional cards: Spurs + Lakers (SA -1200 / LAL -700, 1.238x) and Celtics + Knicks (BOS -295 / NY -180, 2.083x) from AgentBets' 7:00 AM EST FanDuel snapshot and the 8:00 AM ET official NBA report. No exact FanDuel IDs, links stay app-only."
+  },
+  {
+   "at": "2026-11-10T17:17:00-05:00",
+   "text": "5:17 PM review: Knicks + Heat stands as conditional. AgentBets FanDuel 5:00 PM EST snapshot: NY -1200 (unchanged), MIA -430 to -405 (return 1.335x to 1.351x). Official NBA 5:15 PM ET report unchanged for these four teams. No exact FanDuel IDs, links stay app-only."
+  },
+  {
+   "at": "2026-11-10T10:18:00-05:00",
+   "text": "10:18 AM review: Knicks + Heat stands as conditional with no changes. AgentBets FanDuel page still on its 9:00 AM EST snapshot (NY -1350 / MIA -370, 1.364x). Official NBA 10:15 AM ET report unchanged (Herro, Hart, Markkanen questionable; Giannis probable; George, Jackson Jr., Nurkic out). Magic -230 at Kings and the near-pick'em games still screened out. No exact FanDuel IDs, links stay app-only."
+  },
+  {
+   "at": "2026-11-10T09:23:00-05:00",
+   "text": "9:23 AM review: Knicks + Heat stands as conditional. AgentBets FanDuel 9:00 AM EST snapshot: NY -1500 to -1350, MIA -405 to -370 (return 1.330x to 1.364x). Official NBA 9:15 AM ET report unchanged for the four teams (Herro, Hart, Markkanen still questionable; Giannis probable). Magic -230 at Kings and the near-pick'em games still screened out. No exact FanDuel IDs, links stay app-only."
+  },
+  {
+   "at": "2026-11-09T19:24:00-05:00",
+   "text": "7:24 PM review: Cavaliers + Pistons moved to begun / in progress (7:10 PM EST tips), posted 6:26 PM version preserved, pending and not graded. Spurs + Warriors stands as conditional: official NBA 7:15 PM ET report unchanged for those four teams; AgentBets FanDuel 7:00 PM EST snapshot SA -375 / GS -590 unchanged (1.481x). No new card qualified. No exact FanDuel IDs, links stay app-only."
+  },
+  {
+   "at": "2026-11-09T18:26:00-05:00",
+   "text": "6:26 PM review: both conditional cards stand. Official NBA 6:15 PM ET report: Wizards' Anthony Davis questionable to AVAILABLE and Bilal Coulibaly questionable to OUT; Spurs, Suns, Pelicans, Warriors, Cavaliers, Hornets and Pistons unchanged. AgentBets FanDuel 6:00 PM EST snapshot: CLE -340 to -350 (Cavaliers + Pistons 1.554x); SA -375 / GS -590 unchanged (Spurs + Warriors 1.481x). Corrected Murray-Boyles team attribution (Toronto). No exact FanDuel IDs, links stay app-only."
+  },
+  {
+   "at": "2026-11-09T17:17:00-05:00",
+   "text": "5:17 PM review: both conditional cards stand. Official NBA 5:15 PM ET report: Pelicans added Zion Williamson OUT (rest); Hornets' Moussa Diabate moved doubtful to OUT; Spurs, Suns, Cavaliers, Pistons and Wizards unchanged. AgentBets FanDuel 5:00 PM EST snapshot: GS -450 to -590 and SA -370 to -375 (Spurs + Warriors now 1.481x); CLE -340 / DET -480 unchanged (Cavaliers + Pistons 1.564x). No exact FanDuel IDs, links stay app-only."
+  },
+  {
+   "at": "2026-11-09T16:19:00-05:00",
+   "text": "4:19 PM review: both conditional cards stand. Official NBA 4:15 PM ET report: Pelicans finally submitted with Trey Murphy III, Yves Missi and Trendon Watford OUT; other three games unchanged. AgentBets FanDuel 4:00 PM EST snapshot: GS -370 to -450 (Spurs + Warriors now 1.553x), CLE -360 to -340 and DET -450 to -480 (Cavaliers + Pistons 1.564x). No exact FanDuel IDs, links stay app-only."
+  },
+  {
+   "at": "2026-11-09T15:22:00-05:00",
+   "text": "3:19 PM review: both conditional cards stand. AgentBets FanDuel snapshot advanced to 3:00 PM EST: Detroit eased -500 to -450 (Cavaliers + Pistons now 1.562x); SA -370 / GS -370 / CLE -360 unchanged (Spurs + Warriors 1.614x). Official NBA 3:15 PM ET injury report unchanged from 2:15 PM for all four games; Pelicans still not submitted. No exact FanDuel IDs, links stay app-only."
+  },
+  {
+   "at": "2026-11-09T14:25:00-05:00",
+   "text": "2:25 PM review: both conditional cards stand. 2:00 PM EST AgentBets FanDuel snapshot: SA -400 to -370, GS -375 to -370 (1.614x); CLE -350 to -360, DET -500 unchanged (1.533x). Official NBA 2:15 PM ET report: Spurs' Devin Vassell moved to OUT; Pistons submitted with Duren and Isaiah Joe OUT; Pelicans still not submitted. Links stay app-only. Note: the 1:19 PM update's GitHub Pages deploy stalled, so the live page had still shown the 12:21 PM version."
+  },
+  {
+   "at": "2026-11-09T13:19:20-05:00",
+   "text": "1:25 PM review: both conditional cards stand. AgentBets FanDuel snapshot advanced to 1:00 PM EST: SA -375 to -400, GS -375 unchanged (1.583x); CLE -340 to -350, DET -490 to -500 (1.543x). Official NBA 1:00 PM ET report: no status change for the picked teams; Hornets' Moussa Diabate downgraded to doubtful; Pistons and Pelicans still not submitted. Links stay app-only."
+  },
+  {
+   "at": "2026-11-09T12:21:49-05:00",
+   "text": "12:25 PM review: both conditional cards stand. AgentBets FanDuel snapshot advanced to 12:00 PM EST: SA -350 to -375, GS -375 unchanged (1.604x); CLE -360 to -340, DET -490 unchanged (1.558x). Official NBA 12:15 PM ET report shows no status change for these teams; Pistons and Pelicans still not submitted. Links stay app-only."
+  },
+  {
+   "at": "2026-11-09T11:24:05-05:00",
+   "text": "11:24 AM review: both conditional cards stand. AgentBets FanDuel snapshot advanced to 11:00 AM EST: SA -375 to -350, GS -375 unchanged (1.629x); CLE -295 back to -360, DET -490 unchanged (1.539x). Official NBA 11:15 AM ET report shows no status change for these teams; Pistons and Pelicans still not submitted. Links stay app-only."
+  },
+  {
+   "at": "2026-11-09T10:24:36-05:00",
+   "text": "10:24 AM review: both conditional cards stand. AgentBets FanDuel snapshot advanced to 10:00 AM EST: SA -370 to -375, GS -390 to -375 (1.604x), CLE -340 to -295, DET -500 to -490 (1.612x). Official NBA 10:15 AM ET report shows no status change for these teams; Pistons and Pelicans still not submitted. Cleveland's drift is unexplained, so Cavaliers + Pistons stays the weaker card. Links stay app-only."
+  },
+  {
+   "at": "2026-11-09T09:24:02-05:00",
+   "text": "9:24 AM review: both conditional cards stand. AgentBets FanDuel snapshot advanced to 9:00 AM EST with all four prices unchanged (SA -370 / GS -390, CLE -340 / DET -500). Official NBA 9:15 AM ET injury report confirms Sunday's statuses (Vassell, Goodwin, Allen, A. Davis questionable; Harris and Charlotte's four rotation players out); Pistons and Pelicans had not yet submitted. No exact FanDuel IDs, links stay app-only."
+  },
+  {
+   "at": "2026-11-09T08:18:02-05:00",
+   "text": "New day. Graded Nov 8: Lions + Texans, Rams + Broncos and 49ers + Bears all won per ESPN finals. Staged two conditional NBA cards from the 8:00 AM EST AgentBets FanDuel snapshot: Spurs + Warriors (SA -370 / GS -390, 1.596x) and Cavaliers + Pistons (CLE -340 / DET -500, 1.553x). No exact FanDuel IDs for tonight, so links are app-only. Rockets/Nuggets, MNF, NHL and college games screened out."
+  },
+  {
+   "at": "2026-11-09T20:18:00-05:00",
+   "text": "8:18 PM review: Spurs + Warriors stands conditional with the 8:00 PM EST snapshot (SA -390, GS -590, 1.469x); official 8:15 PM report moved Suns' Jordan Goodwin to OUT. Cavaliers + Pistons in progress, Cleveland trailing 69-53 at half."
+  },
+  {
+   "at": "2026-11-09T21:20:00-05:00",
+   "text": "9:20 PM review: Cavaliers + Pistons LOST (Charlotte 124-112 over Cleveland, final). Spurs + Warriors moved to begun/pending after the 9:00 PM tip. No bettable cards remain tonight; only Pelicans at Warriors is still unstarted."
+  },
+  {
+   "at": "2026-11-10T08:25:00-05:00",
+   "text": "8:25 AM review (Nov 10): Spurs + Warriors graded WON (SA 122-96, GS 138-87). New conditional card Knicks + Heat (NY -1500 / MIA -405, 1.330x) from the 7:00 AM EST FanDuel snapshot and 8:00 AM official injury report. Magic + other games screened out."
+  },
+  {
+   "at": "2026-11-10T11:16:00-05:00",
+   "text": "11:16 AM review (Nov 10): Knicks + Heat stands conditional. 11:00 AM EST FanDuel snapshot moved Heat from -370 to -335 (Knicks unchanged at -1350), so the theoretical return rose to 1.395x. 11:15 AM official report: Hart's reason changed to illness, still questionable."
+  },
+  {
+   "at": "2026-11-10T12:19:00-05:00",
+   "text": "12:19 PM review (Nov 10): Knicks + Heat stands conditional at NY -1350 / MIA -335 (1.395x), unchanged in the 12:00 PM EST FanDuel snapshot. 12:15 PM official report newly lists Bucks' Kel'el Ware questionable (left ankle sprain); Herro, Hart and Markkanen still questionable."
+  },
+  {
+   "at": "2026-11-10T13:19:00-05:00",
+   "text": "1:19 PM review (Nov 10): Knicks + Heat stands conditional at NY -1350 / MIA -335 (1.395x); AgentBets has not posted a newer FanDuel snapshot than 12:00 PM EST. 1:15 PM official report unchanged for the four teams involved."
+  },
+  {
+   "at": "2026-11-10T14:25:00-05:00",
+   "text": "2:25 PM review (Nov 10): Knicks + Heat stands conditional, now NY -1200 / MIA -420 (1.341x, was 1.395x) from AgentBets' 2:00 PM EST snapshot. 2:15 PM official report: Markkanen OUT for Utah (Heat leg strengthened), Hart DOUBTFUL for New York."
+  },
+  {
+   "at": "2026-11-10T15:17:00-05:00",
+   "text": "3:17 PM review (Nov 10): Knicks + Heat stands conditional at NY -1200 / MIA -420 (1.341x); AgentBets has not posted a newer FanDuel snapshot than 2:00 PM EST. 3:15 PM official report unchanged for the four teams involved."
+  },
+  {
+   "at": "2026-11-10T16:25:00-05:00",
+   "text": "4:25 PM review (Nov 10): Knicks + Heat stands conditional at NY -1200 / MIA -430 (1.335x, was 1.341x) from AgentBets' 4:00 PM EST snapshot; card had been held between its 4:00 PM price-age deadline and this refresh. 4:15 PM official report unchanged for the four teams involved."
+  },
+  {
+   "at": "2026-11-10T18:24:00-05:00",
+   "text": "6:24 PM review (Nov 10): Knicks + Heat stands conditional at NY -1200 / MIA -405 (1.351x), unchanged in AgentBets' 6:00 PM EST snapshot. 6:15 PM official report: Bucks' Herro OUT and Ware AVAILABLE; Knicks' Hart OUT."
+  },
+  {
+   "at": "2026-11-10T20:22:00-05:00",
+   "text": "8 PM-hour review (Nov 10): Knicks + Heat has begun (Knicks led Bucks 48-28 in the 2nd quarter, ESPN); card held, result pending. 8:15 PM official report: Giannis AVAILABLE for Miami, Markkanen OUT for Utah. AgentBets 7:00 PM EST snapshot MIA -350 (posted -405 kept). No new card added."
+  },
+  {
+   "at": "2026-11-10T21:24:00-05:00",
+   "text": "9 PM-hour review (Nov 10): Knicks + Heat still in progress and held. ESPN ~9:24 PM: Knicks 91-74 over Bucks, 10:56 left in the 4th; Heat 18-12 at Jazz, 6:48 left in the 1st. Not graded yet. No new card."
+  },
+  {
+   "at": "2026-11-10T22:21:00-05:00",
+   "text": "10 PM-hour review (Nov 10): Knicks leg WON (ESPN final: Knicks 117, Bucks 85). Heat leg in progress, Miami led Utah 64-54 at halftime (ESPN ~10:21 PM). Card still held and not graded. No new card."
+  },
+  {
+   "at": "2026-11-10T23:20:00-05:00",
+   "text": "11 PM-hour review (Nov 10): Knicks leg WON (ESPN final: Knicks 117, Bucks 85). Heat leg in progress, Miami led Utah 101-93 with 6:42 left in the 4th (ESPN ~11:20 PM). Card still held and not graded; 8 AM Nov 11 review will grade from the official final. No new card."
+  },
+  {
+   "at": "2026-11-12T08:20:00-05:00",
+   "text": "8:20 AM review (Nov 12): Added Pistons + 76ers (DET -460 / PHI -430, 1.501x) and Timberwolves + Suns (MIN -225 / PHX -250, 2.022x), both CONDITIONAL, from AgentBets' 8:00 AM EST snapshot and the 8:15 AM official report. Embiid and LeBron James are QUESTIONABLE; Wizards and Raptors reports not yet submitted."
+  },
+  {
+   "at": "2026-11-12T09:23:00-05:00",
+   "text": "9:23 AM review (Nov 12): both conditional cards stand. Repriced from AgentBets' 9:00 AM EST FanDuel snapshot: PHI -430 to -375 and PHX -250 to -240 (DET -460 to -450, MIN -225 unchanged). Pistons + 76ers now 1.548x, Timberwolves + Suns 2.046x. Official 9:15 AM ET NBA report unchanged for all four games: Embiid and LeBron James still QUESTIONABLE; Wizards and Raptors still not submitted."
+  },
+  {
+   "at": "2026-11-12T10:22:00-05:00",
+   "text": "10:22 AM review (Nov 12): both conditional cards stand, prices unchanged (AgentBets' latest FanDuel snapshot is still 9:00 AM EST: DET -450 / PHI -375, MIN -225 / PHX -240; 1.548x and 2.046x). Official NBA 10:15 AM ET report unchanged from 9:15 AM for all four games: Embiid and LeBron James still QUESTIONABLE; Wizards and Raptors still not submitted. Cards hold at the 11:00 AM price-age deadline unless a fresh quote arrives."
+  },
+  {
+   "at": "2026-11-12T11:16:00-05:00",
+   "text": "11:16 AM review (Nov 12): both conditional cards stand. Repriced from AgentBets' 10:00 AM EST FanDuel snapshot (3:00 PM UTC): PHI -375 to -335, MIN -225 to -220, PHX -240 to -245 (DET -450 unchanged). Pistons + 76ers now 1.587x, Timberwolves + Suns 2.048x. Official NBA 11:15 AM ET report unchanged for all four games: Embiid and LeBron James still QUESTIONABLE; Wizards and Raptors still not submitted. The steady 76ers drift reflects Embiid/James uncertainty; that leg is withdrawn if both are ruled out."
+  },
+  {
+   "at": "2026-11-12T12:25:00-05:00",
+   "text": "12:25 PM review (Nov 12): both conditional cards stand. Repriced from AgentBets' 12:00 PM EST FanDuel snapshot (5:00 PM UTC; the 11:00 AM snapshot was not captured between reviews): DET -450 to -500, PHI -335 to -330, MIN -220 to -230 (PHX -245 unchanged). Pistons + 76ers now 1.564x, Timberwolves + Suns 2.020x. Official NBA 12:15 PM ET report unchanged for all four games: Embiid and LeBron James still QUESTIONABLE; Wizards and Raptors still not submitted. The 76ers leg is withdrawn if both Embiid and James are ruled out."
+  },
+  {
+   "at": "2026-11-12T13:25:00-05:00",
+   "text": "1:25 PM review (Nov 12): both conditional cards stand; prices unchanged (AgentBets' latest FanDuel snapshot is still 12:00 PM EST: DET -500 / PHI -330, MIN -230 / PHX -245; 1.564x and 2.020x). Official NBA 1:15 PM ET report: LeBron James downgraded from QUESTIONABLE to OUT; Embiid still QUESTIONABLE. Raptors submitted their report: Scottie Barnes, Kawhi Leonard, Nate Bittle, Trayce Jackson-Davis and Kevin McCullar Jr. OUT, which offsets part of the James loss. Wizards still not submitted. MIN/PHX game reports unchanged. The 76ers leg is withdrawn if Embiid is also ruled out."
+  },
+  {
+   "at": "2026-11-12T14:19:00-05:00",
+   "text": "2:19 PM review (Nov 12): both conditional cards stand. Repriced from AgentBets' 1:00 PM EST FanDuel snapshot (6:00 PM UTC): PHX -245 to -240; DET -500, PHI -330, MIN -230 unchanged. Pistons + 76ers 1.564x, Timberwolves + Suns 2.033x. Official NBA 2:15 PM ET report: Wizards submitted with only previously known absences (Beekman, Champagnie, Vukcevic, Watkins OUT); Embiid still QUESTIONABLE, LeBron James OUT; Hornets' Grant Williams and Diabate upgraded to AVAILABLE. The 76ers leg is withdrawn if Embiid is ruled out."
+  },
+  {
+   "at": "2026-11-12T15:19:00-05:00",
+   "text": "3:19 PM review (Nov 12): both conditional cards stand, repriced from AgentBets' 2:00 PM EST FanDuel snapshot (7:00 PM UTC): DET -500 to -460, PHI -330 to -270, MIN -230 to -225, PHX -240 to -225. Pistons + 76ers 1.668x, Timberwolves + Suns 2.086x. Official NBA 3:15 PM ET report unchanged for all four games: Embiid still QUESTIONABLE (game-time call), LeBron James OUT. The 76ers price drift is flagged as added uncertainty; the leg is withdrawn if Embiid is ruled out."
+  },
+  {
+   "at": "2026-11-12T16:23:00-05:00",
+   "text": "4:23 PM review (Nov 12): both conditional cards stand, repriced from AgentBets' 3:00 PM EST FanDuel snapshot (8:00 PM UTC): PHI -270 to -280; DET -460, MIN -225, PHX -225 unchanged. Pistons + 76ers 1.652x, Timberwolves + Suns 2.086x. Official NBA 4:15 PM ET report unchanged for all four games: Embiid still QUESTIONABLE (game-time call; 76ers leg withdrawn if he is ruled out), LeBron James OUT."
+  },
+  {
+   "at": "2026-11-12T17:17:00-05:00",
+   "text": "5:17 PM review (Nov 12): both conditional cards stand, repriced from AgentBets' 4:00 PM EST FanDuel snapshot (9:00 PM UTC): PHX -225 to -230; DET -460, PHI -280, MIN -225 unchanged. Pistons + 76ers 1.652x, Timberwolves + Suns 2.072x. Official NBA 5:00 PM ET report unchanged for all four games: Embiid still QUESTIONABLE (game-time call; 76ers leg withdrawn if he is ruled out), LeBron James OUT."
+  },
+  {
+   "at": "2026-11-12T18:22:00-05:00",
+   "text": "6:22 PM review (Nov 12): both conditional cards stand, repriced from AgentBets' 6:00 PM EST FanDuel snapshot (11:00 PM UTC): DET -460 to -480, PHI -280 to -255, MIN -225 to -215, PHX -230 to -225. Pistons + 76ers 1.682x, Timberwolves + Suns 2.116x. Official NBA 6:15 PM ET report: no material change for tonight's four games (two-way roster entries only); Embiid still QUESTIONABLE with no official ruling found by 6:22 PM, LeBron James OUT. Pistons + 76ers is held at the 7:00 PM tip."
+  },
+  {
+   "at": "2026-11-12T19:25:00-05:00",
+   "text": "7:25 PM review (Nov 12): Pistons + 76ers tipped at 7:00 PM and is now an in-progress card at its posted 1.682x (6:00 PM prices); the official 7:15 PM report lists Embiid AVAILABLE. Timberwolves + Suns stands, repriced from AgentBets' 7:00 PM EST FanDuel snapshot: MIN -215 to -230, PHX -225 unchanged, 2.072x. No injury change for either remaining game. No new card added: only two games remain tonight."
+  },
+  {
+   "at": "2026-11-12T20:16:00-05:00",
+   "text": "8:16 PM review (Nov 12): Timberwolves + Suns started when Mavericks @ Timberwolves tipped at 8:00 PM, so both of tonight's cards are now in progress at their posted prices (Pistons + 76ers 1.682x; Timberwolves + Suns 2.072x). Halftime: Pistons 64-61, 76ers tied 60-60. No bettable pregame card remains tonight; nothing was added."
+  },
+  {
+   "at": "2026-11-12T21:56:00-05:00",
+   "text": "9:56 PM review (Nov 12): 76ers leg WON (final 123-112 over the Raptors). Pistons @ Wizards is tied 132-132 after one overtime, heading to a second overtime, so Pistons + 76ers is still pending. Timberwolves lead the Mavericks 108-72 in the 4th; Suns lead the Hornets 48-37 in the 2nd. No pregame card remains tonight; nothing was added."
+  },
+  {
+   "at": "2026-11-12T22:20:00-05:00",
+   "text": "10:20 PM review (Nov 12): Pistons + 76ers GRADED WON: Pistons won 144-140 in double overtime at Washington; 76ers had already won 123-112. Timberwolves leg won 133-94; Suns lead the Hornets 55-50 at halftime, so Timberwolves + Suns is still pending. No pregame card remains tonight; nothing was added."
+  },
+  {
+   "at": "2026-11-12T23:31:00-05:00",
+   "text": "11:31 PM review (Nov 12): Timberwolves + Suns GRADED WON: Suns beat the Hornets 101-96 (final); Timberwolves had already won 133-94. Both Nov 12 cards won (2-0); running staged two-leg record Nov 9-12 is 5-1. No pregame card remains tonight; Friday's board will be researched at the morning review."
+  }
+ ]
+}
