@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "published_est": "2026-11-13T21:17:00-05:00",
+ "published_est": "2026-11-13T22:25:00-05:00",
  "odds_reported_at_est": "2026-11-13T19:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
@@ -14,7 +14,7 @@
    "title": "Rockets + Spurs",
    "status": "conditional",
    "tier": "Highest price-implied win chance on the Friday NBA board; small payout because both legs are heavy favorites",
-   "status_reason": "STARTED at 8:30 PM ET (Jazz @ Rockets tipped; ESPN showed UTA 34-32 with 9:41 left in the 2nd at 9:17 PM, Rockets leg at risk); no longer a pregame card. Warriors @ Spurs (9:30 PM ET) still to tip. Posted version kept: AgentBets' FanDuel snapshot of 7:00 PM EST, HOU -1100 / SA -750, 1.236x theoretical ($12.36 on $10 / $30.91 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Pending; grade from official finals.",
+   "status_reason": "STARTED at 8:30 PM ET (Jazz @ Rockets) and 9:30 PM ET (Warriors @ Spurs); no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 7:00 PM EST, HOU -1100 / SA -750, 1.236x theoretical ($12.36 on $10 / $30.91 on $25), not a PA/MD-verified live quote or an accepted parlay quote. At 10:25 PM ESPN showed HOU 88-87 UTA with 0:39.8 left in the 3rd (Rockets leg at real risk) and SA 40-16 GS with 9:19 left in the 2nd. Pending; grade from official finals.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -84,7 +84,7 @@
    "title": "Trail Blazers + Magic",
    "status": "conditional",
    "tier": "Second-highest price-implied win chance; Magic leg still carries Banchero absence and a 0-4 home record (Suggs now available)",
-   "status_reason": "STARTED at 7:00 PM ET (Bucks @ Magic; ESPN showed ORL 96-84 with 4:12 left in the 4th at 9:17 PM). Blazers @ Kings (10:00 PM ET) is still to play. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, POR -460 / ORL -420, 1.507x theoretical ($15.07 on $10 / $37.68 on $25), not a PA/MD-verified live quote. Pending; grade from official finals.",
+   "status_reason": "STARTED at 7:00 PM ET (Bucks @ Magic) and 10:00 PM ET (Blazers @ Kings); no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, POR -460 / ORL -420, 1.507x theoretical ($15.07 on $10 / $37.68 on $25), not a PA/MD-verified live quote. Magic leg WON (ESPN final: Magic 107, Bucks 99). Blazers leg in progress: SAC 18-17 POR with 4:17 left in the 1st at 10:25 PM. Pending; grade from official finals.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -152,7 +152,7 @@
    "title": "Knicks + Hawks",
    "status": "conditional",
    "tier": "Knicks -335 and Hawks -290 road favorites against short-handed teams; lowest win chance of the three, about 1.75x payout",
-   "status_reason": "STARTED at 7:00 PM ET (Knicks @ Pacers; ESPN showed IND 99-89 with 7:42 left in the 4th at 9:17 PM, Knicks leg in serious danger). Hawks @ Bulls (8:00 PM ET) trailed CHI 60-53 at halftime. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, NY -335 / ATL -290, 1.746x theoretical ($17.46 on $10 / $43.65 on $25), not a PA/MD-verified live quote. Pending; grade from official finals.",
+   "status_reason": "STARTED at 7:00 PM ET; no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, NY -335 / ATL -290, 1.746x theoretical ($17.46 on $10 / $43.65 on $25), not a PA/MD-verified live quote. GRADED LOST from official final (ESPN): Pacers 106, Knicks 104, so the card lost regardless of the Hawks result (Hawks @ Bulls tied 110-110 with 3.6 seconds left at 10:25 PM). Lesson: the Knicks were the thinnest leg on the board as a -335 road favorite and trailed most of the second half against a short-handed Pacers team; road favorites remain the weakest leg type in this log (Nov 9 Cavaliers loss was also a road favorite).",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -233,12 +233,12 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-13T21:17:00-05:00",
+ "last_checked_at": "2026-11-13T22:25:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
  },
- "research_scope": "9:17 PM EST review for Friday, Nov 13. No pregame card remains: Rockets + Spurs STARTED when Jazz @ Rockets tipped at 8:30 PM ET (posted 7:00 PM EST snapshot version kept, HOU -1100 / SA -750, 1.236x); Blazers + Magic and Knicks + Hawks started at 7:00 PM. Remaining untipped games tonight (Warriors @ Spurs 9:30, Blazers @ Kings 10:00, Thunder @ Clippers 10:30) are either already legs of started cards or were screened out, so no new card was added (re-pairing them would only repeat existing legs). Scores from ESPN at 9:17 PM. Live PA/MD quotes and exact selection IDs not verified.",
+ "research_scope": "10:25 PM EST review for Friday, Nov 13. All three cards have started; no pregame card remains and none added (only Thunder @ Clippers, 10:30 PM, is untipped and was screened out this morning). Knicks + Hawks GRADED LOST (Pacers 106-104 Knicks, ESPN final). Blazers + Magic: Magic leg won 107-99; Blazers @ Kings in progress. Rockets + Spurs in progress (Rockets lead Jazz 88-87 late 3rd; Spurs lead Warriors 40-16 in 2nd). Scores from ESPN at 10:25 PM. Live PA/MD quotes and exact selection IDs not verified.",
  "research_holds": [
   {
    "title": "Nov 12 staged cards graded from official finals",
@@ -570,6 +570,10 @@
   {
    "at": "2026-11-13T21:17:00-05:00",
    "text": "9 PM-hour review: Rockets + Spurs STARTED at 8:30 PM (Rockets tipped; Jazz led 34-32 in the 2nd at 9:17 PM); posted 7:00 PM EST version kept, pending. No pregame card remains and none added (remaining untipped games are already legs or were screened out). In progress at 9:17 PM: Magic lead Bucks 96-84 (4:12 4th); Knicks trail Pacers 99-89 (7:42 4th); Hawks trail Bulls 60-53 at half; Spurs tip 9:30, Blazers 10:00. No grading yet."
+  },
+  {
+   "at": "2026-11-13T22:25:00-05:00",
+   "text": "10 PM-hour review: Knicks + Hawks GRADED LOST (Pacers 106, Knicks 104, ESPN final). Magic leg of Blazers + Magic WON (Magic 107, Bucks 99); Blazers @ Kings in progress (SAC 18-17, 1st). Rockets + Spurs in progress: HOU 88-87 UTA late 3rd, SA 40-16 GS 2nd. No pregame card; none added. Nov 13 so far: 0-1, 2 pending; running Nov 9-13 staged record 5-2."
   }
  ]
 }
