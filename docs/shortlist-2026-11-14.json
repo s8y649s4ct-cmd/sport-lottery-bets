@@ -1,0 +1,163 @@
+{
+ "date": "2026-11-14",
+ "published_est": "2026-11-14T08:20:00-05:00",
+ "odds_reported_at_est": "2026-11-14T08:00:00-05:00",
+ "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
+ "pa_md_prices_verified": false,
+ "fully_cleared": false,
+ "shared_legs": false,
+ "link_pa": "https://pa.sportsbook.fanduel.com/",
+ "link_md": "https://md.sportsbook.fanduel.com/",
+ "cards": [
+  {
+   "id": "nov14-a",
+   "title": "Nuggets + Timberwolves",
+   "status": "conditional",
+   "tier": "Both favorites face tired, losing opponents on the second night of a back-to-back; small payout because both legs are heavy favorites",
+   "status_reason": "CONDITIONAL: Pelicans and Bulls injury reports were not yet submitted at 8:15 AM ET and starters are unconfirmed. Price is AgentBets' FanDuel snapshot of 8:00 AM EST (DEN -590 / MIN -1000), 1.286x theoretical ($12.86 on $10 / $32.16 on $25), not a PA/MD-verified live quote or an accepted parlay quote. No exact FanDuel selection IDs, so app-only link.",
+   "availability_confirmed": false,
+   "price_live_verified": false,
+   "link_live_verified": false,
+   "link_mode": "app_only_no_exact_ids",
+   "legs": [
+    {
+     "checked_at": "2026-11-14T08:20:00-05:00",
+     "price_source": "https://agentbets.ai/odds/fanduel/nba/",
+     "price_quoted_at": "2026-11-14T08:00:00-05:00",
+     "price_state_verified": false,
+     "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261114",
+     "availability_checked_at": "2026-11-14T08:20:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_08_15AM.pdf",
+     "market": "Moneyline",
+     "weather_status": "Indoor arena; weather not a factor.",
+     "team": "Denver Nuggets",
+     "american_odds": -590,
+     "event": "Denver Nuggets @ New Orleans Pelicans",
+     "start_est": "2026-11-14 7:00 PM EST (AgentBets lists 7:10 PM EST)",
+     "venue": "Smoothie King Center",
+     "start_at": "2026-11-14T19:00:00-05:00",
+     "event_key": "espn-nba-401909980",
+     "evidence": "New Orleans is on the second night of a back-to-back after losing 142-111 at home to Memphis last night. That was its fifth straight loss, following a 145-111 home loss to Brooklyn. ESPN standings: Pelicans 4-9, -9.1 differential. Denver is 6-4 (3-2 on the road), has not played since winning 123-118 at Memphis on Wednesday with Jokic (27 pts) and Murray (30) playing, and its only non-two-way absence on the official 8:15 AM report is Julian Strawther (knee).",
+     "remaining_checks": "Counterevidence and open items: the Pelicans' injury report was NOT YET SUBMITTED at 8:15 AM. Denver's differential is only +1.2 and it lost 110-100 at Houston on Tuesday. Jokic/Murray participation is not officially confirmed beyond being absent from the report. Live PA/MD price not checked.",
+     "lineup_status": "Official 8:15 AM ET NBA report: Nuggets' Strawther OUT (knee), plus G League/two-way Holmes II, Nembhard, Whitmore OUT. Pelicans NOT YET SUBMITTED. Starters not confirmed.",
+     "sources": [
+      "https://www.espn.com/nba/game/_/gameId/401909980",
+      "https://www.espn.com/nba/standings",
+      "https://www.espn.com/nba/scoreboard/_/date/20261113",
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_08_15AM.pdf"
+     ]
+    },
+    {
+     "checked_at": "2026-11-14T08:20:00-05:00",
+     "price_source": "https://agentbets.ai/odds/fanduel/nba/",
+     "price_quoted_at": "2026-11-14T08:00:00-05:00",
+     "price_state_verified": false,
+     "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261114",
+     "availability_checked_at": "2026-11-14T08:20:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_08_15AM.pdf",
+     "market": "Moneyline",
+     "weather_status": "Indoor arena; weather not a factor.",
+     "team": "Minnesota Timberwolves",
+     "american_odds": -1000,
+     "event": "Chicago Bulls @ Minnesota Timberwolves",
+     "start_est": "2026-11-14 8:00 PM EST (AgentBets lists 8:10 PM EST)",
+     "venue": "Target Center",
+     "start_at": "2026-11-14T20:00:00-05:00",
+     "event_key": "espn-nba-401909984",
+     "evidence": "Chicago is on the second night of a back-to-back after a 125-117 overtime home win over Atlanta last night (Okoro 41 min, Giddey 39). ESPN standings: Bulls 2-9, 1-5 on the road, -13.3 differential. Minnesota is 9-3 (5-1 at home), +13.4 differential, has won five straight and has had a day off since beating Dallas 133-94 on Thursday — a game Anthony Edwards and Donte DiVincenzo did not play in, so their absences are not new.",
+     "remaining_checks": "Counterevidence and open items: Anthony Edwards (knee arthroscopy) and Donte DiVincenzo (Achilles) are OUT. The Bulls' injury report was NOT YET SUBMITTED at 8:15 AM. -1000 pays very little. Live PA/MD price not checked.",
+     "lineup_status": "Official 8:15 AM ET NBA report: Timberwolves' Edwards and DiVincenzo OUT, Beringer AVAILABLE (face mask). Bulls NOT YET SUBMITTED. Starters not confirmed.",
+     "sources": [
+      "https://www.espn.com/nba/game/_/gameId/401909984",
+      "https://www.espn.com/nba/standings",
+      "https://www.espn.com/nba/scoreboard/_/date/20261113",
+      "https://www.espn.com/nba/scoreboard/_/date/20261112",
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_08_15AM.pdf"
+     ]
+    }
+   ],
+   "theoretical_decimal_return": 1.2864406779661017
+  }
+ ],
+ "app_link": "https://sportsbook.fanduel.com/navigation/nfl",
+ "app_link_mode": "ios_universal_link_user_triggered_not_guaranteed_not_prefilled",
+ "app_store_fallback": "https://apps.apple.com/us/app/fanduel-sportsbook-casino/id1413721906",
+ "app_state_selection": "PA/MD chooses cached betslip market IDs and website fallback; app location/account rules still apply",
+ "app_link_evidence": [
+  "https://sportsbook.fanduel.com/.well-known/apple-app-site-association",
+  "https://itunes.apple.com/lookup?id=1413721906&country=us",
+  "https://developer.apple.com/library/archive/documentation/General/Conceptual/AppSearch/WebContent.html"
+ ],
+ "app_links_updated_est": "2026-11-08T07:10:53-05:00",
+ "betslip_identifiers_source": "No cached FanDuel records exist for Nov 14 NBA events; no identifiers used.",
+ "betslip_identifiers_cached_at_est": null,
+ "betslip_live_verified": false,
+ "betslip_end_to_end_verified": false,
+ "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
+ "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
+ "schema_version": 2,
+ "last_checked_at": "2026-11-14T08:20:00-05:00",
+ "policies": {
+  "max_price_age_minutes": 120,
+  "max_review_age_minutes": 75
+ },
+ "research_scope": "8:20 AM EST morning review for Saturday, Nov 14 (5 NBA games, first tip 7:00 PM). Nov 13 pending cards graded from ESPN finals: Rockets + Spurs WON and Blazers + Magic WON (Knicks + Hawks already LOST), so Nov 13 went 2-1. One new CONDITIONAL card staged from AgentBets' 8:00 AM EST FanDuel snapshot and the 8:15 AM official injury report. Live PA/MD quotes and exact selection IDs not verified.",
+ "research_holds": [
+  {
+   "title": "Nov 13 staged cards graded from official finals",
+   "reason": "Rockets + Spurs (posted 7:00 PM EST prices HOU -1100 / SA -750, 1.236x) WON: Rockets 125, Jazz 118; Spurs 123, Warriors 85. Blazers + Magic (posted 6:00 PM EST prices POR -460 / ORL -420, 1.507x) WON: Magic 107, Bucks 99; Trail Blazers 120, Kings 107. Knicks + Hawks (posted 6:00 PM EST prices NY -335 / ATL -290, 1.746x) LOST: Pacers 106, Knicks 104; Bulls 125, Hawks 117 (OT). Nov 13 staged record: 2 wins, 1 loss. Running two-leg staged record Nov 9-13: 7 wins, 2 losses. These are staged research cards, not recorded wagers. Lesson: the losing card was the lowest-priced pair (both legs near -300, both on the road); both of its legs lost, while the two cards built on -420 or shorter legs won.",
+   "sources": [
+    "https://www.espn.com/nba/scoreboard/_/date/20261113",
+    "https://www.espn.com/nba/game/_/gameId/401909296",
+    "https://www.espn.com/nba/game/_/gameId/401909297",
+    "https://www.espn.com/nba/game/_/gameId/401909299",
+    "https://www.espn.com/nba/game/_/gameId/401909301",
+    "https://www.espn.com/nba/game/_/gameId/401909302",
+    "https://www.espn.com/nba/game/_/gameId/401909303"
+   ]
+  },
+  {
+   "title": "Nov 12 staged cards graded from official finals",
+   "reason": "Pistons + 76ers (posted 6:00 PM EST prices DET -480 / PHI -255, 1.682x) WON: 76ers 123, Raptors 112; Pistons 144, Wizards 140 (2OT). Timberwolves + Suns (posted 7:00 PM EST prices MIN -230 / PHX -225, 2.072x) WON: Timberwolves 133, Mavericks 94; Suns 101, Hornets 96 (ESPN finals). Nov 12 staged record: 2 wins, 0 losses. Running two-leg staged record Nov 9-12: 5 wins, 1 loss. These are staged research cards, not recorded wagers. Lesson: both cards included a leg that was close late (2OT in Washington; Suns up six with under three minutes left), so favorite prices reflect but do not remove risk.",
+   "sources": [
+    "https://www.espn.com/nba/scoreboard/_/date/20261112",
+    "https://www.espn.com/nba/game/_/gameId/401909976",
+    "https://www.espn.com/nba/game/_/gameId/401909977",
+    "https://www.espn.com/nba/game/_/gameId/401909978",
+    "https://www.espn.com/nba/game/_/gameId/401909979"
+   ]
+  },
+  {
+   "title": "Nov 11 staged card graded from official finals",
+   "reason": "Spurs + Lakers (posted 7:21 PM at SA -1350 / LAL -950, 1.187x) WON: Spurs 124, Bulls 119; Lakers 123, Bucks 112 (ESPN finals). Nov 11 staged record: 1 win, 0 losses; the withdrawn Celtics + Knicks card is not counted. Running two-leg staged record Nov 9-11: 3 wins, 1 loss. These are staged research cards, not recorded wagers. Lesson: the Spurs, without Harris and Vassell, trailed by 14 in the 3rd before winning by five, so even a -1350 road favorite missing two rotation guards is not a lock; heavy prices reflect but do not remove that risk. Withdrawing Celtics + Knicks after the George/Towns reports avoided a Knicks loss, one data point and not proof the rule improves results.",
+   "sources": [
+    "https://www.espn.com/nba/scoreboard/_/date/20261111",
+    "https://www.espn.com/nba/game/_/gameId/401909969",
+    "https://www.espn.com/nba/game/_/gameId/401909971"
+   ]
+  },
+  {
+   "title": "Nov 10 staged card graded from official finals",
+   "reason": "Knicks + Heat (posted 6:24 PM at NY -1200 / MIA -405, 1.351x) WON: Knicks 117, Bucks 85; Heat 115, Jazz 109 (ESPN finals). Nov 10 staged record: 1 win, 0 losses. Running two-leg staged record Nov 9-10: 2 wins, 1 loss. These are staged research cards, not recorded wagers. Lesson: the Heat leg was the closer one (Utah within six late) even with Utah missing its top four listed players, so road favorites near -400 still carry real risk.",
+   "sources": [
+    "https://www.espn.com/nba/scoreboard/_/date/20261110",
+    "https://www.espn.com/nba/game/_/gameId/401909960",
+    "https://www.espn.com/nba/game/_/gameId/401909963"
+   ]
+  },
+  {
+   "title": "Screened and not staged (Nov 14)",
+   "reason": "Pistons @ Heat (DET -180): Detroit is without starting center Jalen Duren (hamstring) and Isaiah Joe; price too short of the heavy-favorite tier. Brooklyn @ Memphis (MEM -205): Memphis is on a back-to-back and Brooklyn won 145-111 at New Orleans on Wednesday. Dallas @ Cleveland (CLE -118): near coin flip. Other sports (college football, NHL) not researched to the same standard this run, so not staged.",
+   "sources": [
+    "https://agentbets.ai/odds/fanduel/nba/",
+    "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_08_15AM.pdf"
+   ]
+  }
+ ],
+ "update_log": [
+  {
+   "at": "2026-11-14T08:20:00-05:00",
+   "text": "Morning review: graded Nov 13 — Rockets + Spurs WON (HOU 125-118, SA 123-85), Blazers + Magic WON (ORL 107-99, POR 120-107); Nov 13 2-1, running Nov 9-13 staged record 7-2. Staged Nuggets + Timberwolves (DEN -590 / MIN -1000, 1.286x, AgentBets 8:00 AM EST) as CONDITIONAL; Pelicans and Bulls reports not yet submitted. Screened out DET@MIA, BKN@MEM, DAL@CLE."
+  }
+ ]
+}
