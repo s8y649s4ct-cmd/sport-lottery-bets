@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "published_est": "2026-11-14T08:20:00-05:00",
- "odds_reported_at_est": "2026-11-14T08:00:00-05:00",
+ "published_est": "2026-11-14T09:25:00-05:00",
+ "odds_reported_at_est": "2026-11-14T09:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
  "fully_cleared": false,
@@ -14,69 +14,69 @@
    "title": "Nuggets + Timberwolves",
    "status": "conditional",
    "tier": "Both favorites face tired, losing opponents on the second night of a back-to-back; small payout because both legs are heavy favorites",
-   "status_reason": "CONDITIONAL: Pelicans and Bulls injury reports were not yet submitted at 8:15 AM ET and starters are unconfirmed. Price is AgentBets' FanDuel snapshot of 8:00 AM EST (DEN -590 / MIN -1000), 1.286x theoretical ($12.86 on $10 / $32.16 on $25), not a PA/MD-verified live quote or an accepted parlay quote. No exact FanDuel selection IDs, so app-only link.",
+   "status_reason": "CONDITIONAL: Pelicans and Bulls injury reports were still NOT YET SUBMITTED at 9:15 AM ET and starters are unconfirmed. Price is AgentBets' FanDuel snapshot of 9:00 AM EST (DEN -620 / MIN -1100), 1.267x theoretical ($12.67 on $10 / $31.67 on $25), not a PA/MD-verified live quote or an accepted parlay quote. No exact FanDuel selection IDs, so app-only link.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-14T08:20:00-05:00",
+     "checked_at": "2026-11-14T09:25:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-14T08:00:00-05:00",
+     "price_quoted_at": "2026-11-14T09:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261114",
-     "availability_checked_at": "2026-11-14T08:20:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_08_15AM.pdf",
+     "availability_checked_at": "2026-11-14T09:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_09_15AM.pdf",
      "market": "Moneyline",
      "weather_status": "Indoor arena; weather not a factor.",
      "team": "Denver Nuggets",
-     "american_odds": -590,
+     "american_odds": -620,
      "event": "Denver Nuggets @ New Orleans Pelicans",
      "start_est": "2026-11-14 7:00 PM EST (AgentBets lists 7:10 PM EST)",
      "venue": "Smoothie King Center",
      "start_at": "2026-11-14T19:00:00-05:00",
      "event_key": "espn-nba-401909980",
      "evidence": "New Orleans is on the second night of a back-to-back after losing 142-111 at home to Memphis last night. That was its fifth straight loss, following a 145-111 home loss to Brooklyn. ESPN standings: Pelicans 4-9, -9.1 differential. Denver is 6-4 (3-2 on the road), has not played since winning 123-118 at Memphis on Wednesday with Jokic (27 pts) and Murray (30) playing, and its only non-two-way absence on the official 8:15 AM report is Julian Strawther (knee).",
-     "remaining_checks": "Counterevidence and open items: the Pelicans' injury report was NOT YET SUBMITTED at 8:15 AM. Denver's differential is only +1.2 and it lost 110-100 at Houston on Tuesday. Jokic/Murray participation is not officially confirmed beyond being absent from the report. Live PA/MD price not checked.",
-     "lineup_status": "Official 8:15 AM ET NBA report: Nuggets' Strawther OUT (knee), plus G League/two-way Holmes II, Nembhard, Whitmore OUT. Pelicans NOT YET SUBMITTED. Starters not confirmed.",
+     "remaining_checks": "Counterevidence and open items: the Pelicans' injury report was NOT YET SUBMITTED at 9:15 AM. Denver's differential is only +1.2 and it lost 110-100 at Houston on Tuesday. Jokic/Murray participation is not officially confirmed beyond being absent from the report. Live PA/MD price not checked.",
+     "lineup_status": "Official 9:15 AM ET NBA report: Nuggets' Strawther OUT (knee), plus G League/two-way Holmes II, Nembhard, Whitmore OUT. Pelicans NOT YET SUBMITTED. Starters not confirmed.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909980",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/scoreboard/_/date/20261113",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_08_15AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_09_15AM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-14T08:20:00-05:00",
+     "checked_at": "2026-11-14T09:25:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-14T08:00:00-05:00",
+     "price_quoted_at": "2026-11-14T09:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261114",
-     "availability_checked_at": "2026-11-14T08:20:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_08_15AM.pdf",
+     "availability_checked_at": "2026-11-14T09:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_09_15AM.pdf",
      "market": "Moneyline",
      "weather_status": "Indoor arena; weather not a factor.",
      "team": "Minnesota Timberwolves",
-     "american_odds": -1000,
+     "american_odds": -1100,
      "event": "Chicago Bulls @ Minnesota Timberwolves",
      "start_est": "2026-11-14 8:00 PM EST (AgentBets lists 8:10 PM EST)",
      "venue": "Target Center",
      "start_at": "2026-11-14T20:00:00-05:00",
      "event_key": "espn-nba-401909984",
-     "evidence": "Chicago is on the second night of a back-to-back after a 125-117 overtime home win over Atlanta last night (Okoro 41 min, Giddey 39). ESPN standings: Bulls 2-9, 1-5 on the road, -13.3 differential. Minnesota is 9-3 (5-1 at home), +13.4 differential, has won five straight and has had a day off since beating Dallas 133-94 on Thursday — a game Anthony Edwards and Donte DiVincenzo did not play in, so their absences are not new.",
-     "remaining_checks": "Counterevidence and open items: Anthony Edwards (knee arthroscopy) and Donte DiVincenzo (Achilles) are OUT. The Bulls' injury report was NOT YET SUBMITTED at 8:15 AM. -1000 pays very little. Live PA/MD price not checked.",
-     "lineup_status": "Official 8:15 AM ET NBA report: Timberwolves' Edwards and DiVincenzo OUT, Beringer AVAILABLE (face mask). Bulls NOT YET SUBMITTED. Starters not confirmed.",
+     "evidence": "Chicago is on the second night of a back-to-back after a 125-117 overtime home win over Atlanta last night (Okoro 41 min, Giddey 39). ESPN standings: Bulls 2-9, 1-5 on the road, -13.3 differential. Minnesota is 9-3 (5-1 at home), +13.4 differential, has won five straight and has had a day off since beating Dallas 133-94 on Thursday \u2014 a game Anthony Edwards and Donte DiVincenzo did not play in, so their absences are not new.",
+     "remaining_checks": "Counterevidence and open items: Anthony Edwards (knee arthroscopy) and Donte DiVincenzo (Achilles) are OUT. The Bulls' injury report was NOT YET SUBMITTED at 9:15 AM. -1000 pays very little. Live PA/MD price not checked.",
+     "lineup_status": "Official 9:15 AM ET NBA report: Timberwolves' Edwards and DiVincenzo OUT, Beringer AVAILABLE (face mask). Bulls NOT YET SUBMITTED. Starters not confirmed.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909984",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/scoreboard/_/date/20261113",
       "https://www.espn.com/nba/scoreboard/_/date/20261112",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_08_15AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_09_15AM.pdf"
      ]
     }
    ],
-   "theoretical_decimal_return": 1.2864406779661017
+   "theoretical_decimal_return": 1.2668621700879765
   }
  ],
  "app_link": "https://sportsbook.fanduel.com/navigation/nfl",
@@ -96,7 +96,7 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-14T08:20:00-05:00",
+ "last_checked_at": "2026-11-14T09:25:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
@@ -157,7 +157,11 @@
  "update_log": [
   {
    "at": "2026-11-14T08:20:00-05:00",
-   "text": "Morning review: graded Nov 13 — Rockets + Spurs WON (HOU 125-118, SA 123-85), Blazers + Magic WON (ORL 107-99, POR 120-107); Nov 13 2-1, running Nov 9-13 staged record 7-2. Staged Nuggets + Timberwolves (DEN -590 / MIN -1000, 1.286x, AgentBets 8:00 AM EST) as CONDITIONAL; Pelicans and Bulls reports not yet submitted. Screened out DET@MIA, BKN@MEM, DAL@CLE."
+   "text": "Morning review: graded Nov 13 \u2014 Rockets + Spurs WON (HOU 125-118, SA 123-85), Blazers + Magic WON (ORL 107-99, POR 120-107); Nov 13 2-1, running Nov 9-13 staged record 7-2. Staged Nuggets + Timberwolves (DEN -590 / MIN -1000, 1.286x, AgentBets 8:00 AM EST) as CONDITIONAL; Pelicans and Bulls reports not yet submitted. Screened out DET@MIA, BKN@MEM, DAL@CLE."
+  },
+  {
+   "at": "2026-11-14T09:25:00-05:00",
+   "text": "Hourly review: card stands. Repriced from AgentBets 9:00 AM EST snapshot (DEN -620 / MIN -1100, 1.267x). 9:15 AM NBA injury report unchanged for Nuggets/Timberwolves; Pelicans and Bulls still not submitted."
   }
  ]
 }
