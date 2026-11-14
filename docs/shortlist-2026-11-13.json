@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "published_est": "2026-11-13T20:23:00-05:00",
+ "published_est": "2026-11-13T21:17:00-05:00",
  "odds_reported_at_est": "2026-11-13T19:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
@@ -14,7 +14,7 @@
    "title": "Rockets + Spurs",
    "status": "conditional",
    "tier": "Highest price-implied win chance on the Friday NBA board; small payout because both legs are heavy favorites",
-   "status_reason": "CONDITIONAL: priced from AgentBets' FanDuel snapshot of 7:00 PM EST (-1100 / -750; page still on that snapshot at 8:23 PM), 1.236x theoretical ($12.36 on $10 / $30.91 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Availability from the official 8:15 PM NBA injury report (no change from 7:15 PM for Jazz, Rockets, Warriors or Spurs; Spurs' Fox and Vassell still Questionable). Rockets tip 8:30 PM ET, so this card closes at tip.",
+   "status_reason": "STARTED at 8:30 PM ET (Jazz @ Rockets tipped; ESPN showed UTA 34-32 with 9:41 left in the 2nd at 9:17 PM, Rockets leg at risk); no longer a pregame card. Warriors @ Spurs (9:30 PM ET) still to tip. Posted version kept: AgentBets' FanDuel snapshot of 7:00 PM EST, HOU -1100 / SA -750, 1.236x theoretical ($12.36 on $10 / $30.91 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Pending; grade from official finals.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -84,7 +84,7 @@
    "title": "Trail Blazers + Magic",
    "status": "conditional",
    "tier": "Second-highest price-implied win chance; Magic leg still carries Banchero absence and a 0-4 home record (Suggs now available)",
-   "status_reason": "STARTED at 7:00 PM ET (Bucks @ Magic; ESPN showed ORL 59-40 with 9:58 left in the 3rd at 8:23 PM); no longer a pregame card. Blazers @ Kings (10:00 PM ET) is still to play. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, POR -460 / ORL -420, 1.507x theoretical ($15.07 on $10 / $37.68 on $25), not a PA/MD-verified live quote. Pending; grade from official finals.",
+   "status_reason": "STARTED at 7:00 PM ET (Bucks @ Magic; ESPN showed ORL 96-84 with 4:12 left in the 4th at 9:17 PM). Blazers @ Kings (10:00 PM ET) is still to play. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, POR -460 / ORL -420, 1.507x theoretical ($15.07 on $10 / $37.68 on $25), not a PA/MD-verified live quote. Pending; grade from official finals.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -152,7 +152,7 @@
    "title": "Knicks + Hawks",
    "status": "conditional",
    "tier": "Knicks -335 and Hawks -290 road favorites against short-handed teams; lowest win chance of the three, about 1.75x payout",
-   "status_reason": "STARTED at 7:00 PM ET (Knicks @ Pacers; ESPN showed IND 58-49 at halftime at 8:23 PM, Knicks leg at risk); no longer a pregame card. Hawks @ Bulls (8:00 PM ET) is under way (CHI 21-11 with 4:58 left in the 1st at 8:23 PM); the 7:15 PM report upgraded Bulls' Norman Powell (Questionable) to AVAILABLE and moved Dailyn Swain to OUT, while Hawks' Kingston Flemings was upgraded to AVAILABLE. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, NY -335 / ATL -290, 1.746x theoretical ($17.46 on $10 / $43.66 on $25), not a PA/MD-verified live quote (7:00 PM snapshot later showed ATL -255). Pending; grade from official finals.",
+   "status_reason": "STARTED at 7:00 PM ET (Knicks @ Pacers; ESPN showed IND 99-89 with 7:42 left in the 4th at 9:17 PM, Knicks leg in serious danger). Hawks @ Bulls (8:00 PM ET) trailed CHI 60-53 at halftime. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, NY -335 / ATL -290, 1.746x theoretical ($17.46 on $10 / $43.65 on $25), not a PA/MD-verified live quote. Pending; grade from official finals.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -233,12 +233,12 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-13T20:23:00-05:00",
+ "last_checked_at": "2026-11-13T21:17:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
  },
- "research_scope": "8:23 PM EST review for Friday, Nov 13. AgentBets' FanDuel NBA page checked 8:23 PM still showed its 7:00 PM EST (12:00 AM UTC) snapshot: Rockets -1100 and Spurs -750 unchanged. Official 8:15 PM NBA injury report is identical to 7:15 PM (Spurs' Fox and Vassell still Questionable; Curry, Butler, Moody, Porzingis OUT for Golden State; Markkanen, Jackson Jr., Nurkic OUT for Utah; Adams, Capela OUT and Smart suspended for Houston). Rockets + Spurs is the only pregame card. Blazers + Magic and Knicks + Hawks are in progress at their posted versions. Live PA/MD quotes and exact selection IDs not verified.",
+ "research_scope": "9:17 PM EST review for Friday, Nov 13. No pregame card remains: Rockets + Spurs STARTED when Jazz @ Rockets tipped at 8:30 PM ET (posted 7:00 PM EST snapshot version kept, HOU -1100 / SA -750, 1.236x); Blazers + Magic and Knicks + Hawks started at 7:00 PM. Remaining untipped games tonight (Warriors @ Spurs 9:30, Blazers @ Kings 10:00, Thunder @ Clippers 10:30) are either already legs of started cards or were screened out, so no new card was added (re-pairing them would only repeat existing legs). Scores from ESPN at 9:17 PM. Live PA/MD quotes and exact selection IDs not verified.",
  "research_holds": [
   {
    "title": "Nov 12 staged cards graded from official finals",
@@ -566,6 +566,10 @@
   {
    "at": "2026-11-13T20:23:00-05:00",
    "text": "8 PM-hour review: Rockets + Spurs stands (only pregame card; AgentBets still on 7:00 PM EST snapshot, HOU -1100 / SA -750, 1.236x). 8:15 PM injury report unchanged from 7:15 PM. In progress at 8:23 PM: Magic lead Bucks 59-40 (3rd); Knicks trail Pacers 58-49 at half; Hawks trail Bulls 21-11 (1st); Blazers tip 10:00 PM. No grading yet."
+  },
+  {
+   "at": "2026-11-13T21:17:00-05:00",
+   "text": "9 PM-hour review: Rockets + Spurs STARTED at 8:30 PM (Rockets tipped; Jazz led 34-32 in the 2nd at 9:17 PM); posted 7:00 PM EST version kept, pending. No pregame card remains and none added (remaining untipped games are already legs or were screened out). In progress at 9:17 PM: Magic lead Bucks 96-84 (4:12 4th); Knicks trail Pacers 99-89 (7:42 4th); Hawks trail Bulls 60-53 at half; Spurs tip 9:30, Blazers 10:00. No grading yet."
   }
  ]
 }
