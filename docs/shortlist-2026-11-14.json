@@ -1,7 +1,7 @@
 {
  "date": "2026-11-14",
- "published_est": "2026-11-14T17:23:00-05:00",
- "odds_reported_at_est": "2026-11-14T17:00:00-05:00",
+ "published_est": "2026-11-14T18:25:00-05:00",
+ "odds_reported_at_est": "2026-11-14T18:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
  "fully_cleared": false,
@@ -14,69 +14,69 @@
    "title": "Nuggets + Timberwolves",
    "status": "conditional",
    "tier": "Both favorites face tired, losing opponents on the second night of a back-to-back; small payout because both legs are heavy favorites",
-   "status_reason": "CONDITIONAL: Pelicans and Bulls injury reports are submitted (1:15 PM ET; 5:15 PM report unchanged for these games) and both opponents are short-handed, but starters are unconfirmed. Price is AgentBets' FanDuel snapshot of 5:00 PM EST (DEN -670 / MIN -1100), 1.254x theoretical ($12.54 on $10 / $31.34 on $25), not a PA/MD-verified live quote or an accepted parlay quote. No exact FanDuel selection IDs, so app-only link.",
+   "status_reason": "CONDITIONAL: Pelicans and Bulls injury reports are submitted (6:15 PM ET report: Pelicans' Missi now available; Bulls' Claxton, Powell, J. Smith still questionable), but starters are unconfirmed. Price is AgentBets' FanDuel snapshot of 6:00 PM EST (DEN -620 / MIN -1350), 1.247x theoretical ($12.47 on $10 / $31.18 on $25), not a PA/MD-verified live quote or an accepted parlay quote. No exact FanDuel selection IDs, so app-only link.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-14T17:23:00-05:00",
+     "checked_at": "2026-11-14T18:25:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-14T17:00:00-05:00",
+     "price_quoted_at": "2026-11-14T18:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261114",
-     "availability_checked_at": "2026-11-14T17:23:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_05_15PM.pdf",
+     "availability_checked_at": "2026-11-14T18:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_06_15PM.pdf",
      "market": "Moneyline",
      "weather_status": "Indoor arena; weather not a factor.",
      "team": "Denver Nuggets",
-     "american_odds": -670,
+     "american_odds": -620,
      "event": "Denver Nuggets @ New Orleans Pelicans",
      "start_est": "2026-11-14 7:00 PM EST (AgentBets lists 7:10 PM EST)",
      "venue": "Smoothie King Center",
      "start_at": "2026-11-14T19:00:00-05:00",
      "event_key": "espn-nba-401909980",
-     "evidence": "New Orleans is on the second night of a back-to-back after losing 142-111 at home to Memphis last night. That was its fifth straight loss, following a 145-111 home loss to Brooklyn. ESPN standings: Pelicans 4-9, -9.1 differential. Denver is 6-4 (3-2 on the road), has not played since winning 123-118 at Memphis on Wednesday with Jokic (27 pts) and Murray (30) playing, and its only non-two-way absence on the official 8:15 AM report is Julian Strawther (knee). The Pelicans' 1:15 PM report lists Trey Murphy III (patellar tendinopathy), Dejounte Murray (ankle), Trendon Watford (ankle) and Bryce McGowens (elbow) OUT, with Yves Missi probable.",
+     "evidence": "New Orleans is on the second night of a back-to-back after losing 142-111 at home to Memphis last night. That was its fifth straight loss, following a 145-111 home loss to Brooklyn. ESPN standings: Pelicans 4-9, -9.1 differential. Denver is 6-4 (3-2 on the road), has not played since winning 123-118 at Memphis on Wednesday with Jokic (27 pts) and Murray (30) playing, and its only non-two-way absence on the official 8:15 AM report is Julian Strawther (knee). The Pelicans' 1:15 PM report lists Trey Murphy III (patellar tendinopathy), Dejounte Murray (ankle), Trendon Watford (ankle) and Bryce McGowens (elbow) OUT, with Yves Missi listed AVAILABLE on the 6:15 PM report.",
      "remaining_checks": "Counterevidence and open items: Denver's differential is only +1.2 and it lost 110-100 at Houston on Tuesday. Jokic/Murray participation is not officially confirmed beyond being absent from the report. Starters not confirmed. Live PA/MD price not checked.",
-     "lineup_status": "Official 5:15 PM ET NBA report: Nuggets' Strawther OUT (knee), plus G League/two-way Holmes II, Nembhard, Whitmore OUT. Pelicans: Murphy III, Murray, Watford, McGowens OUT; Missi PROBABLE; two-way Dia and Reese QUESTIONABLE, Pierre Jr. PROBABLE. Starters not confirmed.",
+     "lineup_status": "Official 6:15 PM ET NBA report: Nuggets' Strawther OUT (knee), plus G League/two-way Holmes II, Nembhard, Whitmore OUT. Pelicans: Murphy III, Murray, Watford, McGowens OUT; Missi now AVAILABLE (was probable); two-way Dia, Reese, Pierre Jr. AVAILABLE. Starters not confirmed.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909980",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/scoreboard/_/date/20261113",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_05_15PM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_06_15PM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-14T17:23:00-05:00",
+     "checked_at": "2026-11-14T18:25:00-05:00",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
-     "price_quoted_at": "2026-11-14T17:00:00-05:00",
+     "price_quoted_at": "2026-11-14T18:00:00-05:00",
      "price_state_verified": false,
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261114",
-     "availability_checked_at": "2026-11-14T17:23:00-05:00",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_05_15PM.pdf",
+     "availability_checked_at": "2026-11-14T18:25:00-05:00",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_06_15PM.pdf",
      "market": "Moneyline",
      "weather_status": "Indoor arena; weather not a factor.",
      "team": "Minnesota Timberwolves",
-     "american_odds": -1100,
+     "american_odds": -1350,
      "event": "Chicago Bulls @ Minnesota Timberwolves",
      "start_est": "2026-11-14 8:00 PM EST (AgentBets lists 8:10 PM EST)",
      "venue": "Target Center",
      "start_at": "2026-11-14T20:00:00-05:00",
      "event_key": "espn-nba-401909984",
-     "evidence": "Chicago is on the second night of a back-to-back after a 125-117 overtime home win over Atlanta last night (Okoro 41 min, Giddey 39). ESPN standings: Bulls 2-9, 1-5 on the road, -13.3 differential. Minnesota is 9-3 (5-1 at home), +13.4 differential, has won five straight and has had a day off since beating Dallas 133-94 on Thursday \u2014 a game Anthony Edwards and Donte DiVincenzo did not play in, so their absences are not new. The Bulls' 1:15 PM report lists Caleb Wilson (metacarpal fracture) and Tobe Awaka OUT, with Nic Claxton, Norman Powell and Jalen Smith QUESTIONABLE.",
+     "evidence": "Chicago is on the second night of a back-to-back after a 125-117 overtime home win over Atlanta last night (Okoro 41 min, Giddey 39). ESPN standings: Bulls 2-9, 1-5 on the road, -13.3 differential. Minnesota is 9-3 (5-1 at home), +13.4 differential, has won five straight and has had a day off since beating Dallas 133-94 on Thursday — a game Anthony Edwards and Donte DiVincenzo did not play in, so their absences are not new. The Bulls' 1:15 PM report lists Caleb Wilson (metacarpal fracture) and Tobe Awaka OUT, with Nic Claxton, Norman Powell and Jalen Smith QUESTIONABLE.",
      "remaining_checks": "Counterevidence and open items: Anthony Edwards (knee arthroscopy) and Donte DiVincenzo (Achilles) are OUT. Bulls' Claxton, Powell and J. Smith are questionable, so Chicago's lineup is unsettled. -1100 pays very little. Live PA/MD price not checked.",
-     "lineup_status": "Official 5:15 PM ET NBA report: Timberwolves' Edwards and DiVincenzo OUT, Beringer AVAILABLE (face mask). Bulls: C. Wilson, Awaka OUT (Sellers, Swain G League); Claxton, Powell, J. Smith QUESTIONABLE. Starters not confirmed.",
+     "lineup_status": "Official 6:15 PM ET NBA report: Timberwolves' Edwards and DiVincenzo OUT, Beringer AVAILABLE (face mask). Bulls: C. Wilson, Awaka OUT (Sellers, Swain G League); Claxton, Powell, J. Smith still QUESTIONABLE. Starters not confirmed.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909984",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/scoreboard/_/date/20261113",
       "https://www.espn.com/nba/scoreboard/_/date/20261112",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_05_15PM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_06_15PM.pdf"
      ]
     }
    ],
-   "theoretical_decimal_return": 1.253731343283582
+   "theoretical_decimal_return": 1.2473118279569892
   }
  ],
  "app_link": "https://sportsbook.fanduel.com/navigation/nfl",
@@ -96,7 +96,7 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-14T17:23:00-05:00",
+ "last_checked_at": "2026-11-14T18:25:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
@@ -157,7 +157,7 @@
  "update_log": [
   {
    "at": "2026-11-14T08:20:00-05:00",
-   "text": "Morning review: graded Nov 13 \u2014 Rockets + Spurs WON (HOU 125-118, SA 123-85), Blazers + Magic WON (ORL 107-99, POR 120-107); Nov 13 2-1, running Nov 9-13 staged record 7-2. Staged Nuggets + Timberwolves (DEN -590 / MIN -1000, 1.286x, AgentBets 8:00 AM EST) as CONDITIONAL; Pelicans and Bulls reports not yet submitted. Screened out DET@MIA, BKN@MEM, DAL@CLE."
+   "text": "Morning review: graded Nov 13 — Rockets + Spurs WON (HOU 125-118, SA 123-85), Blazers + Magic WON (ORL 107-99, POR 120-107); Nov 13 2-1, running Nov 9-13 staged record 7-2. Staged Nuggets + Timberwolves (DEN -590 / MIN -1000, 1.286x, AgentBets 8:00 AM EST) as CONDITIONAL; Pelicans and Bulls reports not yet submitted. Screened out DET@MIA, BKN@MEM, DAL@CLE."
   },
   {
    "at": "2026-11-14T09:25:00-05:00",
@@ -169,7 +169,7 @@
   },
   {
    "at": "2026-11-14T11:24:00-05:00",
-   "text": "Hourly review: card stands. Repriced from AgentBets 11:00 AM EST FanDuel snapshot (DEN -620 \u2192 -670, MIN -1100 \u2192 -1000; 1.264x). 11:15 AM NBA injury report identical to 10:15 for these games (Pelicans and Bulls still not submitted)."
+   "text": "Hourly review: card stands. Repriced from AgentBets 11:00 AM EST FanDuel snapshot (DEN -620 → -670, MIN -1100 → -1000; 1.264x). 11:15 AM NBA injury report identical to 10:15 for these games (Pelicans and Bulls still not submitted)."
   },
   {
    "at": "2026-11-14T12:21:00-05:00",
@@ -177,7 +177,7 @@
   },
   {
    "at": "2026-11-14T13:20:00-05:00",
-   "text": "Hourly review: card stands and strengthens. Repriced from AgentBets 1:00 PM EST FanDuel snapshot (DEN -670 \u2192 -720, MIN -1000 \u2192 -950; 1.259x). Pelicans and Bulls submitted their reports at 1:15 PM: NOP without Murphy III, Murray, Watford, McGowens; CHI without C. Wilson and Awaka with Claxton, Powell, J. Smith questionable."
+   "text": "Hourly review: card stands and strengthens. Repriced from AgentBets 1:00 PM EST FanDuel snapshot (DEN -670 → -720, MIN -1000 → -950; 1.259x). Pelicans and Bulls submitted their reports at 1:15 PM: NOP without Murphy III, Murray, Watford, McGowens; CHI without C. Wilson and Awaka with Claxton, Powell, J. Smith questionable."
   },
   {
    "at": "2026-11-14T14:17:00-05:00",
@@ -185,15 +185,19 @@
   },
   {
    "at": "2026-11-14T15:23:00-05:00",
-   "text": "Hourly review: card stands. Repriced from AgentBets 2:00 PM EST FanDuel snapshot (DEN -720 \u2192 -700, MIN -950 unchanged; 1.263x). 3:15 PM NBA injury report identical to 2:15 for Nuggets, Pelicans, Bulls and Timberwolves."
+   "text": "Hourly review: card stands. Repriced from AgentBets 2:00 PM EST FanDuel snapshot (DEN -720 → -700, MIN -950 unchanged; 1.263x). 3:15 PM NBA injury report identical to 2:15 for Nuggets, Pelicans, Bulls and Timberwolves."
   },
   {
    "at": "2026-11-14T16:16:00-05:00",
-   "text": "Hourly review: card stands. Repriced from AgentBets 4:00 PM EST FanDuel snapshot (DEN -700 \u2192 -670, MIN -950 \u2192 -1100; 1.254x). 4:15 PM NBA injury report identical to 3:15 for Nuggets, Pelicans, Bulls and Timberwolves (only Nov 15 Pacers and Wizards newly submitted). Corrected the 2:17 PM log entry's timestamp, which the 3:23 PM update had overwritten."
+   "text": "Hourly review: card stands. Repriced from AgentBets 4:00 PM EST FanDuel snapshot (DEN -700 → -670, MIN -950 → -1100; 1.254x). 4:15 PM NBA injury report identical to 3:15 for Nuggets, Pelicans, Bulls and Timberwolves (only Nov 15 Pacers and Wizards newly submitted). Corrected the 2:17 PM log entry's timestamp, which the 3:23 PM update had overwritten."
   },
   {
    "at": "2026-11-14T17:23:00-05:00",
    "text": "Hourly review: card stands. AgentBets 5:00 PM EST FanDuel snapshot unchanged (DEN -670, MIN -1100; 1.254x). 5:15 PM NBA injury report identical to 4:15 for Nuggets, Pelicans, Bulls and Timberwolves (only Nov 15 teams newly submitted)."
+  },
+  {
+   "at": "2026-11-14T18:25:00-05:00",
+   "text": "Hourly review: card stands. AgentBets 6:00 PM EST FanDuel snapshot moved DEN -670 to -620 and MIN -1100 to -1350 (1.247x, was 1.254x). 6:15 PM NBA injury report: Pelicans' Missi upgraded probable to available, two-way Dia/Reese/Pierre Jr. available; Bulls' Claxton, Powell, J. Smith still questionable; Nuggets and Timberwolves unchanged."
   }
  ]
 }
