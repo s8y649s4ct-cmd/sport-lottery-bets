@@ -81,7 +81,7 @@
    "title": "Spurs + Celtics",
    "status": "conditional",
    "tier": "Two heavy NBA favorites; Jazz missing four rotation players, Mavericks on a back-to-back; small payout",
-   "status_reason": "STARTED: Spurs at Jazz tipped ~5:10 PM EST (ESPN at 5:18 PM: Spurs 8, Jazz 8, 8:16 left in 1st); Celtics vs Mavericks tips 6:00 PM EST. No longer a pregame card; pending, not graded. Posted version kept: AgentBets' FanDuel snapshot of 3:00 PM EST, SA -1200 / BOS -950, 1.197x theoretical ($11.97 on $10 / $29.93 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Official 5:15 PM NBA report: Spurs' De'Aaron Fox and Tobias Harris OUT; Mavericks' Kyrie Irving, Max Christie and Dereck Lively II OUT, Daniel Gafford PROBABLE, Santi Aldama QUESTIONABLE; Celtics' two-way players now AVAILABLE. AgentBets' 5:00 PM EST snapshot moved to SA -1100 / BOS -1000 (shown for reference only; posted price unchanged).",
+   "status_reason": "STARTED: Spurs at Jazz tipped ~5:10 PM EST (ESPN at 6:16 PM: Spurs 58, Jazz 55 at halftime); Celtics vs Mavericks tipped 6:00 PM EST (ESPN at 6:16 PM: Celtics 11, Mavericks 2, 8:30 left in 1st). No longer a pregame card; pending, not graded. Posted version kept: AgentBets' FanDuel snapshot of 3:00 PM EST, SA -1200 / BOS -950, 1.197x theoretical ($11.97 on $10 / $29.93 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Official 5:15 PM NBA report: Spurs' De'Aaron Fox and Tobias Harris OUT; Mavericks' Kyrie Irving, Max Christie and Dereck Lively II OUT, Daniel Gafford PROBABLE, Santi Aldama QUESTIONABLE; Celtics' two-way players now AVAILABLE. AgentBets' 5:00 PM EST snapshot moved to SA -1100 / BOS -1000 (shown for reference only; posted price unchanged).",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -162,7 +162,7 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-15T17:19:00-05:00",
+ "last_checked_at": "2026-11-15T18:16:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
@@ -280,6 +280,10 @@
   {
    "at": "2026-11-15T17:19:00-05:00",
    "text": "5:19 PM review (Nov 15): Spurs + Celtics STARTED (Spurs at Jazz tipped ~5:10 PM; ESPN 5:18 PM: 8-8, 1st qtr; Celtics vs Mavericks 6:00 PM). Pending at posted 3:00 PM EST prices SA -1200 / BOS -950, 1.197x. Official 5:15 PM NBA report unchanged for these teams except Celtics two-way players now available. No new card: remaining NBA games (HOU at WAS without VanVleet/Smart/Capela, ATL at MIL, OKC at SAC without Holmgren, NY at TOR) stay screened out as in the morning review; Bills + Jaguars WON earlier."
+  },
+  {
+   "at": "2026-11-15T18:16:00-05:00",
+   "text": "6:16 PM review (Nov 15): Spurs + Celtics pending at posted 3:00 PM EST prices SA -1200 / BOS -950, 1.197x (ESPN 6:16 PM: Spurs lead Jazz 58-55 at halftime; Celtics lead Mavericks 11-2 early 1st). No new card: remaining NBA games (HOU at WAS 7 PM, ATL at MIL 8 PM, OKC at SAC 9 PM) stay screened out as in the morning review."
   }
  ]
 }
