@@ -1,7 +1,7 @@
 {
  "date": "2026-11-15",
  "published_est": "2026-11-15T08:25:00-05:00",
- "odds_reported_at_est": "2026-11-15T09:00:00-05:00",
+ "odds_reported_at_est": "2026-11-15T10:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nfl/",
  "pa_md_prices_verified": false,
  "fully_cleared": false,
@@ -14,24 +14,24 @@
    "title": "Bills + Jaguars",
    "status": "conditional",
    "tier": "Two road favorites with winning records against losing home teams; both 1:00 PM NFL kickoffs, different games",
-   "status_reason": "CONDITIONAL: official NFL inactives (about 11:30 AM EST) not checked yet; Bills RT Spencer Brown doubtful and two Bills CBs questionable; Jaguars missing two safeties. Prices from AgentBets' FanDuel snapshot of 9:00 AM EST (BUF -460 / JAX -700), 1.391x theoretical ($13.91 on $10 / $34.78 on $25), not a PA/MD-verified live quote or an accepted parlay quote.",
+   "status_reason": "CONDITIONAL: official NFL inactives (about 11:30 AM EST) not checked yet; Bills RT Spencer Brown doubtful and two Bills CBs questionable; Jaguars missing two safeties. Prices from AgentBets' FanDuel snapshot of 10:00 AM EST (BUF -450 / JAX -700), 1.397x theoretical ($13.97 on $10 / $34.92 on $25), not a PA/MD-verified live quote or an accepted parlay quote.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-15T09:17:00-05:00",
-     "price_quoted_at": "2026-11-15T09:00:00-05:00",
+     "checked_at": "2026-11-15T10:24:00-05:00",
+     "price_quoted_at": "2026-11-15T10:00:00-05:00",
      "price_state_verified": false,
-     "availability_checked_at": "2026-11-15T09:17:00-05:00",
+     "availability_checked_at": "2026-11-15T10:24:00-05:00",
      "market": "Moneyline",
      "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
      "schedule_source": "https://www.espn.com/nfl/schedule/_/week/11",
      "availability_source": "https://www.espn.com/nfl/team/injuries/_/name/buf/buffalo-bills",
      "weather_status": "Outdoor (MetLife Stadium): ESPN/AccuWeather kickoff forecast 51F, wind gusts up to 27 mph, 3% precipitation. Gusty wind can limit passing and kicking.",
      "team": "Buffalo Bills",
-     "american_odds": -460,
+     "american_odds": -450,
      "event": "Buffalo Bills @ New York Jets",
      "start_est": "2026-11-15 1:00 PM EST",
      "venue": "MetLife Stadium",
@@ -39,7 +39,7 @@
      "event_key": "espn-nfl-401873054",
      "evidence": "ESPN records: Bills 7-1 and 4-0 on the road; Jets 2-7 and 1-3 at home. Buffalo beat Baltimore 36-10 and Minnesota 23-6 in its last five and won at the Rams (37-34 OT) and at Las Vegas (33-30); its only loss was 29-26 to New England. The Jets have lost four of their last five, including 38-33 at home to Las Vegas and 28-25 at home to Miami. ESPN injury feed lists QB Josh Allen, RB James Cook III and WR Khalil Shakir active.",
      "remaining_checks": "Counterevidence and open items: Buffalo's last three wins were all by 3 points, and it lost its most recent game. RT Spencer Brown is DOUBTFUL; CBs Christian Benford and Jordan Hancock and S Sam Franklin Jr. are QUESTIONABLE. Wind gusts near 27 mph could keep the score close. Jets WR Garrett Wilson is QUESTIONABLE (his absence would help Buffalo). Official inactives come about 90 minutes before kickoff (about 11:30 AM EST) and have not been checked. Live PA/MD price not checked.",
-     "lineup_status": "ESPN injury feed (checked 9:17 AM EST): Bills: WR Tyrell Shavers OUT, OT Spencer Brown DOUBTFUL, CB Benford, CB Hancock, S Franklin Jr. QUESTIONABLE, WR Joshua Palmer IR; QB Josh Allen active. Jets: WR Garrett Wilson, WR Adonai Mitchell, WR Omar Cooper Jr., S VJ Payne, CB Nahshon Wright, DT Harrison Phillips, DE Joseph Ossai, CB Jarvis Brownlee Jr. QUESTIONABLE; LB Trevin Wallace OUT; QB Geno Smith active. Inactives not posted yet.",
+     "lineup_status": "ESPN injury feed (checked 10:24 AM EST): Bills: WR Tyrell Shavers OUT, OT Spencer Brown DOUBTFUL, CB Benford, CB Hancock, S Franklin Jr. QUESTIONABLE, WR Joshua Palmer IR; QB Josh Allen active. Jets: WR Garrett Wilson, WR Adonai Mitchell, WR Omar Cooper Jr., S VJ Payne, CB Nahshon Wright, DT Harrison Phillips, DE Joseph Ossai, CB Jarvis Brownlee Jr. QUESTIONABLE; LB Trevin Wallace OUT; QB Geno Smith active. Inactives not posted yet.",
      "sources": [
       "https://www.espn.com/nfl/game/_/gameId/401873054",
       "https://www.espn.com/nfl/team/injuries/_/name/nyj/new-york-jets",
@@ -48,10 +48,10 @@
      ]
     },
     {
-     "checked_at": "2026-11-15T09:17:00-05:00",
-     "price_quoted_at": "2026-11-15T09:00:00-05:00",
+     "checked_at": "2026-11-15T10:24:00-05:00",
+     "price_quoted_at": "2026-11-15T10:00:00-05:00",
      "price_state_verified": false,
-     "availability_checked_at": "2026-11-15T09:17:00-05:00",
+     "availability_checked_at": "2026-11-15T10:24:00-05:00",
      "market": "Moneyline",
      "price_source": "https://agentbets.ai/odds/fanduel/nfl/",
      "schedule_source": "https://www.espn.com/nfl/schedule/_/week/11",
@@ -66,7 +66,7 @@
      "event_key": "espn-nfl-401873057",
      "evidence": "ESPN records: Jaguars 6-2 (2-1 road); Titans 1-7 and 0-4 at home. Jacksonville has won four of its last five, including 33-10 at Baltimore, 42-7 over Indianapolis and 22-17 at Cincinnati. Tennessee has lost four of its last five, including 26-3 at home to Houston. QB Trevor Lawrence is listed active. Titans LBs Cody Barton and Anthony Hill Jr. and WR Carnell Tate are OUT, and G Peter Skoronski is on IR.",
      "remaining_checks": "Counterevidence and open items: Jacksonville's secondary is thin, with S Jessie Bates III and S Cam'Ron Silmon-Craig OUT and S Eric Murray on IR. Its two most recent wins were by 5 and 2 points. Tennessee won on the road at Indianapolis (26-20) and lost close games to Cleveland (27-24) and at Cincinnati (43-36 OT), so it has kept some games close. Divisional game. Official inactives come about 11:30 AM EST and have not been checked. Live PA/MD price not checked.",
-     "lineup_status": "ESPN injury feed (checked 9:17 AM EST): Jaguars: S Jessie Bates III and S Cam'Ron Silmon-Craig OUT; DE B.J. Green II, S Eric Murray, DT DaVon Hamilton, OT Anton Harrison IR; QB Trevor Lawrence active. Titans: RB Tyjae Spears QUESTIONABLE; LB Cody Barton, LB Anthony Hill Jr., WR Carnell Tate OUT; G Skoronski, P Townsend IR; QB Cam Ward active. Inactives not posted yet.",
+     "lineup_status": "ESPN injury feed (checked 10:24 AM EST): Jaguars: S Jessie Bates III and S Cam'Ron Silmon-Craig OUT; DE B.J. Green II, S Eric Murray, DT DaVon Hamilton, OT Anton Harrison IR; QB Trevor Lawrence active. Titans: RB Tyjae Spears QUESTIONABLE; LB Cody Barton, LB Anthony Hill Jr., WR Carnell Tate OUT; G Skoronski, P Townsend IR; QB Cam Ward active. Inactives not posted yet.",
      "sources": [
       "https://www.espn.com/nfl/game/_/gameId/401873057",
       "https://www.espn.com/nfl/team/injuries/_/name/ten/tennessee-titans",
@@ -74,28 +74,28 @@
      ]
     }
    ],
-   "theoretical_decimal_return": 1.391304347826087
+   "theoretical_decimal_return": 1.3968253968253967
   },
   {
    "id": "nov15-b",
    "title": "Spurs + Celtics",
    "status": "conditional",
    "tier": "Two heavy NBA favorites; Jazz missing four rotation players, Mavericks on a back-to-back; small payout",
-   "status_reason": "CONDITIONAL: Dallas injury report not yet submitted at 9:15 AM; starters not confirmed. Prices from AgentBets' FanDuel snapshot of 9:00 AM EST (SA -1400 / BOS -800), 1.205x theoretical ($12.05 on $10 / $30.13 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Very short prices add little payout and do not remove upset risk.",
+   "status_reason": "CONDITIONAL: Dallas injury report not yet submitted at 10:15 AM; starters not confirmed. Prices from AgentBets' FanDuel snapshot of 10:00 AM EST (SA -1400 / BOS -820), 1.202x theoretical ($12.02 on $10 / $30.05 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Very short prices add little payout and do not remove upset risk.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-15T09:17:00-05:00",
-     "price_quoted_at": "2026-11-15T09:00:00-05:00",
+     "checked_at": "2026-11-15T10:24:00-05:00",
+     "price_quoted_at": "2026-11-15T10:00:00-05:00",
      "price_state_verified": false,
-     "availability_checked_at": "2026-11-15T09:17:00-05:00",
+     "availability_checked_at": "2026-11-15T10:24:00-05:00",
      "market": "Moneyline",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261115",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_09_15AM.pdf",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_10_15AM.pdf",
      "weather_status": "Indoor arena; weather not a factor.",
      "team": "San Antonio Spurs",
      "american_odds": -1400,
@@ -104,28 +104,28 @@
      "venue": "Delta Center",
      "start_at": "2026-11-15T17:00:00-05:00",
      "event_key": "espn-nba-401909988",
-     "evidence": "ESPN records: Spurs 11-2 (6-0 road) and have won five straight, including 124-109 at Sacramento, 122-96 at Phoenix and 123-85 over Golden State on Friday. Utah is 1-12 (1-6 home) and has lost five straight. The official 9:15 AM report lists Utah without Lauri Markkanen (hand fracture), Jaren Jackson Jr. (MCL tear), Jusuf Nurkic and Jaxson Hayes. Both teams had Saturday off.",
+     "evidence": "ESPN records: Spurs 11-2 (6-0 road) and have won five straight, including 124-109 at Sacramento, 122-96 at Phoenix and 123-85 over Golden State on Friday. Utah is 1-12 (1-6 home) and has lost five straight. The official 10:15 AM report lists Utah without Lauri Markkanen (hand fracture), Jaren Jackson Jr. (MCL tear), Jusuf Nurkic and Jaxson Hayes. Both teams had Saturday off.",
      "remaining_checks": "Counterevidence and open items: Utah lost only 125-118 at Houston on Friday and 115-109 to Miami, so it has kept some games close. Spurs' Tobias Harris (calf) is OUT. A -1400 price adds very little payout, and Nov 14's -1350 Timberwolves leg lost, so heavy favorites are not locks. Starters not confirmed; Spurs' core participation is only inferred from being off the report. Live PA/MD price not checked.",
-     "lineup_status": "Official 9:15 AM ET NBA report: Spurs: Tobias Harris, Jayden Quaintance OUT; two-way Brown, Gillespie OUT. Jazz: Markkanen, Jackson Jr., Nurkic, Hayes OUT; two-way Alexander, Bufkin, H. Ingram OUT. Starters not confirmed.",
+     "lineup_status": "Official 10:15 AM ET NBA report: Spurs: Tobias Harris, Jayden Quaintance OUT; two-way Brown, Gillespie OUT. Jazz: Markkanen, Jackson Jr., Nurkic, Hayes OUT; two-way Alexander, Bufkin, H. Ingram OUT. Starters not confirmed.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909988",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/scoreboard/_/date/20261113",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_09_15AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_10_15AM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-15T09:17:00-05:00",
-     "price_quoted_at": "2026-11-15T09:00:00-05:00",
+     "checked_at": "2026-11-15T10:24:00-05:00",
+     "price_quoted_at": "2026-11-15T10:00:00-05:00",
      "price_state_verified": false,
-     "availability_checked_at": "2026-11-15T09:17:00-05:00",
+     "availability_checked_at": "2026-11-15T10:24:00-05:00",
      "market": "Moneyline",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261115",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_09_15AM.pdf",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_10_15AM.pdf",
      "weather_status": "Indoor arena; weather not a factor.",
      "team": "Boston Celtics",
-     "american_odds": -800,
+     "american_odds": -820,
      "event": "Dallas Mavericks @ Boston Celtics",
      "start_est": "2026-11-15 6:00 PM EST (AgentBets lists 6:10 PM EST)",
      "venue": "TD Garden",
@@ -133,16 +133,16 @@
      "event_key": "espn-nba-401909989",
      "evidence": "Dallas is on the second night of a back-to-back after losing 127-117 at Cleveland last night, its second straight road loss (133-94 at Minnesota on Thursday). ESPN records: Mavericks 7-6, 2-4 on the road; Celtics 10-2, 5-0 at home, winners of five straight (including 123-101 at Philadelphia and 119-80 at Charlotte). ESPN lists Dallas without Daniel Gafford, Dereck Lively II and Max Christie. Boston's only entries on the 9:15 AM official report are G League/two-way players.",
      "remaining_checks": "Counterevidence and open items: Dallas's official injury report was NOT YET SUBMITTED at 9:15 AM. Boston plays Orlando tomorrow (front end of its own back-to-back), so it could manage minutes. Boston's last win was only 98-93 at Toronto. Starters not confirmed. Live PA/MD price not checked.",
-     "lineup_status": "Official 9:15 AM ET NBA report: Celtics: only two-way/G League players Carter, Cenac Jr., Mitchell, Williams QUESTIONABLE. Mavericks: NOT YET SUBMITTED; ESPN lists Gafford, Lively II, Christie, Biberovic, de Larrea OUT. Starters not confirmed.",
+     "lineup_status": "Official 10:15 AM ET NBA report: Celtics: only two-way/G League players Carter, Cenac Jr., Mitchell, Williams QUESTIONABLE. Mavericks: NOT YET SUBMITTED; ESPN lists Gafford, Lively II, Christie, Biberovic, de Larrea OUT. Starters not confirmed.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909989",
       "https://www.espn.com/nba/scoreboard/_/date/20261114",
       "https://www.espn.com/nba/standings",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_09_15AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_10_15AM.pdf"
      ]
     }
    ],
-   "theoretical_decimal_return": 1.2053571428571428
+   "theoretical_decimal_return": 1.2020905923344947
   }
  ],
  "app_link": "https://sportsbook.fanduel.com/navigation/nfl",
@@ -162,7 +162,7 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-15T09:17:00-05:00",
+ "last_checked_at": "2026-11-15T10:24:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
@@ -240,6 +240,10 @@
   {
    "at": "2026-11-15T09:17:00-05:00",
    "text": "9:17 AM review (Nov 15): both CONDITIONAL cards stand. AgentBets' 9:00 AM EST FanDuel snapshot: BUF -460 / JAX -700 unchanged (1.391x); Spurs moved -1500 to -1400, so Spurs + Celtics is now 1.205x ($12.05 on $10 / $30.13 on $25). 9:15 AM NBA injury report unchanged for SAS/UTA/BOS; Dallas still not submitted. ESPN NFL injury feeds unchanged (Bills OT Spencer Brown doubtful, Jets WR Garrett Wilson questionable); official NFL inactives still due about 11:30 AM."
+  },
+  {
+   "at": "2026-11-15T10:24:00-05:00",
+   "text": "10:24 AM review (Nov 15): both CONDITIONAL cards stand. AgentBets' 10:00 AM EST FanDuel snapshot: Bills moved -460 to -450 (Bills + Jaguars now 1.397x, $13.97 on $10 / $34.92 on $25); Celtics moved -800 to -820 (Spurs + Celtics now 1.202x, $12.02 / $30.05). 10:15 AM NBA injury report identical to 9:15 (Dallas still not submitted). ESPN NFL injury feeds show no new entries since the 9:17 check; official NFL inactives still due about 11:30 AM."
   }
  ]
 }
