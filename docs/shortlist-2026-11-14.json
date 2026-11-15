@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "published_est": "2026-11-14T20:21:00-05:00",
+ "published_est": "2026-11-14T21:17:00-05:00",
  "odds_reported_at_est": "2026-11-14T18:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
@@ -14,7 +14,7 @@
    "title": "Nuggets + Timberwolves",
    "status": "conditional",
    "tier": "Both favorites face tired, losing opponents on the second night of a back-to-back; small payout because both legs are heavy favorites",
-   "status_reason": "STARTED (Nuggets @ Pelicans tipped 7:00 PM ET; Bulls @ Timberwolves tipped 8:00 PM ET); no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, DEN -620 / MIN -1350, 1.247x theoretical ($12.47 on $10 / $31.18 on $25), not a PA/MD-verified live quote or an accepted parlay quote. PENDING: at the 8:21 PM ET review (ESPN) the Nuggets led the Pelicans 56-51 at halftime and the Bulls led the Timberwolves 13-6 with 6:55 left in the 1st. Not graded yet.",
+   "status_reason": "STARTED (Nuggets @ Pelicans tipped 7:00 PM ET; Bulls @ Timberwolves tipped 8:00 PM ET); no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, DEN -620 / MIN -1350, 1.247x theoretical ($12.47 on $10 / $31.18 on $25), not a PA/MD-verified live quote or an accepted parlay quote. PENDING: at the 9:17 PM ET review (ESPN) the Nuggets led the Pelicans 104-93 with 5:01 left in the 4th, but the Bulls led the Timberwolves 58-45 at halftime, so the Timberwolves leg is at real risk. Not graded yet.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -96,7 +96,7 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-14T20:21:00-05:00",
+ "last_checked_at": "2026-11-14T21:17:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
@@ -206,6 +206,10 @@
   {
    "at": "2026-11-14T20:21:00-05:00",
    "text": "8:21 PM review (Nov 14): Nuggets + Timberwolves still pending. ESPN: Nuggets lead Pelicans 56-51 at halftime; Bulls lead Timberwolves 13-6 early in the 1st (6:55 left). All of tonight's NBA games have now tipped, so there is no bettable pregame NBA card left; no new card added."
+  },
+  {
+   "at": "2026-11-14T21:17:00-05:00",
+   "text": "9:17 PM review (Nov 14): Nuggets + Timberwolves still pending. ESPN: Nuggets lead Pelicans 104-93 with 5:01 left in the 4th; Bulls lead Timberwolves 58-45 at halftime, so the -1350 Timberwolves leg is in trouble. No bettable pregame NBA games remain tonight; no new card added."
   }
  ]
 }
