@@ -81,7 +81,7 @@
    "title": "Spurs + Celtics",
    "status": "conditional",
    "tier": "Two heavy NBA favorites; Jazz missing four rotation players, Mavericks on a back-to-back; small payout",
-   "status_reason": "CONDITIONAL: official 4:15 PM NBA report changed both sides: Spurs' De'Aaron Fox downgraded to OUT (left hip tightness), joining Tobias Harris OUT; Dallas' Kyrie Irving downgraded to OUT and Max Christie to OUT (Lively II also OUT, Gafford PROBABLE, Aldama Q). Starters not confirmed. Prices still from AgentBets' FanDuel snapshot of 3:00 PM EST (SA -1200 / BOS -950; the 8:00 PM UTC snapshot was still latest at 4:25 PM), so they predate both downgrades. 1.197x theoretical ($11.97 on $10 / $29.93 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Very short prices add little payout and do not remove upset risk.",
+   "status_reason": "STARTED: Spurs at Jazz tipped ~5:10 PM EST (ESPN at 5:18 PM: Spurs 8, Jazz 8, 8:16 left in 1st); Celtics vs Mavericks tips 6:00 PM EST. No longer a pregame card; pending, not graded. Posted version kept: AgentBets' FanDuel snapshot of 3:00 PM EST, SA -1200 / BOS -950, 1.197x theoretical ($11.97 on $10 / $29.93 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Official 5:15 PM NBA report: Spurs' De'Aaron Fox and Tobias Harris OUT; Mavericks' Kyrie Irving, Max Christie and Dereck Lively II OUT, Daniel Gafford PROBABLE, Santi Aldama QUESTIONABLE; Celtics' two-way players now AVAILABLE. AgentBets' 5:00 PM EST snapshot moved to SA -1100 / BOS -1000 (shown for reference only; posted price unchanged).",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -162,7 +162,7 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-15T16:24:00-05:00",
+ "last_checked_at": "2026-11-15T17:19:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
@@ -276,6 +276,10 @@
   {
    "at": "2026-11-15T16:24:00-05:00",
    "text": "4:24 PM review (Nov 15): Bills + Jaguars GRADED WON from ESPN finals (Bills 31-12 at Jets; Jaguars 40-23 at Titans). Nov 15 1-0 so far; running Nov 9-15 staged record 8-3. Spurs + Celtics stays CONDITIONAL at AgentBets' 3:00 PM EST FanDuel snapshot (SA -1200 / BOS -950, 1.197x; still latest at 4:25 PM). Official 4:15 PM NBA report: Spurs' De'Aaron Fox downgraded to OUT; Mavericks' Kyrie Irving and Max Christie downgraded to OUT. Prices predate those changes."
+  },
+  {
+   "at": "2026-11-15T17:19:00-05:00",
+   "text": "5:19 PM review (Nov 15): Spurs + Celtics STARTED (Spurs at Jazz tipped ~5:10 PM; ESPN 5:18 PM: 8-8, 1st qtr; Celtics vs Mavericks 6:00 PM). Pending at posted 3:00 PM EST prices SA -1200 / BOS -950, 1.197x. Official 5:15 PM NBA report unchanged for these teams except Celtics two-way players now available. No new card: remaining NBA games (HOU at WAS without VanVleet/Smart/Capela, ATL at MIL, OKC at SAC without Holmgren, NY at TOR) stay screened out as in the morning review; Bills + Jaguars WON earlier."
   }
  ]
 }
