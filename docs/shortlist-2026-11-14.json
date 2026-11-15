@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "published_est": "2026-11-14T18:25:00-05:00",
+ "published_est": "2026-11-14T19:19:00-05:00",
  "odds_reported_at_est": "2026-11-14T18:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
@@ -14,7 +14,7 @@
    "title": "Nuggets + Timberwolves",
    "status": "conditional",
    "tier": "Both favorites face tired, losing opponents on the second night of a back-to-back; small payout because both legs are heavy favorites",
-   "status_reason": "CONDITIONAL: Pelicans and Bulls injury reports are submitted (6:15 PM ET report: Pelicans' Missi now available; Bulls' Claxton, Powell, J. Smith still questionable), but starters are unconfirmed. Price is AgentBets' FanDuel snapshot of 6:00 PM EST (DEN -620 / MIN -1350), 1.247x theoretical ($12.47 on $10 / $31.18 on $25), not a PA/MD-verified live quote or an accepted parlay quote. No exact FanDuel selection IDs, so app-only link.",
+   "status_reason": "STARTED at 7:00 PM ET (Nuggets @ Pelicans); no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 6:00 PM EST, DEN -620 / MIN -1350, 1.247x theoretical ($12.47 on $10 / $31.18 on $25), not a PA/MD-verified live quote or an accepted parlay quote. PENDING: at the 7:19 PM ET review the Nuggets led the Pelicans 11-9 early in the 1st quarter (ESPN); Bulls @ Timberwolves tips at 8:00 PM ET. Not graded yet.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -96,7 +96,7 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-14T18:25:00-05:00",
+ "last_checked_at": "2026-11-14T19:19:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
@@ -198,6 +198,10 @@
   {
    "at": "2026-11-14T18:25:00-05:00",
    "text": "Hourly review: card stands. AgentBets 6:00 PM EST FanDuel snapshot moved DEN -670 to -620 and MIN -1100 to -1350 (1.247x, was 1.254x). 6:15 PM NBA injury report: Pelicans' Missi upgraded probable to available, two-way Dia/Reese/Pierre Jr. available; Bulls' Claxton, Powell, J. Smith still questionable; Nuggets and Timberwolves unchanged."
+  },
+  {
+   "at": "2026-11-14T19:19:00-05:00",
+   "text": "7:19 PM review (Nov 14): Nuggets + Timberwolves has STARTED (Nuggets @ Pelicans tipped at 7:00 PM ET; Nuggets led 11-9 early in the 1st per ESPN), so it is now pending, not bettable. Bulls @ Timberwolves tips at 8:00 PM ET. Remaining games (Mavericks @ Cavaliers, Pistons @ Heat, Nets @ Grizzlies) were screened out this morning and nothing changed that; no new card added."
   }
  ]
 }
