@@ -14,7 +14,7 @@
    "title": "Bills + Jaguars",
    "status": "conditional",
    "tier": "Two road favorites with winning records against losing home teams; both 1:00 PM NFL kickoffs, different games",
-   "status_reason": "STARTED at 1:00 PM EST; no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 11:00 AM EST, BUF -460 / JAX -700, 1.391x theoretical ($13.91 on $10 / $34.78 on $25), not a PA/MD-verified live quote or an accepted parlay quote. In progress at 3:25 PM EST (ESPN): Bills lead Jets 24-12 (3rd qtr, 0:20); Jaguars lead Titans 23-13 (3rd qtr, 2:59). Not graded; grade from official finals at a later review.",
+   "status_reason": "STARTED and FINAL; no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 11:00 AM EST, BUF -460 / JAX -700, 1.391x theoretical ($13.91 on $10 / $34.78 on $25), not a PA/MD-verified live quote or an accepted parlay quote. GRADED WON from ESPN finals: Bills 31, Jets 12 (Bills leg won); Jaguars 40, Titans 23 (Jaguars leg won).",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -81,21 +81,21 @@
    "title": "Spurs + Celtics",
    "status": "conditional",
    "tier": "Two heavy NBA favorites; Jazz missing four rotation players, Mavericks on a back-to-back; small payout",
-   "status_reason": "CONDITIONAL: official 3:15 PM NBA report unchanged for SAS/UTA/DAL/BOS since 2:00 PM: Spurs' De'Aaron Fox still QUESTIONABLE (left hip tightness); Dallas: Kyrie Irving QUESTIONABLE, Max Christie DOUBTFUL, Lively II OUT, Gafford PROBABLE. Starters not confirmed. Repriced from AgentBets' FanDuel snapshot of 3:00 PM EST (SA -1200 / BOS -950), 1.197x theoretical ($11.97 on $10 / $29.93 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Very short prices add little payout and do not remove upset risk.",
+   "status_reason": "CONDITIONAL: official 4:15 PM NBA report changed both sides: Spurs' De'Aaron Fox downgraded to OUT (left hip tightness), joining Tobias Harris OUT; Dallas' Kyrie Irving downgraded to OUT and Max Christie to OUT (Lively II also OUT, Gafford PROBABLE, Aldama Q). Starters not confirmed. Prices still from AgentBets' FanDuel snapshot of 3:00 PM EST (SA -1200 / BOS -950; the 8:00 PM UTC snapshot was still latest at 4:25 PM), so they predate both downgrades. 1.197x theoretical ($11.97 on $10 / $29.93 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Very short prices add little payout and do not remove upset risk.",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-15T15:26:00-05:00",
+     "checked_at": "2026-11-15T16:24:00-05:00",
      "price_quoted_at": "2026-11-15T15:00:00-05:00",
      "price_state_verified": false,
-     "availability_checked_at": "2026-11-15T15:26:00-05:00",
+     "availability_checked_at": "2026-11-15T16:24:00-05:00",
      "market": "Moneyline",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261115",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_03_15PM.pdf",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_04_15PM.pdf",
      "weather_status": "Indoor arena; weather not a factor.",
      "team": "San Antonio Spurs",
      "american_odds": -1200,
@@ -104,25 +104,25 @@
      "venue": "Delta Center",
      "start_at": "2026-11-15T17:00:00-05:00",
      "event_key": "espn-nba-401909988",
-     "evidence": "ESPN records: Spurs 11-2 (6-0 road) and have won five straight, including 124-109 at Sacramento, 122-96 at Phoenix and 123-85 over Golden State on Friday. Utah is 1-12 (1-6 home) and has lost five straight. The official 3:15 PM report lists Utah without Lauri Markkanen (hand fracture), Jaren Jackson Jr. (MCL tear), Jusuf Nurkic and Jaxson Hayes. Both teams had Saturday off.",
-     "remaining_checks": "Counterevidence and open items: Utah lost only 125-118 at Houston on Friday and 115-109 to Miami, so it has kept some games close. Spurs' Tobias Harris (calf) is OUT and De'Aaron Fox was added QUESTIONABLE (left hip tightness) at 1:15 PM; his status is unresolved. A -1200 price adds very little payout, and Nov 14's -1350 Timberwolves leg lost, so heavy favorites are not locks. Starters not confirmed; Spurs' core participation is only inferred from being off the report. Live PA/MD price not checked.",
-     "lineup_status": "Official 3:15 PM ET NBA report: Spurs: De'Aaron Fox QUESTIONABLE (left hip tightness; added at 1:15 PM, still questionable at 3:15 PM); Tobias Harris, Jayden Quaintance OUT; two-way Brown, Gillespie OUT. Jazz: Markkanen, Jackson Jr., Nurkic, Hayes OUT; two-way Alexander, Bufkin, H. Ingram OUT. Starters not confirmed.",
+     "evidence": "ESPN records: Spurs 11-2 (6-0 road) and have won five straight, including 124-109 at Sacramento, 122-96 at Phoenix and 123-85 over Golden State on Friday. Utah is 1-12 (1-6 home) and has lost five straight. The official 4:15 PM report lists Utah without Lauri Markkanen (hand fracture), Jaren Jackson Jr. (MCL tear), Jusuf Nurkic and Jaxson Hayes. Both teams had Saturday off.",
+     "remaining_checks": "Counterevidence and open items: De'Aaron Fox is now OUT (left hip tightness, 4:15 PM report) along with Tobias Harris (calf), so San Antonio is without two starters-level players; the -1200 price predates Fox's downgrade. Utah lost only 125-118 at Houston on Friday and 115-109 to Miami, so it has kept some games close. Nov 14's -1350 Timberwolves leg lost, so heavy favorites are not locks. Starters not confirmed; other Spurs participation is only inferred from being off the report. Live PA/MD price not checked.",
+     "lineup_status": "Official 4:15 PM ET NBA report: Spurs: De'Aaron Fox OUT (left hip tightness; questionable at 1:15-3:15 PM, now out); Tobias Harris, Jayden Quaintance OUT; two-way Brown, Gillespie OUT. Jazz: Markkanen, Jackson Jr., Nurkic, Hayes OUT; two-way Alexander, Bufkin, H. Ingram OUT. Starters not confirmed.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909988",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/scoreboard/_/date/20261113",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_03_15PM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_04_15PM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-15T15:26:00-05:00",
+     "checked_at": "2026-11-15T16:24:00-05:00",
      "price_quoted_at": "2026-11-15T15:00:00-05:00",
      "price_state_verified": false,
-     "availability_checked_at": "2026-11-15T15:26:00-05:00",
+     "availability_checked_at": "2026-11-15T16:24:00-05:00",
      "market": "Moneyline",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261115",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_03_15PM.pdf",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_04_15PM.pdf",
      "weather_status": "Indoor arena; weather not a factor.",
      "team": "Boston Celtics",
      "american_odds": -950,
@@ -131,14 +131,14 @@
      "venue": "TD Garden",
      "start_at": "2026-11-15T18:00:00-05:00",
      "event_key": "espn-nba-401909989",
-     "evidence": "Dallas is on the second night of a back-to-back after losing 127-117 at Cleveland last night, its second straight road loss (133-94 at Minnesota on Thursday). ESPN records: Mavericks 7-6, 2-4 on the road; Celtics 10-2, 5-0 at home, winners of five straight (including 123-101 at Philadelphia and 119-80 at Charlotte). The official 3:15 PM report has Dallas without Dereck Lively II (OUT), Max Christie DOUBTFUL and Kyrie Irving QUESTIONABLE. Boston's only entries on the 3:15 PM official report are G League/two-way players.",
-     "remaining_checks": "Counterevidence and open items: Daniel Gafford is now PROBABLE (ESPN earlier listed him out), and Kyrie Irving is only questionable, not ruled out. Boston plays Orlando tomorrow (front end of its own back-to-back), so it could manage minutes. Boston's last win was only 98-93 at Toronto. Starters not confirmed. Live PA/MD price not checked.",
-     "lineup_status": "Official 3:15 PM ET NBA report: Mavericks: Kyrie Irving QUESTIONABLE (left knee injury management), Santi Aldama QUESTIONABLE (ankle), Max Christie DOUBTFUL (ankle), Dereck Lively II, Tarik Biberovic, Sergio de Larrea OUT, Daniel Gafford PROBABLE (shoulder), Caleb Martin AVAILABLE. Celtics: only two-way/G League players listed (Carter, Cenac Jr., Mitchell, A. Williams QUESTIONABLE). Starters not confirmed.",
+     "evidence": "Dallas is on the second night of a back-to-back after losing 127-117 at Cleveland last night, its second straight road loss (133-94 at Minnesota on Thursday). ESPN records: Mavericks 7-6, 2-4 on the road; Celtics 10-2, 5-0 at home, winners of five straight (including 123-101 at Philadelphia and 119-80 at Charlotte). The official 4:15 PM report has Dallas without Dereck Lively II (OUT), Max Christie OUT and Kyrie Irving OUT (both downgraded at 4:15 PM). Boston's only entries on the 4:15 PM official report are G League/two-way players.",
+     "remaining_checks": "Counterevidence and open items: Daniel Gafford is PROBABLE and Santi Aldama questionable. Boston plays Orlando tomorrow (front end of its own back-to-back), so it could manage minutes. Boston's last win was only 98-93 at Toronto. The -950 price predates Irving's downgrade to OUT. Starters not confirmed. Live PA/MD price not checked.",
+     "lineup_status": "Official 4:15 PM ET NBA report: Mavericks: Kyrie Irving OUT (left knee injury management; was questionable), Max Christie OUT (ankle; was doubtful), Santi Aldama QUESTIONABLE (ankle), Dereck Lively II, Tarik Biberovic, Sergio de Larrea OUT, Daniel Gafford PROBABLE (shoulder), Caleb Martin AVAILABLE. Celtics: only two-way/G League players listed (Carter, Cenac Jr., Mitchell, A. Williams QUESTIONABLE). Starters not confirmed.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909989",
       "https://www.espn.com/nba/scoreboard/_/date/20261114",
       "https://www.espn.com/nba/standings",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_03_15PM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_04_15PM.pdf"
      ]
     }
    ],
@@ -162,13 +162,21 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-15T15:26:00-05:00",
+ "last_checked_at": "2026-11-15T16:24:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
  },
  "research_scope": "8:25 AM EST morning review for Sunday, Nov 15 (12 NFL games incl. 9:30 AM Patriots at Lions in Munich; 9 NBA games, first tip 1:00 PM). Two CONDITIONAL cards staged from AgentBets' 8:00 AM EST FanDuel NFL and NBA snapshots, ESPN injury feeds and the official 8:15 AM NBA injury report. Live PA/MD quotes and exact selection IDs not verified.",
  "research_holds": [
+  {
+   "title": "Nov 15 staged card graded from official finals",
+   "reason": "Bills + Jaguars (posted 11:00 AM EST prices BUF -460 / JAX -700, 1.391x) WON: Bills 31, Jets 12; Jaguars 40, Titans 23 (ESPN finals). Nov 15 staged record so far: 1 win, 0 losses, with Spurs + Celtics still pending. Running two-leg staged record Nov 9-15: 8 wins, 3 losses. These are staged research cards, not recorded wagers. Lesson: both road favorites with winning records against losing home teams pulled away in the second half after close first halves (JAX led 13-10 and BUF 10-3 late in the 2nd quarter), so early closeness alone was not a reason to abandon them.",
+   "sources": [
+    "https://www.espn.com/nfl/scoreboard/_/week/11",
+    "https://www.espn.com/nfl/game/_/gameId/401873054"
+   ]
+  },
   {
    "title": "Nov 14 staged card graded from official finals",
    "reason": "Nuggets + Timberwolves (posted 6:00 PM EST prices DEN -620 / MIN -1350, 1.247x) LOST: Nuggets 116, Pelicans 108 (won); Bulls 117, Timberwolves 106 (lost). Nov 14 staged record: 0 wins, 1 loss. Running two-leg staged record Nov 9-14: 7 wins, 3 losses. These are staged research cards, not recorded wagers. Lesson: a -1350 home favorite against a tired opponent on the second night of a back-to-back still lost by 11; Chicago led from early on. Very short prices add little payout and do not remove upset risk, so a single heavy-favorite leg is not a lock.",
@@ -264,6 +272,10 @@
   {
    "at": "2026-11-15T15:26:00-05:00",
    "text": "3:26 PM review (Nov 15): both cards stand. Bills + Jaguars in progress at posted 1.391x; ESPN at 3:25 PM: Bills 24, Jets 12 (end of 3rd); Jaguars 23, Titans 13 (3rd qtr, 2:59). Spurs + Celtics stays CONDITIONAL, repriced from AgentBets' FanDuel NBA snapshot of 3:00 PM EST: SA -1350 to -1200, BOS -800 to -950 (1.197x, $11.97 on $10 / $29.93 on $25). Official 3:15 PM NBA report unchanged for SAS/UTA/DAL/BOS (Fox still Q, Irving Q)."
+  },
+  {
+   "at": "2026-11-15T16:24:00-05:00",
+   "text": "4:24 PM review (Nov 15): Bills + Jaguars GRADED WON from ESPN finals (Bills 31-12 at Jets; Jaguars 40-23 at Titans). Nov 15 1-0 so far; running Nov 9-15 staged record 8-3. Spurs + Celtics stays CONDITIONAL at AgentBets' 3:00 PM EST FanDuel snapshot (SA -1200 / BOS -950, 1.197x; still latest at 4:25 PM). Official 4:15 PM NBA report: Spurs' De'Aaron Fox downgraded to OUT; Mavericks' Kyrie Irving and Max Christie downgraded to OUT. Prices predate those changes."
   }
  ]
 }
