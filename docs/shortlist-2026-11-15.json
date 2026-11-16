@@ -81,7 +81,7 @@
    "title": "Spurs + Celtics",
    "status": "conditional",
    "tier": "Two heavy NBA favorites; Jazz missing four rotation players, Mavericks on a back-to-back; small payout",
-   "status_reason": "STARTED: Spurs at Jazz tipped ~5:10 PM EST and is FINAL: Spurs 110, Jazz 102 (Spurs leg WON). Celtics vs Mavericks tipped 6:00 PM EST (ESPN at 7:22 PM: Celtics 83, Mavericks 51, 7:27 left in 3rd). No longer a pregame card; pending on the Celtics leg, not graded. Posted version kept: AgentBets' FanDuel snapshot of 3:00 PM EST, SA -1200 / BOS -950, 1.197x theoretical ($11.97 on $10 / $29.93 on $25), not a PA/MD-verified live quote or an accepted parlay quote. Official 5:15 PM NBA report: Spurs' De'Aaron Fox and Tobias Harris OUT; Mavericks' Kyrie Irving, Max Christie and Dereck Lively II OUT, Daniel Gafford PROBABLE, Santi Aldama QUESTIONABLE; Celtics' two-way players now AVAILABLE. AgentBets' 5:00 PM EST snapshot moved to SA -1100 / BOS -1000 (shown for reference only; posted price unchanged).",
+   "status_reason": "STARTED and FINAL; no longer a pregame card. Posted version kept: AgentBets' FanDuel snapshot of 3:00 PM EST, SA -1200 / BOS -950, 1.197x theoretical ($11.97 on $10 / $29.93 on $25), not a PA/MD-verified live quote or an accepted parlay quote. GRADED WON from ESPN finals: Spurs 110, Jazz 102 (Spurs leg won, without Fox and Harris); Celtics 131, Mavericks 94 (Celtics leg won, Mavericks without Irving, Christie and Lively II).",
    "availability_confirmed": false,
    "price_live_verified": false,
    "link_live_verified": false,
@@ -162,7 +162,7 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-15T19:22:00-05:00",
+ "last_checked_at": "2026-11-15T20:17:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
@@ -170,11 +170,13 @@
  "research_scope": "8:25 AM EST morning review for Sunday, Nov 15 (12 NFL games incl. 9:30 AM Patriots at Lions in Munich; 9 NBA games, first tip 1:00 PM). Two CONDITIONAL cards staged from AgentBets' 8:00 AM EST FanDuel NFL and NBA snapshots, ESPN injury feeds and the official 8:15 AM NBA injury report. Live PA/MD quotes and exact selection IDs not verified.",
  "research_holds": [
   {
-   "title": "Nov 15 staged card graded from official finals",
-   "reason": "Bills + Jaguars (posted 11:00 AM EST prices BUF -460 / JAX -700, 1.391x) WON: Bills 31, Jets 12; Jaguars 40, Titans 23 (ESPN finals). Nov 15 staged record so far: 1 win, 0 losses, with Spurs + Celtics still pending. Running two-leg staged record Nov 9-15: 8 wins, 3 losses. These are staged research cards, not recorded wagers. Lesson: both road favorites with winning records against losing home teams pulled away in the second half after close first halves (JAX led 13-10 and BUF 10-3 late in the 2nd quarter), so early closeness alone was not a reason to abandon them.",
+   "title": "Nov 15 staged cards graded from official finals",
+   "reason": "Bills + Jaguars (posted 11:00 AM EST prices BUF -460 / JAX -700, 1.391x) WON: Bills 31, Jets 12; Jaguars 40, Titans 23 (ESPN finals). Spurs + Celtics (posted 3:00 PM EST prices SA -1200 / BOS -950, 1.197x) WON: Spurs 110, Jazz 102; Celtics 131, Mavericks 94 (ESPN finals). Nov 15 staged record: 2 wins, 0 losses. Running two-leg staged record Nov 9-15: 9 wins, 3 losses. These are staged research cards, not recorded wagers. Lessons: both road favorites with winning records against losing home teams pulled away in the second half after close first halves (JAX led 13-10 and BUF 10-3 late in the 2nd quarter); the Spurs won by only 8 without Fox and Harris (58-55 at halftime) against a depleted 1-12 Jazz, so a late starter downgrade on the favorite narrowed the margin even when the opponent was missing more; Boston at home vs a back-to-back Dallas missing Irving was never close.",
    "sources": [
     "https://www.espn.com/nfl/scoreboard/_/week/11",
-    "https://www.espn.com/nfl/game/_/gameId/401873054"
+    "https://www.espn.com/nfl/game/_/gameId/401873054",
+    "https://www.espn.com/nba/game/_/gameId/401909988",
+    "https://www.espn.com/nba/game/_/gameId/401909989"
    ]
   },
   {
@@ -288,6 +290,10 @@
   {
    "at": "2026-11-15T19:22:00-05:00",
    "text": "7:22 PM review (Nov 15): Spurs leg WON (ESPN final: Spurs 110, Jazz 102). Spurs + Celtics still pending on the Celtics leg at posted 3:00 PM EST prices SA -1200 / BOS -950, 1.197x (ESPN 7:22 PM: Celtics lead Mavericks 83-51, 7:27 left in 3rd). No new card: remaining NBA games (HOU at WAS in progress, ATL at MIL 8 PM, OKC at SAC 9 PM) stay screened out as in the morning review."
+  },
+  {
+   "at": "2026-11-15T20:17:00-05:00",
+   "text": "8:17 PM review (Nov 15): Spurs + Celtics GRADED WON at posted 3:00 PM EST prices SA -1200 / BOS -950, 1.197x (ESPN finals: Spurs 110, Jazz 102; Celtics 131, Mavericks 94). Nov 15 staged record 2-0; running Nov 9-15 two-leg record 9-3. No new card: the only untipped NBA game (OKC at SAC 9 PM) stays screened out as in the morning review; HOU at WAS and ATL at MIL already in progress."
   }
  ]
 }
