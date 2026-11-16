@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "published_est": "2026-11-16T09:25:00-05:00",
+ "published_est": "2026-11-16T10:22:00-05:00",
  "odds_reported_at_est": "2026-11-16T09:00:00-05:00",
  "odds_source": "https://agentbets.ai/odds/fanduel/nba/",
  "pa_md_prices_verified": false,
@@ -21,14 +21,14 @@
    "link_mode": "app_only_no_exact_ids",
    "legs": [
     {
-     "checked_at": "2026-11-16T09:25:00-05:00",
+     "checked_at": "2026-11-16T10:22:00-05:00",
      "price_quoted_at": "2026-11-16T09:00:00-05:00",
      "price_state_verified": false,
-     "availability_checked_at": "2026-11-16T09:25:00-05:00",
+     "availability_checked_at": "2026-11-16T10:22:00-05:00",
      "market": "Moneyline",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261116",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_09_15AM.pdf",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_10_15AM.pdf",
      "weather_status": "Indoor arena; weather not a factor.",
      "team": "Boston Celtics",
      "american_odds": -340,
@@ -39,24 +39,24 @@
      "event_key": "espn-nba-401909994",
      "evidence": "ESPN standings: Celtics 11-2, 6-0 at home, six straight wins, +13.1 average point differential (best of the teams playing tonight); last night beat Dallas 131-94. Magic 5-7, 1-4 on the road, -4.5 differential. The official 8:15 AM NBA report has Orlando without Paolo Banchero (right high ankle sprain), Jonathan Isaac, Noah Penda and Izaiyah Nelson (all OUT).",
      "remaining_checks": "Counterevidence and open items: Boston is on the second night of a back-to-back (played Dallas at 6 PM last night), so it could rest or limit starters, and Boston's injury report was NOT YET SUBMITTED at 8:15 AM. Orlando has won three straight (at SAC 107-100, at UTA 123-108, vs MIL 107-99). The Nov 14 lesson applies: a heavy home favorite against a weaker opponent still lost. Starters not confirmed. Live PA/MD price not checked.",
-     "lineup_status": "Official 9:15 AM ET NBA report (unchanged from 8:15 AM for this game): Magic: Paolo Banchero, Jonathan Isaac, Izaiyah Nelson, Noah Penda OUT. Celtics: NOT YET SUBMITTED. Starters not confirmed.",
+     "lineup_status": "Official 10:15 AM ET NBA report (unchanged from 8:15 and 9:15 AM for this game): Magic: Paolo Banchero, Jonathan Isaac, Izaiyah Nelson, Noah Penda OUT. Celtics: NOT YET SUBMITTED. Starters not confirmed.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401909994",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/team/schedule/_/name/orl",
       "https://www.espn.com/nba/game/_/gameId/401909989",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_09_15AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_10_15AM.pdf"
      ]
     },
     {
-     "checked_at": "2026-11-16T09:25:00-05:00",
+     "checked_at": "2026-11-16T10:22:00-05:00",
      "price_quoted_at": "2026-11-16T09:00:00-05:00",
      "price_state_verified": false,
-     "availability_checked_at": "2026-11-16T09:25:00-05:00",
+     "availability_checked_at": "2026-11-16T10:22:00-05:00",
      "market": "Moneyline",
      "price_source": "https://agentbets.ai/odds/fanduel/nba/",
      "schedule_source": "https://www.espn.com/nba/schedule/_/date/20261116",
-     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_09_15AM.pdf",
+     "availability_source": "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_10_15AM.pdf",
      "weather_status": "Indoor arena; weather not a factor.",
      "team": "Denver Nuggets",
      "american_odds": -375,
@@ -67,14 +67,14 @@
      "event_key": "espn-nba-401910001",
      "evidence": "Phoenix is on the second night of a back-to-back after losing 131-123 at home to the Lakers yesterday, and now plays at altitude. ESPN standings: Suns 5-7, 0-3 on the road, -4.6 differential; Nuggets 7-4, won their last two road games (116-108 at New Orleans, 123-118 at Memphis), rested since Saturday. Denver's only listed injury on the 8:15 AM report is Julian Strawther (OUT, knee) plus G League/two-way players.",
      "remaining_checks": "Counterevidence and open items: Denver is only 2-2 at home with a modest +1.8 differential, and lost at home to Portland 118-110. Phoenix's injury report was NOT YET SUBMITTED at 8:15 AM. Phoenix won 4 of 6 before last night, including 102-99 over Houston. Starters not confirmed; Denver's starters are only inferred available from being off the report. FanDuel's Denver price drifted from -460 (8:00 AM EST) to -375 (9:00 AM EST) without a listed injury change, so the market rates Denver somewhat less strongly than at the morning review. Live PA/MD price not checked.",
-     "lineup_status": "Official 9:15 AM ET NBA report (unchanged from 8:15 AM): Nuggets: Julian Strawther OUT (left knee sprain); DaRon Holmes II, Ryan Nembhard, Cam Whitmore OUT (G League/two-way); Nikola Jokic and Jamal Murray not listed. Suns: NOT YET SUBMITTED; third-party projections (BALLDONTLIE via StatiqSports, 6:30 AM ET) expect Devin Booker to start and list Mark Williams OUT. Starters not confirmed.",
+     "lineup_status": "Official 10:15 AM ET NBA report (unchanged from 8:15 and 9:15 AM): Nuggets: Julian Strawther OUT (left knee sprain); DaRon Holmes II, Ryan Nembhard, Cam Whitmore OUT (G League/two-way); Nikola Jokic and Jamal Murray not listed. Suns: NOT YET SUBMITTED; third-party projections (BALLDONTLIE via StatiqSports, 6:30 AM ET) expect Devin Booker to start and list Mark Williams OUT. Starters not confirmed.",
      "sources": [
       "https://www.espn.com/nba/game/_/gameId/401910001",
       "https://www.espn.com/nba/standings",
       "https://www.espn.com/nba/team/schedule/_/name/den",
       "https://www.espn.com/nba/team/schedule/_/name/phx",
       "https://www.statiqsports.com/nba/devin-booker/injury",
-      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_09_15AM.pdf"
+      "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_10_15AM.pdf"
      ]
     }
    ],
@@ -98,7 +98,7 @@
  "betslip_format_reference": "https://the-odds-api.com/releases/deep-links.html",
  "betslip_links_updated_est": "2026-11-08T07:16:40-05:00",
  "schema_version": 2,
- "last_checked_at": "2026-11-16T09:25:00-05:00",
+ "last_checked_at": "2026-11-16T10:22:00-05:00",
  "policies": {
   "max_price_age_minutes": 120,
   "max_review_age_minutes": 75
@@ -186,6 +186,10 @@
   {
    "at": "2026-11-16T09:25:00-05:00",
    "text": "Hourly review 9:25 AM: Celtics + Nuggets stands, repriced from AgentBets' 9:00 AM EST FanDuel snapshot: BOS -340 (was -370), DEN -375 (was -460); now 1.639x ($16.39 on $10 / $40.98 on $25). 9:15 AM NBA injury report unchanged for these teams; Boston and Phoenix still not submitted."
+  },
+  {
+   "at": "2026-11-16T10:22:00-05:00",
+   "text": "Hourly review 10:22 AM: Celtics + Nuggets stands unchanged at AgentBets' 9:00 AM EST FanDuel snapshot (still the latest at 10:22 AM): BOS -340 / DEN -375, 1.639x ($16.39 on $10 / $40.98 on $25). 10:15 AM NBA injury report identical to 9:15 AM; Boston and Phoenix still not submitted."
   }
  ]
 }
